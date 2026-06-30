@@ -1,0 +1,176 @@
+site_name: The Anunnaki Archive
+site_description: "A comprehensive digital library of Zecharia Sitchin's Earth Chronicles — the Anunnaki, Nibiru, and ancient astronaut theory"
+site_url: https://anunnaki-archive.com
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - header.autohide
+    - announce.dismiss
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@anunnakiarchive
+    - icon: fontawesome/brands/github
+      link: https://github.com/michalplacek/anunnaki-archive
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/membership.js
+
+nav:
+  - Home: index.md
+  - 📍 Places: 
+    - places/index.md
+    - Baalbek: places/Baalbek.md
+    - Giza: places/Gíza.md
+    - Sinai: places/Sinaj.md
+    - Tilmun: places/Tilmun.md
+    - Stonehenge: places/Stonehenge.md
+    - Eridu: places/Eridu.md
+    - Nippur: places/Nippur.md
+    - Babylon: places/Babylon.md
+    - Jerusalem: places/Jeruzalém.md
+    - Ur: places/Ur.md
+    - Uruk: places/Uruk.md
+    - Tiwanaku: places/Tiwanaku.md
+    - Ararat: places/Ararat.md
+  - 👤 Characters:
+    - characters/index.md
+    - Anu: characters/Anu.md
+    - Enlil: characters/Enlil.md
+    - Enki: characters/Enki.md
+    - Inanna: characters/Inanna.md
+    - Marduk: characters/Marduk.md
+    - Ninmah: characters/Ninmah.md
+    - Gilgamesh: characters/Gilgameš.md
+    - Etana: characters/Etana.md
+    - Nibiru: characters/Nibiru.md
+    - Utu: characters/Utu.md
+    - Nergal: characters/Nergal.md
+  - 💡 Themes:
+    - themes/index.md
+    - Genetic Engineering: themes/Genetické-inženýrství.md
+    - Calendar: themes/Kalendář.md
+    - Precession: themes/Precese.md
+    - Spaceports: themes/Kosmodromy.md
+    - Pyramids: themes/Pyramidy.md
+    - Nuclear Weapons: themes/Jaderné-zbraně.md
+    - Sacred Numbers: themes/Posvátná-čísla.md
+  - 🔗 Concepts:
+    - concepts/index.md
+    - DUR.AN.KI: concepts/DUR.AN.KI.md
+    - Sinai Spaceport: concepts/Sinaj-kosmodrom.md
+    - SHEM: concepts/SHEM.md
+    - Adamu: concepts/Adamu.md
+    - Adapa: concepts/Adapa.md
+    - The Deluge: concepts/Potopa.md
+    - Tower of Babel: concepts/Věž-Babylon.md
+    - Igigi: concepts/Igigi.md
+    - ME: concepts/ME.md
+    - Šar: concepts/Šar.md
+    - NÉRU: concepts/NÉRU.md
+    - Tablet of Destinies: concepts/Tabulka-osudů.md
+  - ⏳ Timeline: timeline/index.md
+  - 📚 Sources:
+    - sources/index.md
+    - 12th Planet: sources/Dvanáctá-planeta.md
+    - Stairway to Heaven: sources/Schody-do-nebes.md
+    - When Time Began: sources/Kdy-začal-čas.md
+    - Enuma Elish: sources/Enuma-Elíš.md
+    - Atra-Hasis: sources/Atra-Hasis.md
+    - Bible - Genesis: sources/Bible-Genesis.md
+  - 🌍 Religions:
+    - religions/index.md
+    - Sumer: religions/Sumer.md
+    - Egypt: religions/Egypt.md
+    - Greece: religions/Řecko.md
+    - India: religions/Indie.md
+    - Old Testament: religions/Starý-zákon.md
+    - New Testament: religions/Nový-zákon.md
+  - 🔬 Modern Science:
+    - modern-science/index.md
+    - Paleogenetics: modern-science/Paleogenetika.md
+    - Planet Nine: modern-science/Planet-Nine.md
+    - Panspermia: modern-science/Panspermie.md
+    - Megalithic Archaeology: modern-science/Megalitická-archeologie.md
+    - Archaeoastronomy: modern-science/Archeoastronomie-Gízy.md
+    - Neanderthals & Denisovans: modern-science/Neandertálci-Denisovani.md
+  - ⚠️ Criticism:
+    - criticism/index.md
+    - Mainstream Assyriology: criticism/Mainstream-asyriologie.md
+    - Pseudohistory: criticism/Pseudohistorie.md
+    - Nibiru Critique: criticism/Nibiru-kritika.md
+    - Michael Heiser: criticism/Heiser.md
+  - 👥 Followers:
+    - followers/index.md
+    - Erich von Däniken: followers/Daniken.md
+    - Graham Hancock: followers/Hancock.md
+    - Mauro Biglino: followers/Biglino.md
+    - History Channel: followers/History-Channel.md
+  - 💎 Premium Membership: premium.md
+  - 🗺️ Roadmap: roadmap.md
+
+copyright: Copyright &copy; 2026 Michal Plaček — The Anunnaki Archive

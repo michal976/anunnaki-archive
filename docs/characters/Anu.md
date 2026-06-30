@@ -1,0 +1,57 @@
+---
+tags: [anunnaki, postava, anu, king, nibiru, english]
+---
+
+# Anu
+
+**Anu** (Sumerian: *An*; Akkadian: *Anu* — "Heaven") was the supreme ruler of [[Nibiru]] and the patriarch of the [[Anunnaki]]. In the Sumerian pantheon, An was the sky god — the oldest and most powerful of all deities. In Zecharia Sitchin's narrative, Anu was the king of the twelfth planet, the ultimate authority over the Anunnaki expedition to Earth.
+
+## Role in the Anunnaki Hierarchy
+
+Anu was the father of [[Enki]] and [[Enlil]], and the grandfather of [[Marduk]], [[Inanna]], [[Nannar]], [[Utu]], and many others. He ruled from Nibiru and visited Earth only on rare ceremonial occasions.
+
+| Attribute | Detail |
+|-----------|--------|
+| Domain | [[Nibiru]] (the twelfth planet) |
+| Title | King of the Gods, King of Heaven |
+| Symbols | Horned cap, the royal tiara, the number 60 |
+| Sacred Number | 60 (the highest in the sexagesimal system) |
+| Consort | [[Antum]] (Ki/Uras) |
+| Children | [[Enki]], [[Enlil]], [[Ereshkigal]] (by some accounts) |
+
+## Visits to Earth
+
+According to Sitchin, Anu visited Earth on at least two significant occasions:
+
+1. **The First Arrival** — Anu led or authorized the initial Anunnaki expedition to Earth approximately 450,000 years ago
+2. **The Post-Deluge Visit** — After the Great Flood, Anu visited Earth to confirm the new arrangements and to formally divide the lands among his descendants
+3. **The Inanna Incident** — Anu was called upon to mediate the dispute between [[Inanna]] and [[Ereshkigal]], and possibly authorized Inanna's descent to the underworld
+
+## Anu in Sumerian Texts
+
+Anu appears in many Sumerian and Akkadian texts as a somewhat distant figure — the ultimate authority who rarely intervenes directly. In the [[Enuma-Elíš]], Anu is the son of [[Anshar]] and [[Kishar]] ([[Saturn]] and [[Jupiter]] in Sitchin's reading) and the father of [[Ea]] ([[Enki]]).
+
+> *"The great Anu, the king of the gods, dwells in the highest heaven — the planet Nibiru — and from his celestial throne he rules over all."*
+
+## The Symbol of Anu
+
+Sitchin noted that Anu's symbol — the horned cap or tiara — was the sign of supreme authority in Mesopotamian art. The number 60, his sacred number, was the base of the Sumerian sexagesimal system and represented perfection or completeness.
+
+## Anu's Name
+
+The Sumerian *AN* means "heaven" or "sky." The name *Anunnaki* itself means "those who from heaven came" — linking the entire class of beings to Anu's celestial domain.
+
+## See Also
+
+- [[Nibiru]] — The planet Anu rules
+- [[Enki]] — Anu's firstborn son
+- [[Enlil]] — Anu's second son
+- [[Ereshkigal]] — Anu's daughter
+- [[Inanna]] — Anu's granddaughter
+- [[Enuma-Elíš]] — The creation epic featuring Anu
+
+## Sources
+
+- Sitchin, Z. (1976). *The 12th Planet*. Chapters 4-6.
+- Sitchin, Z. (1985). *The Wars of Gods and Men*.
+- Kramer, S. N. (1961). *Sumerian Mythology*. University of Pennsylvania Press.

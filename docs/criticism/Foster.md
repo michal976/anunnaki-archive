@@ -4,7 +4,7 @@ tags: [kritika, foster, assyriology, english]
 
 # Benjamin Foster — Translation Critique
 
-[[Benjamin Foster]] is a prominent Assyriologist and translator of Mesopotamian literature. He has criticized Sitchin's approach to translation.
+Benjamin Foster is a prominent Assyriologist and translator of Mesopotamian literature. He has criticized Sitchin's approach to translation.
 
 ## Key Points
 
@@ -15,6 +15,6 @@ tags: [kritika, foster, assyriology, english]
 
 ## See Also
 
-- [[Překlady-spory]] — Translation disputes
-- [[SHEM]] — The rocketship concept
-- [[Mainstream-asyriologie]] — Academic criticism
+- [Translation Disputes](translation-disputes.md) — Translation disputes
+- [SHEM](../concepts/SHEM.md) — The rocketship concept
+- [Mainstream Assyriology](mainstream-assyriology.md) — Academic criticism

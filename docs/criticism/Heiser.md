@@ -4,7 +4,7 @@ tags: [kritika, heiser, biblical, theology, english]
 
 # Michael Heiser — Theological Critique
 
-Dr. [[Michael Heiser]] (1963–2023) was a biblical scholar and the most influential theological critic of Zecharia Sitchin's work. He held a PhD in Hebrew Bible and Semitic Languages and was a specialist in the divine council worldview of the Old Testament.
+Dr. Michael Heiser (1963–2023) was a biblical scholar and the most influential theological critic of Zecharia Sitchin's work. He held a PhD in Hebrew Bible and Semitic Languages and was a specialist in the divine council worldview of the Old Testament.
 
 ## Heiser's Key Criticisms
 
@@ -16,7 +16,7 @@ Dr. [[Michael Heiser]] (1963–2023) was a biblical scholar and the most influen
 
 ## See Also
 
-- [[Anunnaki-vs-Nefilim]] — The distinction
-- [[Starý-zákon]] — The Old Testament
-- [[Mainstream-asyriologie]] — Academic criticism
-- [[Překlady-spory]] — Translation disputes
+- [Anunnaki Vs Nefilim](../concepts/Anunnaki-vs-Nefilim.md) — The distinction
+- [Old Testament](../religions/old-testament.md) — The Old Testament
+- [Mainstream Assyriology](mainstream-assyriology.md) — Academic criticism
+- [Translation Disputes](translation-disputes.md) — Translation disputes

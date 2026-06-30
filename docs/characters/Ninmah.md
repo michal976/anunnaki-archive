@@ -4,14 +4,14 @@ tags: [anunnaki, postava, ninmah, nintur, mother-goddess, creation, english]
 
 # Ninmah
 
-**Ninmah** (Sumerian: *Ninmah*, "Great Lady"; also known as *Nintur*, *Ninhursag*, *Ki*, *Mami*, *Mammi*, *Aruru*, *Belit-ili* — "the Lady of the Gods") was the [[Anunnaki]] mother goddess who assisted [[Enki]] in the genetic engineering of humanity. In Zecharia Sitchin's narrative, Ninmah was the chief geneticist who performed the actual laboratory work of creating [[Adamu|Homo sapiens]].
+**Ninmah** (Sumerian: *Ninmah*, "Great Lady"; also known as *Nintur*, *Ninhursag*, *Ki*, *Mami*, *Mammi*, *Aruru*, *Belit-ili* — "the Lady of the Gods") was the Anunnaki mother goddess who assisted [Enki](Enki.md) in the genetic engineering of humanity. In Zecharia Sitchin's narrative, Ninmah was the chief geneticist who performed the actual laboratory work of creating [Homo sapiens](../concepts/Adamu.md).
 
 ## Role in the Anunnaki Hierarchy
 
 | Attribute | Detail |
 |-----------|--------|
-| Father | [[Anu]] (or possibly [[Enlil]]) |
-| Siblings | [[Enki]], [[Enlil]] (in some accounts) |
+| Father | [Anu](Anu.md) (or possibly [Enlil](Enlil.md)) |
+| Siblings | [Enki](Enki.md), [Enlil](Enlil.md) (in some accounts) |
 | Domain | Creation, birth, motherhood, the womb |
 | Sacred Number | 5 or 15 |
 | Symbol | The omega symbol, the womb, the uterus |
@@ -22,10 +22,10 @@ Ninmah was one of the most ancient and revered deities in the Sumerian pantheon.
 
 ### The Creation of Humanity
 
-According to the [[Atra-Hasis]] epic and Sitchin's reading:
+According to the [Atra Hasis](../sources/Atra-Hasis.md) epic and Sitchin's reading:
 
-1. The [[Igigi]] (lower-ranking Anunnaki) rebel against their hard labor mining gold
-2. [[Enki]] proposes creating a "primitive worker" (*Lullu*) to take over the work
+1. The [Igigi](../concepts/Igigi.md) (lower-ranking Anunnaki) rebel against their hard labor mining gold
+2. [Enki](Enki.md) proposes creating a "primitive worker" (*Lullu*) to take over the work
 3. Ninmah (as Nintur/Mami) is tasked with the actual creation
 4. She mixes clay with the "essence" of a slain god
 5. Fourteen "clay embryos" are created — seven males and seven females
@@ -62,12 +62,12 @@ Ninmah's many names reflect her many functions:
 
 ## See Also
 
-- [[Enki]] — Ninmah's collaborator in creation
-- [[Adamu]] — The first human created
-- [[Stvoření-člověka]] — The creation of humanity
-- [[Genetické-inženýrství]] — Genetic engineering
-- [[Ninurta]] — Ninmah's son (in some traditions)
-- [[Atra-Hasis]] — The creation epic
+- [Enki](Enki.md) — Ninmah's collaborator in creation
+- [Adamu](../concepts/Adamu.md) — The first human created
+- [Creation Of Humans](../timeline/creation-of-humans.md) — The creation of humanity
+- [Genetic Engineering](../themes/genetic-engineering.md) — Genetic engineering
+- [Ninurta](Ninurta.md) — Ninmah's son (in some traditions)
+- [Atra Hasis](../sources/Atra-Hasis.md) — The creation epic
 
 ## Sources
 

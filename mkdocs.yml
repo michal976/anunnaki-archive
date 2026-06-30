@@ -82,95 +82,168 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - 📍 Places: 
+  - 📍 Places:
     - places/index.md
+    - Apsu: places/Apsu.md
+    - Ararat: places/Ararat.md
     - Baalbek: places/Baalbek.md
-    - Giza: places/Gíza.md
-    - Sinai: places/Sinaj.md
-    - Tilmun: places/Tilmun.md
-    - Stonehenge: places/Stonehenge.md
-    - Eridu: places/Eridu.md
-    - Nippur: places/Nippur.md
     - Babylon: places/Babylon.md
-    - Jerusalem: places/Jeruzalém.md
+    - Charran: places/Charran.md
+    - Eridu: places/Eridu.md
+    - Giza: places/giza.md
+    - Jerusalem: places/jerusalem.md
+    - Nippur: places/Nippur.md
+    - Sinai: places/sinai.md
+    - Sippar: places/Sippar.md
+    - Stonehenge: places/Stonehenge.md
+    - Tilmun: places/Tilmun.md
+    - Tiwanaku: places/Tiwanaku.md
     - Ur: places/Ur.md
     - Uruk: places/Uruk.md
-    - Tiwanaku: places/Tiwanaku.md
-    - Ararat: places/Ararat.md
   - 👤 Characters:
     - characters/index.md
     - Anu: characters/Anu.md
-    - Enlil: characters/Enlil.md
+    - Dumuzi: characters/Dumuzi.md
     - Enki: characters/Enki.md
-    - Inanna: characters/Inanna.md
-    - Marduk: characters/Marduk.md
-    - Ninmah: characters/Ninmah.md
-    - Gilgamesh: characters/Gilgameš.md
+    - Enlil: characters/Enlil.md
+    - Ereshkigal: characters/Ereshkigal.md
     - Etana: characters/Etana.md
-    - Nibiru: characters/Nibiru.md
-    - Utu: characters/Utu.md
+    - Gibil: characters/Gibil.md
+    - Gilgamesh: characters/gilgamesh.md
+    - Inanna: characters/Inanna.md
+    - Ishkur: characters/Ishkur.md
+    - Marduk: characters/Marduk.md
+    - Nabu: characters/Nabu.md
+    - Nannar: characters/Nannar.md
     - Nergal: characters/Nergal.md
+    - Nibiru: characters/Nibiru.md
+    - Ninmah: characters/Ninmah.md
+    - Ninurta: characters/Ninurta.md
+    - Tiamat / Kingu: characters/Tiamat-Kingu.md
+    - Utu: characters/Utu.md
   - 💡 Themes:
     - themes/index.md
-    - Genetic Engineering: themes/Genetické-inženýrství.md
-    - Calendar: themes/Kalendář.md
-    - Precession: themes/Precese.md
-    - Spaceports: themes/Kosmodromy.md
-    - Pyramids: themes/Pyramidy.md
-    - Nuclear Weapons: themes/Jaderné-zbraně.md
-    - Sacred Numbers: themes/Posvátná-čísla.md
+    - Calendar: themes/calendar.md
+    - Genetic Engineering: themes/genetic-engineering.md
+    - Mixed Marriages: themes/mixed-marriages.md
+    - Monatomic Gold: themes/monatomic-gold.md
+    - Navigation Beacons: themes/navigation-beacons.md
+    - Nuclear Weapons: themes/nuclear-weapons.md
+    - Precession: themes/precession.md
+    - Pyramids: themes/pyramids.md
+    - Sacred Numbers: themes/sacred-numbers.md
+    - Spaceports: themes/spaceports.md
+    - Vimanas & Aircraft: themes/vimanas-and-aircraft.md
   - 🔗 Concepts:
     - concepts/index.md
-    - DUR.AN.KI: concepts/DUR.AN.KI.md
-    - Sinai Spaceport: concepts/Sinaj-kosmodrom.md
-    - SHEM: concepts/SHEM.md
     - Adamu: concepts/Adamu.md
     - Adapa: concepts/Adapa.md
-    - The Deluge: concepts/Potopa.md
-    - Tower of Babel: concepts/Věž-Babylon.md
+    - Anunnaki vs Nefilim: concepts/Anunnaki-vs-Nefilim.md
+    - DUR.AN.KI: concepts/DUR.AN.KI.md
+    - E.DIN: concepts/E.DIN.md
+    - Eridu: concepts/Eridu.md
     - Igigi: concepts/Igigi.md
     - ME: concepts/ME.md
-    - Šar: concepts/Šar.md
-    - NÉRU: concepts/NÉRU.md
-    - Tablet of Destinies: concepts/Tabulka-osudů.md
-  - ⏳ Timeline: timeline/index.md
+    - Migration of the Gods: concepts/migration-of-gods.md
+    - NÉRU: concepts/neru.md
+    - Nuclear Destruction: concepts/nuclear-destruction.md
+    - The Deluge: concepts/flood.md
+    - Pyramid Wars: concepts/pyramid-wars.md
+    - SHEM: concepts/SHEM.md
+    - Sinai Spaceport: concepts/sinai-spaceport.md
+    - Šar: concepts/shar.md
+    - Tablet of Destinies: concepts/tablet-of-destinies.md
+    - Tower of Babel: concepts/tower-of-babel.md
+  - ⏳ Timeline:
+    - timeline/index.md
+    - Arrival of the Anunnaki: timeline/arrival-of-the-anunnaki.md
+    - Landing at Eridu: timeline/landing-in-eridu.md
+    - Gold Mining: timeline/gold-mining.md
+    - Creation of Humans: timeline/creation-of-humans.md
+    - The Great Flood: timeline/flood.md
+    - After the Flood: timeline/after-the-flood.md
+    - Mesopotamian Civilization: timeline/mesopotamian-civilization.md
+    - Pyramid Wars: timeline/pyramid-wars.md
+    - Nuclear Catastrophe: timeline/nuclear-catastrophe.md
+    - Enlil's Command: timeline/enlil-command.md
+    - Retreat of the Gods: timeline/retreat-of-the-gods.md
   - 📚 Sources:
     - sources/index.md
-    - 12th Planet: sources/Dvanáctá-planeta.md
-    - Stairway to Heaven: sources/Schody-do-nebes.md
-    - When Time Began: sources/Kdy-začal-čas.md
-    - Enuma Elish: sources/Enuma-Elíš.md
+    - 12th Planet: sources/twelfth-planet.md
+    - Stairway to Heaven: sources/stairway-to-heaven.md
+    - Wars of Gods and Men: sources/wars-of-gods-and-men.md
+    - When Time Began: sources/when-time-began.md
+    - Return to Genesis: sources/return-to-genesis.md
+    - Cosmic Code: sources/cosmic-code.md
+    - End of Days: sources/end-of-days.md
+    - Lost Realms: sources/lost-realms.md
+    - Enuma Elish: sources/enuma-elish.md
     - Atra-Hasis: sources/Atra-Hasis.md
     - Bible - Genesis: sources/Bible-Genesis.md
   - 🌍 Religions:
     - religions/index.md
     - Sumer: religions/Sumer.md
     - Egypt: religions/Egypt.md
-    - Greece: religions/Řecko.md
-    - India: religions/Indie.md
-    - Old Testament: religions/Starý-zákon.md
-    - New Testament: religions/Nový-zákon.md
+    - Greece: religions/greece.md
+    - India: religions/india.md
+    - Old Testament: religions/old-testament.md
+    - New Testament: religions/new-testament.md
+    - Gnosticism: religions/gnosticism.md
+    - Mesoamerica: religions/mesoamerica.md
+    - Norse: religions/norse.md
   - 🔬 Modern Science:
     - modern-science/index.md
-    - Paleogenetics: modern-science/Paleogenetika.md
+    - African Mines: modern-science/african-mines.md
+    - Archaeoastronomy: modern-science/archeoastronomy-of-giza.md
+    - Megalithic Archaeology: modern-science/megalithic-archaeology.md
+    - Neanderthals & Denisovans: modern-science/neanderthals-denisovans.md
+    - Origin of the Moon: modern-science/origin-of-the-moon.md
+    - Paleogenetics: modern-science/paleogenetics.md
+    - Panspermia: modern-science/panspermia.md
     - Planet Nine: modern-science/Planet-Nine.md
-    - Panspermia: modern-science/Panspermie.md
-    - Megalithic Archaeology: modern-science/Megalitická-archeologie.md
-    - Archaeoastronomy: modern-science/Archeoastronomie-Gízy.md
-    - Neanderthals & Denisovans: modern-science/Neandertálci-Denisovani.md
+    - Theory of Ancient Astronauts: modern-science/Theory-of-Ancient-Astronauts.md
+    - Water on Planets: modern-science/water-on-planets.md
   - ⚠️ Criticism:
     - criticism/index.md
-    - Mainstream Assyriology: criticism/Mainstream-asyriologie.md
-    - Pseudohistory: criticism/Pseudohistorie.md
-    - Nibiru Critique: criticism/Nibiru-kritika.md
+    - Benjamin Foster: criticism/Foster.md
+    - Johannes Friedrich: criticism/Friedrich.md
+    - Mainstream Assyriology: criticism/mainstream-assyriology.md
     - Michael Heiser: criticism/Heiser.md
+    - Nibiru Critique: criticism/nibiru-critique.md
+    - Pseudohistory: criticism/pseudohistory.md
+    - Sumerologists: criticism/sumerologists.md
+    - Translation Disputes: criticism/translation-disputes.md
+    - W. G. Lambert: criticism/Lambert.md
   - 👥 Followers:
     - followers/index.md
     - Erich von Däniken: followers/Daniken.md
     - Graham Hancock: followers/Hancock.md
     - Mauro Biglino: followers/Biglino.md
+    - William Bramley: followers/Bramley.md
+    - David Hatcher Childress: followers/Childress.md
+    - Michael Tellinger: followers/Tellinger.md
+    - Janet Sitchin: followers/Janet-Sitchin.md
     - History Channel: followers/History-Channel.md
+  - 💬 Quotes:
+    - quotes/index.md
+    - Anunnaki and Gods: quotes/anunnaki-and-gods.md
+    - Bible Parallels: quotes/bible-parallels.md
+    - Creation of Humans: quotes/creation-of-humans.md
+    - Creation of the Universe: quotes/creation-of-the-universe.md
+    - Inanna Cycle: quotes/inanna-cycle.md
+    - Aircraft & Rockets: quotes/aircraft-and-rockets.md
+    - The Flood: quotes/flood.md
+    - Nuclear Destruction: quotes/nuclear-destruction.md
+    - Numerical Codes: quotes/numerical-codes.md
+    - Pyramid Wars: quotes/pyramid-wars.md
+    - Sitchin Key Quotes: quotes/sitchin-key-quotes.md
+  - 📖 Books:
+    - books/index.md
+    - Full Texts Overview: books/Full-Texts-Overview.md
+    - Stairway to Heaven Reference: books/stairway-to-heaven-reference.md
+    - When Time Began Reference: books/when-time-began-reference.md
   - 💎 Premium Membership: premium.md
   - 🗺️ Roadmap: roadmap.md
+  - 👋 Welcome (Members): members/welcome.md
 
-copyright: Copyright &copy; 2026 Michal Plaček — The Anunnaki Archive
+copyright: Copyright &copy; 2026 The Anunnaki Archive

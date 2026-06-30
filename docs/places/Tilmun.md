@@ -12,8 +12,8 @@ In Sumerian myth, Dilmun/Tilmun is described as:
 - A pure, bright, and holy land
 - A place where sickness and death do not exist
 - The land where the sun rises
-- The destination of the flood hero [[Ziusudra]] / [[Utnapishtim]]
-- A place of great importance in the stories of [[Enki]] and [[Ninḫursag]] ([[Ninmah]])
+- The destination of the flood hero Ziusudra / Utnapishtim
+- A place of great importance in the stories of [Enki](../characters/Enki.md) and Ninḫursag ([Ninmah](../characters/Ninmah.md))
 
 ## Sitchin's Interpretation
 
@@ -22,13 +22,13 @@ In Sumerian myth, Dilmun/Tilmun is described as:
 Sitchin argued:
 
 1. **Tilmun = the Land of the SHEM** — The Sumerian term *Tilmun* may be broken down as *Til* (life/living) + *Mun* (mountain/raised platform), suggesting a place where the "living mountain" (rocketship) dwells
-2. **Location** — Sitchin debated Tilmun's location but generally placed it near the [[Sinai Peninsula]] or possibly the [[Sinai]] spaceport itself
+2. **Location** — Sitchin debated Tilmun's location but generally placed it near the Sinai Peninsula or possibly the [Sinai](sinai.md) spaceport itself
 3. **Paradise** — The description of Tilmun as a disease-free paradise reflected the sterile environment of a space facility
-4. **Gilgamesh's Journey** — In the [[Gilgameš|Epic of Gilgamesh]], the hero journeys to Tilmun to meet [[Utnapishtim]] and seek immortality — which Sitchin read as a journey to the spaceport to find the secret of eternal life
+4. **Gilgamesh's Journey** — In the [Epic of Gilgamesh](../characters/gilgamesh.md), the hero journeys to Tilmun to meet Utnapishtim and seek immortality — which Sitchin read as a journey to the spaceport to find the secret of eternal life
 
 ## Conventional Identification
 
-Mainstream scholarship identifies Tilmun/Dilmun with the island of [[Bahrain]] in the Persian Gulf. This identification is based on:
+Mainstream scholarship identifies Tilmun/Dilmun with the island of Bahrain in the Persian Gulf. This identification is based on:
 - Neo-Assyrian inscriptions referring to Dilmun as a trading partner
 - Archaeological evidence of a Bronze Age civilization on Bahrain
 - References to Dilmun as a source of copper and other trade goods
@@ -37,12 +37,12 @@ Sitchin acknowledged this conventional identification but argued that the "Dilmu
 
 ## See Also
 
-- [[SHEM]] — The rocketship terminology
-- [[Sinaj-kosmodrom]] — The Sinai spaceport
-- [[Schody-do-nebes]] — The Stairway to Heaven
-- [[Gilgameš]] — The epic hero who journeyed to Tilmun
-- [[E.DIN]] — The Garden of Eden
-- [[Baalbek]] — The launch platform
+- [SHEM](../concepts/SHEM.md) — The rocketship terminology
+- [Sinai Spaceport](../concepts/sinai-spaceport.md) — The Sinai spaceport
+- [Stairway To Heaven](../sources/stairway-to-heaven.md) — The Stairway to Heaven
+- [Gilgamesh](../characters/gilgamesh.md) — The epic hero who journeyed to Tilmun
+- [E.Din](../concepts/E.DIN.md) — The Garden of Eden
+- [Baalbek](Baalbek.md) — The launch platform
 
 ## Sources
 

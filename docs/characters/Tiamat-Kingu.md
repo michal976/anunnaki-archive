@@ -4,24 +4,24 @@ tags: [anunnaki, postava, tiamat, kingu, primordial, creation, english]
 
 # Tiamat and Kingu
 
-**Tiamat** and **Kingu** are figures from the [[Enuma-Elíš]], the Babylonian creation epic. In Zecharia Sitchin's cosmological reading, they represent celestial bodies that existed in the early solar system before the arrival of [[Nibiru]].
+**Tiamat** and **Kingu** are figures from the [Enuma Elish](../sources/enuma-elish.md), the Babylonian creation epic. In Zecharia Sitchin's cosmological reading, they represent celestial bodies that existed in the early solar system before the arrival of [Nibiru](Nibiru.md).
 
 ## Tiamat
 
 ### Tiamat in the Enuma Elish
 
-In the traditional reading, Tiamat is the primordial saltwater ocean, a dragon-goddess who personifies the chaotic waters of creation. She and [[Apsu]] (freshwater) are the parents of the first generation of gods.
+In the traditional reading, Tiamat is the primordial saltwater ocean, a dragon-goddess who personifies the chaotic waters of creation. She and [Apsu](../places/Apsu.md) (freshwater) are the parents of the first generation of gods.
 
 ### Sitchin's Interpretation
 
-Sitchin radically reinterpreted Tiamat as a **planet** that existed in the space between [[Mars]] and [[Jupiter]]:
+Sitchin radically reinterpreted Tiamat as a **planet** that existed in the space between Mars and Jupiter:
 
 | Attribute | Detail |
 |-----------|--------|
 | Nature | A planet, not a goddess |
 | Location | Between Mars and Jupiter (now the asteroid belt) |
 | Size | Comparable to Earth or larger |
-| Moon | [[Kingu]] |
+| Moon | Kingu |
 | Fate | Shattered by Nibiru's gravitational pull |
 
 > *"Tiamat was not a mythological dragon. She was a planet — a watery planet that existed where the asteroid belt now orbits. Her collision with Nibiru shattered her, and the fragments became Earth and the asteroid belt."*
@@ -31,7 +31,7 @@ Sitchin radically reinterpreted Tiamat as a **planet** that existed in the space
 According to Sitchin's reading of the Enuma Elish:
 
 1. Tiamat orbited the Sun between Mars and Jupiter
-2. [[Nibiru]] (Marduk), approaching from outer space on its elliptical orbit, passed through the inner solar system
+2. [Nibiru](Nibiru.md) (Marduk), approaching from outer space on its elliptical orbit, passed through the inner solar system
 3. Nibiru's gravitational pull tore Tiamat apart
 4. One half of Tiamat was pushed into a new orbit, becoming **Earth**
 5. The other half shattered into the **asteroid belt**
@@ -49,7 +49,7 @@ According to Sitchin's reading of the Enuma Elish:
 
 ### Kingu in the Enuma Elish
 
-Kingu is Tiamat's consort and commander of her forces in the war against the younger gods. After Tiamat's defeat, Marduk takes the [[Tabulka-osudů|Tablet of Destinies]] from Kingu and creates humanity from Kingu's blood.
+Kingu is Tiamat's consort and commander of her forces in the war against the younger gods. After Tiamat's defeat, Marduk takes the [Tablet of Destinies](../concepts/tablet-of-destinies.md) from Kingu and creates humanity from Kingu's blood.
 
 ### Sitchin's Interpretation
 
@@ -63,12 +63,12 @@ In modern planetary science, the "giant impact hypothesis" proposes that a Mars-
 
 ## See Also
 
-- [[Enuma-Elíš]] — The epic describing the battle
-- [[Nibiru]] — The planet that destroyed Tiamat
-- [[Apsu]] — The Sun in Sitchin's reading
-- [[Stvoření-člověka]] — Creation from Kingu's blood
-- [[Planet-Nine]] — Modern searches for a trans-Neptunian planet
-- [[Vznik-Měsíce]] — The formation of the Moon
+- [Enuma Elish](../sources/enuma-elish.md) — The epic describing the battle
+- [Nibiru](Nibiru.md) — The planet that destroyed Tiamat
+- [Apsu](../places/Apsu.md) — The Sun in Sitchin's reading
+- [Creation Of Humans](../timeline/creation-of-humans.md) — Creation from Kingu's blood
+- [Planet Nine](../modern-science/Planet-Nine.md) — Modern searches for a trans-Neptunian planet
+- [Origin Of The Moon](../modern-science/origin-of-the-moon.md) — The formation of the Moon
 
 ## Sources
 

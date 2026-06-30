@@ -4,7 +4,7 @@ tags: [anunnaki, misto, tiwanaku, bolivia, andes, megalithic, english]
 
 # Tiwanaku (Tiahuanaco)
 
-**Tiwanaku** (also spelled **Tiahuanaco**) is a remarkable archaeological site in western [[Bolivia]], near the southern shore of [[Lake Titicaca]] at an altitude of 3,850 meters (12,600 feet). In Zecharia Sitchin's narrative, Tiwanaku represents one of the most important [[Anunnaki]] outposts in the Americas.
+**Tiwanaku** (also spelled **Tiahuanaco**) is a remarkable archaeological site in western Bolivia, near the southern shore of Lake Titicaca at an altitude of 3,850 meters (12,600 feet). In Zecharia Sitchin's narrative, Tiwanaku represents one of the most important Anunnaki outposts in the Americas.
 
 ## The Site
 
@@ -19,7 +19,7 @@ Tiwanaku features:
 
 ### The Gate of the Sun
 
-The Gate of the Sun is carved from a single 10-ton block of andesite. Its upper register depicts a central figure (the "Staff God" or [[Viracocha]]) flanked by rows of winged attendants. Sitchin argued that the Gate of the Sun was a calendar stone encoding astronomical knowledge:
+The Gate of the Sun is carved from a single 10-ton block of andesite. Its upper register depicts a central figure (the "Staff God" or Viracocha) flanked by rows of winged attendants. Sitchin argued that the Gate of the Sun was a calendar stone encoding astronomical knowledge:
 
 > *"The Gate of the Sun at Tiwanaku is not just a piece of sculpture — it is a sophisticated astronomical calculator, preserving the knowledge of the Anunnaki."*
 
@@ -35,24 +35,24 @@ The Puma Punku complex contains stone blocks cut with precision that modern engi
 
 ### The Age of Tiwanaku
 
-Sitchin (following the earlier work of [[Arthur Posnansky]]) argued that Tiwanaku was approximately 12,000–17,000 years old, based on astronomical alignments that no longer match the current position of the stars. Mainstream archaeology dates the site to approximately 500–1000 CE.
+Sitchin (following the earlier work of Arthur Posnansky) argued that Tiwanaku was approximately 12,000–17,000 years old, based on astronomical alignments that no longer match the current position of the stars. Mainstream archaeology dates the site to approximately 500–1000 CE.
 
 ## The Anunnaki Connection
 
 Sitchin proposed that Tiwanaku was:
-1. **A mining station** — Connected to the [[gold]] and tin mines of the Andes
+1. **A mining station** — Connected to the gold and tin mines of the Andes
 2. **An astronomical observatory** — Tracking the precessional cycle and Nibiru's approach
 3. **A post-Flood refuge** — Established by Anunnaki survivors or their followers after the Great Flood
-4. **The "Other Eden"** — A South American counterpart to the Mesopotamian [[E.DIN]]
+4. **The "Other Eden"** — A South American counterpart to the Mesopotamian [E.Din](../concepts/E.DIN.md)
 
 ## See Also
 
-- [[Ztracená-království]] — Sitchin's book on the Americas
-- [[Mezoamerika]] — Mesoamerican civilizations
-- [[Megalitická-archeologie]] — Megalithic archaeology
-- [[Těžba-zlata]] — Gold mining
-- [[Následovníci]] — Other researchers
-- [[Precese]] — The precessional cycle
+- [Lost Realms](../sources/lost-realms.md) — Sitchin's book on the Americas
+- [Mesoamerica](../religions/mesoamerica.md) — Mesoamerican civilizations
+- [Megalithic Archaeology](../modern-science/megalithic-archaeology.md) — Megalithic archaeology
+- [Gold Mining](../timeline/gold-mining.md) — Gold mining
+- Následovníci — Other researchers
+- [Precession](../themes/precession.md) — The precessional cycle
 
 ## Sources
 

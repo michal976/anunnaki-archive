@@ -10,8 +10,8 @@ This folder contains reference materials, full-text summaries, and annotated bib
 
 | File | Description |
 |------|-------------|
-| [[Schody-k-nebesům-reference]] | Reference notes on *The Stairway to Heaven* |
-| [[Kdyz-zapocal-cas-reference]] | Reference notes on *When Time Began* |
+| [Stairway To Heaven Reference](stairway-to-heaven-reference.md) | Reference notes on *The Stairway to Heaven* |
+| [When Time Began Reference](when-time-began-reference.md) | Reference notes on *When Time Began* |
 
 ---
 

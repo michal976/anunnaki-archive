@@ -4,22 +4,22 @@ tags: [anunnaki, concept, nephilim, distinction, english]
 
 # Anunnaki vs. Nefilim (Anunnaki vs. Nefilim)
 
-The terms **[[Anunnaki]]** and **[[Nefilim]]** (also spelled *Nephilim*) are often used interchangeably in popular culture, but Zecharia Sitchin made a careful distinction between them. Understanding this distinction is essential for following his narrative.
+The terms **Anunnaki** and **Nefilim** (also spelled *Nephilim*) are often used interchangeably in popular culture, but Zecharia Sitchin made a careful distinction between them. Understanding this distinction is essential for following his narrative.
 
 ## The Anunnaki
 
-The term **Anunnaki** (Sumerian: *Anunnaki*, "those who from heaven came") refers to the pantheon of beings from [[Nibiru]]:
+The term **Anunnaki** (Sumerian: *Anunnaki*, "those who from heaven came") refers to the pantheon of beings from [Nibiru](../characters/Nibiru.md):
 
 - **Origin**: From the planet Nibiru
 - **Nature**: Extraterrestrial, long-lived (but not immortal), highly advanced
 - **Number**: Approximately 50–600 (different texts give different numbers)
-- **Hierarchy**: Led by [[Anu]], divided into factions ([[Enki]]'s and [[Enlil]]'s)
+- **Hierarchy**: Led by [Anu](../characters/Anu.md), divided into factions ([Enki](../characters/Enki.md)'s and [Enlil](../characters/Enlil.md)'s)
 - **Role**: Colonizers of Earth, creators of humanity
 - **Lifespan**: One Nibiru year = 3,600 Earth years
 
 ## The Nefilim (Nephilim)
 
-The term **Nefilim** (Hebrew: *Nephilim*, "those who have fallen" or "those who were cast down") appears in the [[Bible-Genesis|Bible]]:
+The term **Nefilim** (Hebrew: *Nephilim*, "those who have fallen" or "those who were cast down") appears in the [Bible](../sources/Bible-Genesis.md):
 
 > *"The Nephilim were on the earth in those days — and also afterward — when the sons of God went in to the daughters of humans, who bore children to them. These were the heroes of old, warriors of renown."* (Genesis 6:4)
 
@@ -33,10 +33,10 @@ Sitchin's reading:
 
 | Characteristic | Anunnaki | Nefilim (Nephilim) |
 |---------------|----------|-------------------|
-| Origin | [[Nibiru]] | Hybrid (Anunnaki + human) |
+| Origin | [Nibiru](../characters/Nibiru.md) | Hybrid (Anunnaki + human) |
 | Nature | Full extraterrestrial | Semi-divine |
 | Lifespan | ~450,000 years (on Earth) | Longer than humans, shorter than Anunnaki |
-| Examples | [[Anu]], [[Enki]], [[Enlil]] | [[Gilgameš]], the antediluvian kings |
+| Examples | [Anu](../characters/Anu.md), [Enki](../characters/Enki.md), [Enlil](../characters/Enlil.md) | [Gilgamesh](../characters/gilgamesh.md), the antediluvian kings |
 | Biblical term | "Sons of God" (*Bene Elohim*) | "Giants" or "The Fallen" |
 | Created by | Unknown (natural evolution on Nibiru) | Anunnaki-human unions |
 
@@ -51,12 +51,12 @@ The confusion between the two terms arises because:
 
 ## See Also
 
-- [[Anunnaki-vs-Nefilim]] — This note
-- [[Anu]] — The patriarch of the Anunnaki
-- [[Nibiru]] — The planet of the Anunnaki
-- [[Smíšená-manželství]] — Anunnaki-human interbreeding
-- [[Gilgameš]] — The most famous hybrid
-- [[Bible-Genesis]] — The biblical account of the Nephilim
+- [Anunnaki Vs Nefilim](Anunnaki-vs-Nefilim.md) — This note
+- [Anu](../characters/Anu.md) — The patriarch of the Anunnaki
+- [Nibiru](../characters/Nibiru.md) — The planet of the Anunnaki
+- [Mixed Marriages](../themes/mixed-marriages.md) — Anunnaki-human interbreeding
+- [Gilgamesh](../characters/gilgamesh.md) — The most famous hybrid
+- [Bible Genesis](../sources/Bible-Genesis.md) — The biblical account of the Nephilim
 
 ## Sources
 

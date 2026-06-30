@@ -4,7 +4,7 @@ tags: [kritika, lambert, assyriology, english]
 
 # W. G. Lambert — Assyriological Critique
 
-[[W. G. Lambert]] (1926–2011) was one of the foremost Assyriologists of the 20th century. He published critical editions of the [[Enuma-Elíš]], [[Atra-Hasis]], and many other Mesopotamian texts.
+W. G. Lambert (1926–2011) was one of the foremost Assyriologists of the 20th century. He published critical editions of the [Enuma Elish](../sources/enuma-elish.md), [Atra Hasis](../sources/Atra-Hasis.md), and many other Mesopotamian texts.
 
 ## Lambert's Criticisms
 
@@ -15,6 +15,6 @@ tags: [kritika, lambert, assyriology, english]
 
 ## See Also
 
-- [[Enuma-Elíš]] — The text Lambert edited
-- [[Mainstream-asyriologie]] — General academic critique
-- [[Překlady-spory]] — Translation issues
+- [Enuma Elish](../sources/enuma-elish.md) — The text Lambert edited
+- [Mainstream Assyriology](mainstream-assyriology.md) — General academic critique
+- [Translation Disputes](translation-disputes.md) — Translation issues

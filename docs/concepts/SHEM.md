@@ -40,20 +40,20 @@ Sitchin supported his interpretation with:
 ## The SHEM in Action
 
 In Sitchin's reading, the SHEM was:
-- Used for travel between Earth and [[Nibiru]]
+- Used for travel between Earth and [Nibiru](../characters/Nibiru.md)
 - Kept in special enclosures (the "House of the SHEM")
-- Operated from launch pads like [[Baalbek]]
-- Guided by navigation beacons like the [[Gíza|Great Pyramid]]
+- Operated from launch pads like [Baalbek](../places/Baalbek.md)
+- Guided by navigation beacons like the [Great Pyramid](../places/giza.md)
 
 ## See Also
 
-- [[Věž-Babylon]] — The Tower of Babel as a launch tower
-- [[Kosmodromy]] — Spaceport facilities
-- [[Sinaj-kosmodrom]] — The Sinai spaceport
-- [[Schody-do-nebes]] — The Stairway to Heaven
-- [[Etana]] — The king who flew on an "eagle" (SHEM)
-- [[Adapa]] — The sage who flew to Nibiru
-- [[Vimány-a-letadla]] — Flying vehicles
+- [Tower Of Babel](tower-of-babel.md) — The Tower of Babel as a launch tower
+- [Spaceports](../themes/spaceports.md) — Spaceport facilities
+- [Sinai Spaceport](sinai-spaceport.md) — The Sinai spaceport
+- [Stairway To Heaven](../sources/stairway-to-heaven.md) — The Stairway to Heaven
+- [Etana](../characters/Etana.md) — The king who flew on an "eagle" (SHEM)
+- [Adapa](Adapa.md) — The sage who flew to Nibiru
+- [Vimanas And Aircraft](../themes/vimanas-and-aircraft.md) — Flying vehicles
 
 ## Sources
 

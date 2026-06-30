@@ -19,6 +19,6 @@ Tellinger extends Sitchin's claims about the African gold mines, providing physi
 
 ## See Also
 
-- [[Africké-doly]] — African mines
-- [[Těžba-zlata]] — Gold mining
-- [[Monoatomické-zlato]] — Monatomic gold
+- [African Mines](../modern-science/african-mines.md) — African mines
+- [Gold Mining](../timeline/gold-mining.md) — Gold mining
+- [Monatomic Gold](../themes/monatomic-gold.md) — Monatomic gold

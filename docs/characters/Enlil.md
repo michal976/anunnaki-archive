@@ -4,20 +4,20 @@ tags: [anunnaki, postava, enlil, commander, english]
 
 # Enlil
 
-**Enlil** (Sumerian: *Enlil*, "Lord of the Wind"; Akkadian: *Ellil*) was the second son of [[Anu]] and the supreme commander of the [[Anunnaki]] expedition to Earth. In Zecharia Sitchin's narrative, Enlil was the executive authority — the god of order, discipline, and authority who governed the affairs of both gods and humans from his command center at [[Nippur]].
+**Enlil** (Sumerian: *Enlil*, "Lord of the Wind"; Akkadian: *Ellil*) was the second son of [Anu](Anu.md) and the supreme commander of the Anunnaki expedition to Earth. In Zecharia Sitchin's narrative, Enlil was the executive authority — the god of order, discipline, and authority who governed the affairs of both gods and humans from his command center at [Nippur](../places/Nippur.md).
 
 ## Role in the Anunnaki Hierarchy
 
 | Attribute | Detail |
 |-----------|--------|
-| Father | [[Anu]] (King of Nibiru) |
-| Mother | [[Antum]] |
-| Domain | [[Nippur]], Earth Command |
+| Father | [Anu](Anu.md) (King of Nibiru) |
+| Mother | Antum |
+| Domain | [Nippur](../places/Nippur.md), Earth Command |
 | Sacred Number | 50 |
 | Symbols | Horned cap, the scepter |
 | Title | Lord of the Wind, Commander of the Earth Mission |
 
-Enlil was Anu's chosen successor for the Earth mission (over his older brother [[Enki]]). He was the god who gave and enforced the laws — both for the Anunnaki and for humanity.
+Enlil was Anu's chosen successor for the Earth mission (over his older brother [Enki](Enki.md)). He was the god who gave and enforced the laws — both for the Anunnaki and for humanity.
 
 ## Enlil's Character
 
@@ -26,7 +26,7 @@ Sitchin portrays Enlil as a stern, disciplinarian figure:
 1. **The Commander** — Enlil was responsible for the success of the Earth mission and the welfare of the Anunnaki
 2. **The Flood Decision** — It was Enlil who decided to destroy humanity with the Great Flood when they became too numerous and noisy
 3. **Humanity's Adversary** — Enlil often opposed Enki's gifts to humanity, viewing humans as tools to be controlled rather than nurtured
-4. **The Nuclear Strike** — Enlil authorized the nuclear destruction of [[Sippar]] and [[Ur]] in 2024 BCE to eliminate the spaceport and prevent [[Marduk]] from seizing it
+4. **The Nuclear Strike** — Enlil authorized the nuclear destruction of [Sippar](../places/Sippar.md) and [Ur](../places/Ur.md) in 2024 BCE to eliminate the spaceport and prevent [Marduk](Marduk.md) from seizing it
 5. **The Lawgiver** — Enlil established the rules of civilization and kingship
 
 > *"Enlil was the jealous and enforcing god — the one who, in the Bible, became Yahweh when the texts said 'the Lord God' — the god of the Old Testament."*
@@ -53,14 +53,14 @@ Sitchin identified Enlil with the biblical **Yahweh** (the "Lord God") in many O
 
 ## See Also
 
-- [[Enki]] — Enlil's brother and rival
-- [[Anu]] — Enlil's father
-- [[Ninurta]] — Enlil's son
-- [[Nannar]] — Enlil's firstborn son
-- [[Nippur]] — Enlil's command center
-- [[Potopa]] — The flood Enlil ordered
-- [[Nukleární-zničení]] — The nuclear strike Enlil authorized
-- [[Bible-Genesis]] — Enlil as the biblical deity
+- [Enki](Enki.md) — Enlil's brother and rival
+- [Anu](Anu.md) — Enlil's father
+- [Ninurta](Ninurta.md) — Enlil's son
+- [Nannar](Nannar.md) — Enlil's firstborn son
+- [Nippur](../places/Nippur.md) — Enlil's command center
+- [Flood](../timeline/flood.md) — The flood Enlil ordered
+- [Nuclear Destruction](../quotes/nuclear-destruction.md) — The nuclear strike Enlil authorized
+- [Bible Genesis](../sources/Bible-Genesis.md) — Enlil as the biblical deity
 
 ## Sources
 

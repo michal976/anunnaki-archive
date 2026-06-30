@@ -10,17 +10,17 @@ This folder catalogs key quotations and thematic parallels that Zecharia Sitchin
 
 | File | Theme |
 |------|-------|
-| [[Anunnaki-a-bohové]] | The Anunnaki as gods |
-| [[Bible-paralely]] | Biblical parallels to Sumerian texts |
-| [[Číselné-kódy]] | Numerical codes and patterns |
-| [[Inanna-cyklus]] | The Inanna narrative cycle |
-| [[Letadla-a-rakety]] | Aircraft and rocketship descriptions |
-| [[Nukleární-zničení]] | Nuclear destruction accounts |
-| [[Potopa]] | The Great Flood narratives |
-| [[Pyramidové-války]] | The wars of the gods |
-| [[Sitchinovy-klíčové]] | Sitchin's key statements |
-| [[Stvoření-člověka]] | The creation of humanity |
-| [[Stvoření-vesmíru]] | The creation of the cosmos |
+| [Anunnaki And Gods](anunnaki-and-gods.md) | The Anunnaki as gods |
+| [Bible Parallels](bible-parallels.md) | Biblical parallels to Sumerian texts |
+| [Numerical Codes](numerical-codes.md) | Numerical codes and patterns |
+| [Inanna Cycle](inanna-cycle.md) | The Inanna narrative cycle |
+| [Aircraft And Rockets](aircraft-and-rockets.md) | Aircraft and rocketship descriptions |
+| [Nuclear Destruction](nuclear-destruction.md) | Nuclear destruction accounts |
+| [Flood](../timeline/flood.md) | The Great Flood narratives |
+| [Pyramid Wars](../timeline/pyramid-wars.md) | The wars of the gods |
+| [Sitchin Key Quotes](sitchin-key-quotes.md) | Sitchin's key statements |
+| [Creation Of Humans](../timeline/creation-of-humans.md) | The creation of humanity |
+| [Creation Of The Universe](creation-of-the-universe.md) | The creation of the cosmos |
 
 ---
 

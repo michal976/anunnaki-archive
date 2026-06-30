@@ -4,7 +4,7 @@ tags: [anunnaki, concept, me, divine-decrees, civilization, english]
 
 # ME — The Divine Decrees
 
-The **ME** (Sumerian: *ME*, plural *MEŠ*) were the divine decrees or principles of civilization in Sumerian mythology. In Zecharia Sitchin's interpretation, the ME were a collection of knowledge, technology, and cultural templates — essentially a "civilization package" that the [[Anunnaki]] transmitted to humanity.
+The **ME** (Sumerian: *ME*, plural *MEŠ*) were the divine decrees or principles of civilization in Sumerian mythology. In Zecharia Sitchin's interpretation, the ME were a collection of knowledge, technology, and cultural templates — essentially a "civilization package" that the Anunnaki transmitted to humanity.
 
 ## The ME in Sumerian Texts
 
@@ -26,14 +26,14 @@ According to the text *"Inanna and Enki: The Transfer of the ME,"* there were ov
 
 ## The Acquisition of the ME by Inanna
 
-The most famous story involving the ME is [[Inanna]]'s acquisition of them from [[Enki]]:
+The most famous story involving the ME is [Inanna](../characters/Inanna.md)'s acquisition of them from [Enki](../characters/Enki.md):
 
-1. Inanna visits Enki in [[Eridu]]
+1. Inanna visits Enki in [Eridu](Eridu.md)
 2. Enki, drunk, offers her the ME
 3. Inanna takes the ME and loads them onto her "boat" (a spaceship, in Sitchin's reading)
 4. Enki sobers up and realizes what he has done
 5. He sends monsters to retrieve the ME, but Inanna escapes
-6. Inanna brings the ME to [[Uruk]], establishing civilization there
+6. Inanna brings the ME to [Uruk](../places/Uruk.md), establishing civilization there
 
 ## Sitchin's Interpretation
 
@@ -48,17 +48,17 @@ Sitchin saw the ME as:
 
 ## The ME as "Divine DNA"
 
-Sitchin further argued that the ME were analogous to DNA — they contained the "code" for civilization, just as DNA contains the code for life. The [[Kosmický-kód|Cosmic Code]] was the idea that this same pattern of encoded knowledge appears throughout ancient texts.
+Sitchin further argued that the ME were analogous to DNA — they contained the "code" for civilization, just as DNA contains the code for life. The [Cosmic Code](../sources/cosmic-code.md) was the idea that this same pattern of encoded knowledge appears throughout ancient texts.
 
 ## See Also
 
-- [[Inanna]] — The goddess who acquired the ME
-- [[Enki]] — The keeper of the ME
-- [[Uruk]] — The city where Inanna brought the ME
-- [[Sumer]] — The civilization that received the ME
-- [[Tabulka-osudů]] — The Tablet of Destinies
-- [[Posvátná-čísla]] — Sacred numbers
-- [[Kosmický-kód]] — The Cosmic Code
+- [Inanna](../characters/Inanna.md) — The goddess who acquired the ME
+- [Enki](../characters/Enki.md) — The keeper of the ME
+- [Uruk](../places/Uruk.md) — The city where Inanna brought the ME
+- [Sumer](../religions/Sumer.md) — The civilization that received the ME
+- [Tablet Of Destinies](tablet-of-destinies.md) — The Tablet of Destinies
+- [Sacred Numbers](../themes/sacred-numbers.md) — Sacred numbers
+- [Cosmic Code](../sources/cosmic-code.md) — The Cosmic Code
 
 ## Sources
 

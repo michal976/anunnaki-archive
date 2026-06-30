@@ -19,7 +19,7 @@ The platform at Baalbek contains some of the largest cut stones ever used in con
 
 ## Sitchin's Interpretation
 
-To Zecharia Sitchin, Baalbek was the most important physical evidence of the [[Anunnaki]] presence on Earth. He identified it as the **primary launch pad** for Anunnaki rocketships ([[SHEM]]):
+To Zecharia Sitchin, Baalbek was the most important physical evidence of the Anunnaki presence on Earth. He identified it as the **primary launch pad** for Anunnaki rocketships ([SHEM](../concepts/SHEM.md)):
 
 > *"Baalbek was not built by the Romans, nor by the Phoenicians. Its megalithic platform is the remnant of an Anunnaki spaceport facility — the 'landing place' from which the rockets of the gods ascended to heaven."*
 
@@ -36,23 +36,23 @@ Baalbek was part of a network of Anunnaki facilities:
 
 | Site | Function |
 |------|----------|
-| [[Baalbek]] | Launch pad / take-off platform |
-| [[Gíza]] | Navigation beacon (Great Pyramid) |
-| [[Sinaj]] | Main spaceport |
-| [[Jeruzalém]] | "Mount of the Crossing" — guidance |
-| [[Ararat]] | Northern approach landmark |
+| [Baalbek](Baalbek.md) | Launch pad / take-off platform |
+| [Giza](giza.md) | Navigation beacon (Great Pyramid) |
+| [Sinai](sinai.md) | Main spaceport |
+| [Jerusalem](jerusalem.md) | "Mount of the Crossing" — guidance |
+| [Ararat](Ararat.md) | Northern approach landmark |
 
 ## The Name Baalbek
 
-Sitchin notes that the name "Baalbek" derives from "Ba'al" (Lord) + "Bek" (Beka'a valley). Ba'al was another name for the god [[Marduk]]/[[Hadad]], the storm god. However, the site's original Sumerian name may have been connected to [[Enlil]], the commander of the spaceport.
+Sitchin notes that the name "Baalbek" derives from "Ba'al" (Lord) + "Bek" (Beka'a valley). Ba'al was another name for the god [Marduk](../characters/Marduk.md)/Hadad, the storm god. However, the site's original Sumerian name may have been connected to [Enlil](../characters/Enlil.md), the commander of the spaceport.
 
 ## See Also
 
-- [[SHEM]] — The rocketship terminology
-- [[Sinaj-kosmodrom]] — The Sinai spaceport
-- [[Gíza]] — The navigation beacon
-- [[Navigační-majáky]] — Navigation beacons
-- [[Schody-do-nebes]] — The Stairway to Heaven
+- [SHEM](../concepts/SHEM.md) — The rocketship terminology
+- [Sinai Spaceport](../concepts/sinai-spaceport.md) — The Sinai spaceport
+- [Giza](giza.md) — The navigation beacon
+- [Navigation Beacons](../themes/navigation-beacons.md) — Navigation beacons
+- [Stairway To Heaven](../sources/stairway-to-heaven.md) — The Stairway to Heaven
 
 ## Sources
 

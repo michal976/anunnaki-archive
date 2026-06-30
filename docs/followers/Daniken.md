@@ -19,6 +19,6 @@ Däniken preceded Sitchin and laid the groundwork for the ancient astronaut theo
 
 ## See Also
 
-- [[Theory-of-Ancient-Astronauts]] — The broader theory
-- [[Hancock]] — Graham Hancock
-- [[Sitchinovy-klíčové]] — Sitchin's key claims
+- [Theory Of Ancient Astronauts](../modern-science/Theory-of-Ancient-Astronauts.md) — The broader theory
+- [Hancock](Hancock.md) — Graham Hancock
+- [Sitchin Key Quotes](../quotes/sitchin-key-quotes.md) — Sitchin's key claims

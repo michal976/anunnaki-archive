@@ -11,7 +11,7 @@ The History Channel's program *Ancient Aliens* (2009–present) has been the pri
 - Premiered in 2009
 - Features Sitchin's work extensively
 - Has aired for over 20 seasons
-- Presented by [[Giorgio Tsoukalos]]
+- Presented by Giorgio Tsoukalos
 
 ## Impact
 
@@ -22,6 +22,6 @@ The show brought Sitchin's ideas to a mainstream audience but also faced critici
 
 ## See Also
 
-- [[Theory-of-Ancient-Astronauts]] — The theory
-- [[Daniken]] — Erich von Däniken
-- [[Hancock]] — Graham Hancock
+- [Theory Of Ancient Astronauts](../modern-science/Theory-of-Ancient-Astronauts.md) — The theory
+- [Daniken](Daniken.md) — Erich von Däniken
+- [Hancock](Hancock.md) — Graham Hancock

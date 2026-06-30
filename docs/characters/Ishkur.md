@@ -10,7 +10,7 @@ tags: [anunnaki, postava, ishkur, adad, storm, weather, english]
 
 | Attribute | Detail |
 |-----------|--------|
-| Father | [[Enlil]] (in most accounts) |
+| Father | [Enlil](Enlil.md) (in most accounts) |
 | Mother | Unknown consort of Enlil |
 | Domain | Weather, storms, rain, lightning |
 | Sacred Number | 10 (or 6, depending on tradition) |
@@ -24,9 +24,9 @@ Ishkur/Adad was a significant but not supreme deity in the Mesopotamian pantheon
 Sitchin identified Ishkur as an Anunnaki who operated weather control systems:
 
 1. **Weather Controller** — Ishkur managed the atmospheric systems of Earth, possibly using climate control technology
-2. **The Flood Mechanism** — In some traditions, Ishkur was the god who released the rain that caused the Great Flood (though [[Enlil]] was the ultimate decision-maker)
+2. **The Flood Mechanism** — In some traditions, Ishkur was the god who released the rain that caused the Great Flood (though [Enlil](Enlil.md) was the ultimate decision-maker)
 3. **Regional God** — Ishkur was particularly associated with the northern and western regions of Mesopotamia
-4. **The Storm God Archetype** — Ishkur became the model for storm gods throughout the Near East: [[Ba'al]], [[Hadad]], [[Zeus]], and [[Jupiter]]
+4. **The Storm God Archetype** — Ishkur became the model for storm gods throughout the Near East: Ba'al, Hadad, Zeus, and Jupiter
 
 ## The Name
 
@@ -37,16 +37,16 @@ Sitchin identified Ishkur as an Anunnaki who operated weather control systems:
 
 ## Cult Centers
 
-Ishkur's primary temples were at [[Karkara]] in southern Mesopotamia and at [[Aleppo]] in Syria. His cult was carried by [[Aramean]] and [[Canaanite]] tribes throughout the Near East.
+Ishkur's primary temples were at Karkara in southern Mesopotamia and at Aleppo in Syria. His cult was carried by Aramean and Canaanite tribes throughout the Near East.
 
 ## See Also
 
-- [[Enlil]] — Ishkur's father
-- [[Ninurta]] — Another son of Enlil
-- [[Potopa]] — The Great Flood
-- [[Egypt]] — Egyptian weather gods
-- [[Řecko]] — Greek parallels (Zeus)
-- [[Severská]] — Norse parallels (Thor)
+- [Enlil](Enlil.md) — Ishkur's father
+- [Ninurta](Ninurta.md) — Another son of Enlil
+- [Flood](../timeline/flood.md) — The Great Flood
+- [Egypt](../religions/Egypt.md) — Egyptian weather gods
+- [Greece](../religions/greece.md) — Greek parallels (Zeus)
+- [Norse](../religions/norse.md) — Norse parallels (Thor)
 
 ## Sources
 

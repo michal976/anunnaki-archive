@@ -15,6 +15,6 @@ The linguistic critique of Zecharia Sitchin's work focuses on his treatment of S
 
 ## See Also
 
-- [[Překlady-spory]] — Translation disputes
-- [[SHEM]] — The rocketship interpretation
-- [[Mainstream-asyriologie]] — Academic view
+- [Translation Disputes](translation-disputes.md) — Translation disputes
+- [SHEM](../concepts/SHEM.md) — The rocketship interpretation
+- [Mainstream Assyriology](mainstream-assyriology.md) — Academic view

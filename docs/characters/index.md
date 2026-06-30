@@ -4,53 +4,53 @@ tags: [anunnaki, postavy, characters, index, english]
 
 # Postavy (Characters)
 
-This folder catalogs the key figures in Zecharia Sitchin's Anunnaki narrative — the gods, demigods, and heroic humans who populate the Earth Chronicles. These beings are not mythological abstractions but, in Sitchin's reading, real historical actors from [[Nibiru]] and Earth.
+This folder catalogs the key figures in Zecharia Sitchin's Anunnaki narrative — the gods, demigods, and heroic humans who populate the Earth Chronicles. These beings are not mythological abstractions but, in Sitchin's reading, real historical actors from [Nibiru](Nibiru.md) and Earth.
 
 ## The Leadership of Nibiru
 
 | Character | Role |
 |-----------|------|
-| [[Anu]] | King of Nibiru, patriarch of the Anunnaki |
-| [[Antum]] | Anu's consort |
-| [[Tiamat-Kingu\|Tiamat]] | Primordial planet-goddess |
-| [[Tiamat-Kingu\|Kingu]] | Tiamat's champion, first leader of the Igigi |
+| [Anu](Anu.md) | King of Nibiru, patriarch of the Anunnaki |
+| Antum | Anu's consort |
+| [Tiamat](Tiamat-Kingu.md) | Primordial planet-goddess |
+| [Kingu](Tiamat-Kingu.md) | Tiamat's champion, first leader of the Igigi |
 
 ## The Principal Anunnaki on Earth
 
 | Character | Role | Domain |
 |-----------|------|--------|
-| [[Enki]] | Chief Scientist, Creator of Humanity | [[Eridu]], [[Abzu]] |
-| [[Enlil]] | Commander, Executive Officer | [[Nippur]], Earth Command |
-| [[Ninmah]] | Mother Goddess, Geneticist | [[Dilmun]], Creation |
-| [[Marduk]] | Enki's firstborn son, Lord of Babylon | [[Babylon]] |
-| [[Nergal]] | Lord of the Underworld | [[Kutha]], [[Irkalla]] |
-| [[Ereshkigal]] | Queen of the Underworld | [[Irkalla]] |
-| [[Inanna]] | Warrior Goddess of Love and War | [[Uruk]] |
-| [[Utu]] | Sun God, Spaceport Commander | [[Sippar]] |
-| [[Nannar]] | Moon God, Timekeeper | [[Ur]] |
-| [[Ninurta]] | Warrior, Enlil's son | [[Lagash]] |
-| [[Nabu]] | God of Writing and Records | [[Borsippa]] |
-| [[Ishkur]] | Storm God, Weather Controller | [[Karkara]] |
-| [[Gibil]] | God of Fire and Metallurgy | — |
-| [[Dumuzi]] | Shepherd God, Inanna's consort | [[Bad-tibira]] |
+| [Enki](Enki.md) | Chief Scientist, Creator of Humanity | [Eridu](../concepts/Eridu.md), Abzu |
+| [Enlil](Enlil.md) | Commander, Executive Officer | [Nippur](../places/Nippur.md), Earth Command |
+| [Ninmah](Ninmah.md) | Mother Goddess, Geneticist | Dilmun, Creation |
+| [Marduk](Marduk.md) | Enki's firstborn son, Lord of Babylon | [Babylon](../places/Babylon.md) |
+| [Nergal](Nergal.md) | Lord of the Underworld | Kutha, Irkalla |
+| [Ereshkigal](Ereshkigal.md) | Queen of the Underworld | Irkalla |
+| [Inanna](Inanna.md) | Warrior Goddess of Love and War | [Uruk](../places/Uruk.md) |
+| [Utu](Utu.md) | Sun God, Spaceport Commander | [Sippar](../places/Sippar.md) |
+| [Nannar](Nannar.md) | Moon God, Timekeeper | [Ur](../places/Ur.md) |
+| [Ninurta](Ninurta.md) | Warrior, Enlil's son | Lagash |
+| [Nabu](Nabu.md) | God of Writing and Records | Borsippa |
+| [Ishkur](Ishkur.md) | Storm God, Weather Controller | Karkara |
+| [Gibil](Gibil.md) | God of Fire and Metallurgy | — |
+| [Dumuzi](Dumuzi.md) | Shepherd God, Inanna's consort | Bad-tibira |
 
 ## Humans and Demigods
 
 | Character | Role |
 |-----------|------|
-| [[Adamu]] | First genetically engineered human |
-| [[Adapa]] | The Sage, Enki's assistant |
-| [[Gilgameš]] | King of Uruk, two-thirds divine |
-| [[Etana]] | Early Sumerian king who flew to heaven |
-| [[Abraham]] | Patriarch from Ur |
-| [[Noah]] ([[Ziusudra]]) | Flood survivor |
+| [Adamu](../concepts/Adamu.md) | First genetically engineered human |
+| [Adapa](../concepts/Adapa.md) | The Sage, Enki's assistant |
+| [Gilgamesh](gilgamesh.md) | King of Uruk, two-thirds divine |
+| [Etana](Etana.md) | Early Sumerian king who flew to heaven |
+| Abraham | Patriarch from Ur |
+| Noah (Ziusudra) | Flood survivor |
 
 ## Celestial Bodies
 
 | Character | Role |
 |-----------|------|
-| [[Nibiru]] | The twelfth planet, home of the Anunnaki |
-| [[Tiamat-Kingu\|Tiamat]] | The destroyed planet, became Earth and asteroid belt |
+| [Nibiru](Nibiru.md) | The twelfth planet, home of the Anunnaki |
+| [Tiamat](Tiamat-Kingu.md) | The destroyed planet, became Earth and asteroid belt |
 
 ---
 

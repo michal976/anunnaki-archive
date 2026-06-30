@@ -4,16 +4,16 @@ tags: [anunnaki, concept, eridu, first-settlement, english]
 
 # Eridu (in Concepts)
 
-This note provides the conceptual overview of **Eridu** as the first Anunnaki settlement. For the geographical and archaeological details, see the corresponding file in the [[Místa/]] directory: [[Eridu]].
+This note provides the conceptual overview of **Eridu** as the first Anunnaki settlement. For the geographical and archaeological details, see the corresponding file in the places/ directory: [Eridu](Eridu.md).
 
 ## Eridu as a Concept
 
 In the Anunnaki narrative, Eridu represents:
 
 1. **The First City** — The first settlement established by the Anunnaki on Earth
-2. **The Landing Site** — The place where the first spacecraft from [[Nibiru]] landed
-3. **Enki's Domain** — The headquarters of [[Enki]], the chief scientist
-4. **The Source of Wisdom** — The location of the [[Apsu]] (the cosmic waters), the source of Enki's wisdom
+2. **The Landing Site** — The place where the first spacecraft from [Nibiru](../characters/Nibiru.md) landed
+3. **Enki's Domain** — The headquarters of [Enki](../characters/Enki.md), the chief scientist
+4. **The Source of Wisdom** — The location of the [Apsu](../places/Apsu.md) (the cosmic waters), the source of Enki's wisdom
 
 ## The Sumerian King List
 
@@ -26,17 +26,17 @@ Sitchin read this as: after the Anunnaki leadership arrived from Nibiru, their f
 
 Eridu served as:
 - The administrative center during the early phase of Anunnaki settlement
-- The laboratory where [[Adamu]] was created
+- The laboratory where [Adamu](Adamu.md) was created
 - The distribution point for the ME (divine decrees)
 - A key DUR.AN.KI installation
 
 ## See Also
 
-- [[Eridu]] (in Místa/) — Full geographical and archaeological details
-- [[Enki]] — The lord of Eridu
-- [[Přistání-v-Eridu]] — The landing at Eridu in the Timeline
-- [[E.DIN]] — The region containing Eridu
-- [[Sumer]] — Sumerian civilization
+- [Eridu](Eridu.md) (in places/) — Full geographical and archaeological details
+- [Enki](../characters/Enki.md) — The lord of Eridu
+- [Landing In Eridu](../timeline/landing-in-eridu.md) — The landing at Eridu in the Timeline
+- [E.Din](E.DIN.md) — The region containing Eridu
+- [Sumer](../religions/Sumer.md) — Sumerian civilization
 
 ## Sources
 

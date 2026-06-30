@@ -19,7 +19,7 @@ Hancock cited Sitchin's work on the precessional cycle and the dating of the Giz
 
 ## See Also
 
-- [[Precese]] — The precessional cycle
-- [[Gíza]] — The Giza complex
-- [[Daniken]] — Erich von Däniken
-- [[Theory-of-Ancient-Astronauts]] — Ancient astronaut theory
+- [Precession](../themes/precession.md) — The precessional cycle
+- [Giza](../places/giza.md) — The Giza complex
+- [Daniken](Daniken.md) — Erich von Däniken
+- [Theory Of Ancient Astronauts](../modern-science/Theory-of-Ancient-Astronauts.md) — Ancient astronaut theory

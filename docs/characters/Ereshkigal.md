@@ -4,16 +4,16 @@ tags: [anunnaki, postava, ereshkigal, underworld, queen, english]
 
 # Ereshkigal
 
-**Ereshkigal** (Sumerian: *Ereshkigal*, "Lady of the Great Earth" — i.e., the underworld) was the queen of the underworld (*Irkalla*), the elder sister of [[Inanna]], and a central figure in one of the most dramatic stories of the [[Anunnaki]] — the Descent of Inanna.
+**Ereshkigal** (Sumerian: *Ereshkigal*, "Lady of the Great Earth" — i.e., the underworld) was the queen of the underworld (*Irkalla*), the elder sister of [Inanna](Inanna.md), and a central figure in one of the most dramatic stories of the Anunnaki — the Descent of Inanna.
 
 ## Role in the Anunnaki Hierarchy
 
 | Attribute | Detail |
 |-----------|--------|
-| Father | [[Anu]] (or possibly [[Enlil]]) |
+| Father | [Anu](Anu.md) (or possibly [Enlil](Enlil.md)) |
 | Mother | Unknown |
 | Domain | The underworld (Irkalla/Kur) |
-| Consort | [[Nergal]] (by some accounts, forced upon her) |
+| Consort | [Nergal](Nergal.md) (by some accounts, forced upon her) |
 | Title | Queen of the Great Below, Lady of Death |
 
 ## The Descent of Inanna
@@ -23,30 +23,30 @@ Ereshkigal is most famous for her role in the myth of Inanna's descent to the un
 2. At each of the seven gates, she is forced to remove an article of clothing or jewelry
 3. She arrives before Ereshkigal "naked and bowed low"
 4. Ereshkigal condemns Inanna to death and hangs her corpse on a hook
-5. [[Enki]] creates two genderless beings who sympathize with Ereshkigal and revive Inanna
-6. Inanna must find a replacement — ultimately choosing her consort [[Dumuzi]]
+5. [Enki](Enki.md) creates two genderless beings who sympathize with Ereshkigal and revive Inanna
+6. Inanna must find a replacement — ultimately choosing her consort [Dumuzi](Dumuzi.md)
 
 ## Sitchin's Interpretation
 
 Sitchin read the Descent of Inanna as a political narrative:
 
-1. **Territorial Dispute** — Ereshkigal was the elder daughter of [[Anu]] who was given dominion over the underworld (possibly the African continent or the southern hemisphere) while Inanna received [[Uruk]]
+1. **Territorial Dispute** — Ereshkigal was the elder daughter of [Anu](Anu.md) who was given dominion over the underworld (possibly the African continent or the southern hemisphere) while Inanna received [Uruk](../places/Uruk.md)
 2. **The Usurper** — Inanna attempted to seize Ereshkigal's domain
 3. **The Judgment** — Ereshkigal defended her territory and humiliated Inanna
-4. **The Compromise** — Through the intervention of [[Enki]], a compromise was reached — Inanna was freed but had to provide a substitute for her crimes
-5. **Nergal's Alliance** — Ereshkigal eventually married [[Nergal]], uniting the underworld with the forces of war and plague
+4. **The Compromise** — Through the intervention of [Enki](Enki.md), a compromise was reached — Inanna was freed but had to provide a substitute for her crimes
+5. **Nergal's Alliance** — Ereshkigal eventually married [Nergal](Nergal.md), uniting the underworld with the forces of war and plague
 
 ## Ereshkigal and Nergal
 
-The story of Ereshkigal's marriage to [[Nergal]] is told in the epic *Nergal and Ereshkigal*. Nergal was sent to the underworld as an envoy or to pay homage, but he disrespected Ereshkigal and was sentenced to death. He eventually conquered the underworld and became her consort.
+The story of Ereshkigal's marriage to [Nergal](Nergal.md) is told in the epic *Nergal and Ereshkigal*. Nergal was sent to the underworld as an envoy or to pay homage, but he disrespected Ereshkigal and was sentenced to death. He eventually conquered the underworld and became her consort.
 
 ## See Also
 
-- [[Inanna]] — Ereshkigal's sister and rival
-- [[Nergal]] — Ereshkigal's consort
-- [[Dumuzi]] — The substitute chosen by Inanna
-- [[Enki]] — The mediator
-- [[Sumer]] — Sumerian underworld beliefs
+- [Inanna](Inanna.md) — Ereshkigal's sister and rival
+- [Nergal](Nergal.md) — Ereshkigal's consort
+- [Dumuzi](Dumuzi.md) — The substitute chosen by Inanna
+- [Enki](Enki.md) — The mediator
+- [Sumer](../religions/Sumer.md) — Sumerian underworld beliefs
 
 ## Sources
 

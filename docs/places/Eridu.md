@@ -4,7 +4,7 @@ tags: [anunnaki, misto, eridu, first-settlement, enki, english]
 
 # Eridu
 
-**Eridu** (Sumerian: *Eridug*; Akkadian: *Iri-du* — "the good city" or "house built in the distance") was the southernmost of the great Sumerian city-states, located approximately 12 kilometers southwest of [[Ur]] in present-day southern Iraq. In Zecharia Sitchin's Anunnaki narrative, Eridu holds the distinction of being the **first settlement of the Anunnaki on Earth**.
+**Eridu** (Sumerian: *Eridug*; Akkadian: *Iri-du* — "the good city" or "house built in the distance") was the southernmost of the great Sumerian city-states, located approximately 12 kilometers southwest of [Ur](Ur.md) in present-day southern Iraq. In Zecharia Sitchin's Anunnaki narrative, Eridu holds the distinction of being the **first settlement of the Anunnaki on Earth**.
 
 ## Historical Significance
 
@@ -16,10 +16,10 @@ According to the Sumerian King List, Eridu was the first city in the world to wh
 
 Sitchin identified Eridu as the site of the original Anunnaki base camp. Key points include:
 
-1. **Eridu = E.RI.DU** — Sumerian for "House Built Far Away" or "House in the Distance," referring to the Anunnaki's long journey from [[Nibiru]]
-2. **Enki's Domain** — Eridu was the cult center of [[Enki]] (Ea), the chief scientist of the Anunnaki and the god who would later create humanity
+1. **Eridu = E.RI.DU** — Sumerian for "House Built Far Away" or "House in the Distance," referring to the Anunnaki's long journey from [Nibiru](../characters/Nibiru.md)
+2. **Enki's Domain** — Eridu was the cult center of [Enki](../characters/Enki.md) (Ea), the chief scientist of the Anunnaki and the god who would later create humanity
 3. **The Abzu Temple** — Enki's temple at Eridu, the *E-abzu* ("House of the Cosmic Waters"), was the first temple ever built, constructed directly over a sacred spring believed to be the entrance to the underworld
-4. **The Garden of Eden** — Sitchin located the biblical [[E.DIN]] (Garden of Eden) in the region around Eridu
+4. **The Garden of Eden** — Sitchin located the biblical [E.Din](../concepts/E.DIN.md) (Garden of Eden) in the region around Eridu
 
 ## The Abzu and the Sacred Spring
 
@@ -31,12 +31,12 @@ Excavations at Tel Abu Shahrain (ancient Eridu) revealed 19 distinct building le
 
 ## See Also
 
-- [[Enki]] — The god of Eridu
-- [[Apsu]] — The cosmic waters
-- [[E.DIN]] — The Garden of Eden
-- [[DUR.AN.KI]] — The "Bond Heaven-Earth"
-- [[Přistání-v-Eridu]] — The landing at Eridu
-- [[Ur]] — The nearby city of Nannar
+- [Enki](../characters/Enki.md) — The god of Eridu
+- [Apsu](Apsu.md) — The cosmic waters
+- [E.Din](../concepts/E.DIN.md) — The Garden of Eden
+- [DUR.AN.KI](../concepts/DUR.AN.KI.md) — The "Bond Heaven-Earth"
+- [Landing In Eridu](../timeline/landing-in-eridu.md) — The landing at Eridu
+- [Ur](Ur.md) — The nearby city of Nannar
 
 ## Sources
 

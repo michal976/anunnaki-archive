@@ -8,10 +8,10 @@ The ancient astronaut hypothesis proposes that extraterrestrial beings visited E
 
 ## Key Proponents
 
-- [[Erich von Däniken]] — *Chariots of the Gods* (1968)
-- [[Zecharia Sitchin]] — *The 12th Planet* (1976)
-- [[Graham Hancock]] — *Fingerprints of the Gods* (1995)
-- [[Robert Bauval]] — *The Orion Mystery* (1994)
+- Erich von Däniken — *Chariots of the Gods* (1968)
+- Zecharia Sitchin — *The 12th Planet* (1976)
+- Graham Hancock — *Fingerprints of the Gods* (1995)
+- Robert Bauval — *The Orion Mystery* (1994)
 
 ## Key Claims
 
@@ -22,7 +22,7 @@ The ancient astronaut hypothesis proposes that extraterrestrial beings visited E
 
 ## See Also
 
-- [[Däniken]] — Erich von Däniken
-- [[Hancock]] — Graham Hancock
-- [[Sitchinovy-klíčové]] — Sitchin's key claims
-- [[Dvanáctá-planeta]] — The 12th Planet
+- Däniken — Erich von Däniken
+- [Hancock](../followers/Hancock.md) — Graham Hancock
+- [Sitchin Key Quotes](../quotes/sitchin-key-quotes.md) — Sitchin's key claims
+- [Twelfth Planet](../sources/twelfth-planet.md) — The 12th Planet

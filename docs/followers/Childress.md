@@ -19,6 +19,6 @@ Childress frequently cites Sitchin's work on the Anunnaki and explores the techn
 
 ## See Also
 
-- [[Vimány-a-letadla]] — Flying vehicles
-- [[Megalitická-archeologie]] — Megalithic archaeology
-- [[Hancock]] — Graham Hancock
+- [Vimanas And Aircraft](../themes/vimanas-and-aircraft.md) — Flying vehicles
+- [Megalithic Archaeology](../modern-science/megalithic-archaeology.md) — Megalithic archaeology
+- [Hancock](Hancock.md) — Graham Hancock

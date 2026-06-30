@@ -10,7 +10,7 @@ tags: [anunnaki, postava, gibil, fire, metallurgy, english]
 
 | Attribute | Detail |
 |-----------|--------|
-| Father | [[Enki]] (in most accounts) |
+| Father | [Enki](Enki.md) (in most accounts) |
 | Mother | Various traditions |
 | Domain | Fire, metalworking, energy, crafts |
 | Sacred Symbol | The torch, the furnace |
@@ -27,19 +27,19 @@ In Sumerian and Akkadian texts, Gibil is described as:
 - The craftsman who fashions tools and weapons
 - The messenger between the worlds of gods and humans
 
-Sitchin emphasized Gibil's connection to [[Enki]]'s domain, seeing him as a son or apprentice who managed the technological infrastructure of the Anunnaki.
+Sitchin emphasized Gibil's connection to [Enki](Enki.md)'s domain, seeing him as a son or apprentice who managed the technological infrastructure of the Anunnaki.
 
 ## The Meaning of Gibil
 
-The name *Gibil* is related to the Sumerian word for "fire" (*gibil*/*gir*). In some lists of gods, Gibil is synonymous with the god [[Girra]] or is considered an aspect of [[Nusku]].
+The name *Gibil* is related to the Sumerian word for "fire" (*gibil*/*gir*). In some lists of gods, Gibil is synonymous with the god Girra or is considered an aspect of Nusku.
 
 ## See Also
 
-- [[Enki]] — Gibil's father and master
-- [[Gibil]] — The god of fire
-- [[Těžba-zlata]] — Gold mining operations
-- [[SHEM]] — Rocketship technology
-- [[Monoatomické-zlato]] — Monatomic gold
+- [Enki](Enki.md) — Gibil's father and master
+- [Gibil](Gibil.md) — The god of fire
+- [Gold Mining](../timeline/gold-mining.md) — Gold mining operations
+- [SHEM](../concepts/SHEM.md) — Rocketship technology
+- [Monatomic Gold](../themes/monatomic-gold.md) — Monatomic gold
 
 ## Sources
 

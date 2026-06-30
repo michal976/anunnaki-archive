@@ -4,15 +4,15 @@ tags: [anunnaki, concept, adam, first-human, english]
 
 # Adamu
 
-**Adamu** (from the Sumerian *Adamu*; biblical *Adam*) was, according to Zecharia Sitchin, the first genetically engineered [[Homo sapiens]] — the prototype human created by [[Enki]] and [[Ninmah]] to serve as a "primitive worker" (*Lullu*) for the [[Anunnaki]].
+**Adamu** (from the Sumerian *Adamu*; biblical *Adam*) was, according to Zecharia Sitchin, the first genetically engineered Homo sapiens — the prototype human created by [Enki](../characters/Enki.md) and [Ninmah](../characters/Ninmah.md) to serve as a "primitive worker" (*Lullu*) for the Anunnaki.
 
 ## The Creation of Adamu
 
-In Sitchin's reading of the [[Atra-Hasis]] epic and the [[Bible-Genesis]] account:
+In Sitchin's reading of the [Atra Hasis](../sources/Atra-Hasis.md) epic and the [Bible Genesis](../sources/Bible-Genesis.md) account:
 
-1. The [[Igigi]] (lower Anunnaki) had been mining gold for 3,600 years and rebelled
-2. [[Enki]] proposed creating a being that could perform the labor
-3. [[Ninmah]] (Nintur) mixed "clay" (hominid stock — [[Homo erectus]]) with the "blood of a god" (Anunnaki DNA)
+1. The [Igigi](Igigi.md) (lower Anunnaki) had been mining gold for 3,600 years and rebelled
+2. [Enki](../characters/Enki.md) proposed creating a being that could perform the labor
+3. [Ninmah](../characters/Ninmah.md) (Nintur) mixed "clay" (hominid stock — Homo erectus) with the "blood of a god" (Anunnaki DNA)
 4. The mixture was placed in a "womb of birth" (a laboratory incubation chamber)
 5. Fourteen embryos were created — seven males and seven females
 6. The result was *Adamu* — a hybrid being with the form of a god but lacking the full divine essence
@@ -21,11 +21,11 @@ In Sitchin's reading of the [[Atra-Hasis]] epic and the [[Bible-Genesis]] accoun
 
 ## The Meaning of Adamu
 
-The name *Adamu* in Sumerian means "of the earth" or "earthling." The biblical [[Adam]] shares this etymology — from the Hebrew *adamah* ("ground" or "earth"). Sitchin argued that both derive from the same Sumerian root.
+The name *Adamu* in Sumerian means "of the earth" or "earthling." The biblical Adam shares this etymology — from the Hebrew *adamah* ("ground" or "earth"). Sitchin argued that both derive from the same Sumerian root.
 
 ## Biblical Counterpart
 
-In [[Bible-Genesis|Genesis]], Adam is created from "the dust of the ground" and given the "breath of life" — which Sitchin interpreted as the Anunnaki genetic essence (the *Nefesh*). The Genesis account is a compressed, monotheistic version of the earlier Sumerian narrative.
+In [Genesis](../sources/Bible-Genesis.md), Adam is created from "the dust of the ground" and given the "breath of life" — which Sitchin interpreted as the Anunnaki genetic essence (the *Nefesh*). The Genesis account is a compressed, monotheistic version of the earlier Sumerian narrative.
 
 ## The Adamu Model
 
@@ -39,17 +39,17 @@ Sitchin proposed that Adamu was created as a prototype — not fully perfected. 
 
 ## The Garden of Eden
 
-The biblical [[E.DIN|Garden of Eden]] (from Sumerian *E.DIN* = "the righteous abode of the righteous ones") was the Anunnaki settlement in Mesopotamia, not a mythological paradise. Adamu was placed there to "dress and keep it" — to work as a gardener and laborer.
+The biblical [Garden of Eden](E.DIN.md) (from Sumerian *E.DIN* = "the righteous abode of the righteous ones") was the Anunnaki settlement in Mesopotamia, not a mythological paradise. Adamu was placed there to "dress and keep it" — to work as a gardener and laborer.
 
 ## See Also
 
-- [[Adapa]] — The "perfect" human, also created by Enki
-- [[Enki]] — The creator of Adamu
-- [[Ninmah]] — The geneticist who created Adamu
-- [[Genetické-inženýrství]] — The science of creation
-- [[E.DIN]] — The Garden of Eden
-- [[Smíšená-manželství]] — Later interbreeding
-- [[Stvoření-člověka]] — The creation account
+- [Adapa](Adapa.md) — The "perfect" human, also created by Enki
+- [Enki](../characters/Enki.md) — The creator of Adamu
+- [Ninmah](../characters/Ninmah.md) — The geneticist who created Adamu
+- [Genetic Engineering](../themes/genetic-engineering.md) — The science of creation
+- [E.Din](E.DIN.md) — The Garden of Eden
+- [Mixed Marriages](../themes/mixed-marriages.md) — Later interbreeding
+- [Creation Of Humans](../timeline/creation-of-humans.md) — The creation account
 
 ## Sources
 

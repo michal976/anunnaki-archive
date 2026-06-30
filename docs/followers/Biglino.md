@@ -25,6 +25,6 @@ Biglino extends Sitchin's work with his own linguistic analysis of the Hebrew te
 
 ## See Also
 
-- [[Starý-zákon]] — The Old Testament
-- [[Bible-Genesis]] — Biblical analysis
-- [[Heiser]] — Heiser's critique of this approach
+- [Old Testament](../religions/old-testament.md) — The Old Testament
+- [Bible Genesis](../sources/Bible-Genesis.md) — Biblical analysis
+- [Heiser](../criticism/Heiser.md) — Heiser's critique of this approach

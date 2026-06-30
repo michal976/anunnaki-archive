@@ -4,7 +4,7 @@ tags: [modern-science, planet-nine, astronomy, english]
 
 # Planet Nine (Planet Nine)
 
-In 2016, astronomers [[Konstantin Batygin]] and [[Michael E. Brown]] proposed the existence of a ninth planet in the outer solar system.
+In 2016, astronomers Konstantin Batygin and Michael E. Brown proposed the existence of a ninth planet in the outer solar system.
 
 ## The Hypothesis
 
@@ -24,6 +24,6 @@ In 2016, astronomers [[Konstantin Batygin]] and [[Michael E. Brown]] proposed th
 
 ## See Also
 
-- [[Nibiru]] — Sitchin's planet
-- [[Nibiru-kritika]] — Criticism of Nibiru
-- [[Panspermie]] — Life from space
+- [Nibiru](../characters/Nibiru.md) — Sitchin's planet
+- [Nibiru Critique](../criticism/nibiru-critique.md) — Criticism of Nibiru
+- [Panspermia](panspermia.md) — Life from space

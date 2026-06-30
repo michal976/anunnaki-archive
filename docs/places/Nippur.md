@@ -4,11 +4,11 @@ tags: [anunnaki, misto, nippur, enlil, mission-control, english]
 
 # Nippur
 
-**Nippur** (Sumerian: *Nibru*; Akkadian: *Nippur*) was one of the most sacred cities of ancient Sumer, located approximately 100 kilometers southeast of modern [[Baghdad]] in central Iraq. For Zecharia Sitchin, Nippur was the **Mission Control Center of the Anunnaki** — the central command post for their operations on Earth.
+**Nippur** (Sumerian: *Nibru*; Akkadian: *Nippur*) was one of the most sacred cities of ancient Sumer, located approximately 100 kilometers southeast of modern Baghdad in central Iraq. For Zecharia Sitchin, Nippur was the **Mission Control Center of the Anunnaki** — the central command post for their operations on Earth.
 
 ## Historical Significance
 
-Nippur was never a political capital in the conventional sense. Instead, it served as the religious and ceremonial heart of Sumer. The city was dedicated to [[Enlil]], the supreme commander of the [[Anunnaki]], and housed his great temple — the **Ekur** ("House of the Mountain").
+Nippur was never a political capital in the conventional sense. Instead, it served as the religious and ceremonial heart of Sumer. The city was dedicated to [Enlil](../characters/Enlil.md), the supreme commander of the Anunnaki, and housed his great temple — the **Ekur** ("House of the Mountain").
 
 ## Sitchin's Interpretation
 
@@ -16,10 +16,10 @@ Nippur was never a political capital in the conventional sense. Instead, it serv
 
 Key points of Sitchin's reading:
 
-1. **Ekur as Mission Control** — The Ekur temple was not merely a place of worship but a communications facility, possibly housing the [[DUR.AN.KI]] — the "Bond Heaven-Earth" — a device for communicating with [[Nibiru]]
+1. **Ekur as Mission Control** — The Ekur temple was not merely a place of worship but a communications facility, possibly housing the [DUR.AN.KI](../concepts/DUR.AN.KI.md) — the "Bond Heaven-Earth" — a device for communicating with [Nibiru](../characters/Nibiru.md)
 2. **The Sacred Precinct** — Nippur was off-limits to ordinary humans; only the priesthood (Anunnaki-appointed) could enter
 3. **Enlil's Seat** — Enlil's authority was absolute here; he was the ultimate decision-maker for Earth operations
-4. **Kingship from Nippur** — The Sumerian King List states that kingship first descended from heaven at [[Eridu]], but the right to rule was confirmed at Nippur
+4. **Kingship from Nippur** — The Sumerian King List states that kingship first descended from heaven at [Eridu](../concepts/Eridu.md), but the right to rule was confirmed at Nippur
 
 ## The Ekur Temple
 
@@ -36,16 +36,16 @@ Excavations at Nippur (primarily by the University of Pennsylvania, 1889–1900)
 - The remains of the great Ekur ziggurat
 - Thousands of cuneiform tablets, including the Sumerian King List and creation texts
 - Evidence of continuous occupation from the 5th millennium BCE to the 8th century CE
-- Destruction layers corresponding to the Elamite invasion and later the [[Nukleární-zničení|nuclear destruction]] of 2024 BCE
+- Destruction layers corresponding to the Elamite invasion and later the [nuclear destruction](../quotes/nuclear-destruction.md) of 2024 BCE
 
 ## See Also
 
-- [[Enlil]] — The god of Nippur
-- [[DUR.AN.KI]] — The "Bond Heaven-Earth"
-- [[Eridu]] — The first settlement
-- [[Sippar]] — The spaceport
-- [[ME]] — The divine decrees kept at Nippur
-- [[Tabulka-osudů]] — The Tablet of Destinies
+- [Enlil](../characters/Enlil.md) — The god of Nippur
+- [DUR.AN.KI](../concepts/DUR.AN.KI.md) — The "Bond Heaven-Earth"
+- [Eridu](../concepts/Eridu.md) — The first settlement
+- [Sippar](Sippar.md) — The spaceport
+- [ME](../concepts/ME.md) — The divine decrees kept at Nippur
+- [Tablet Of Destinies](../concepts/tablet-of-destinies.md) — The Tablet of Destinies
 
 ## Sources
 

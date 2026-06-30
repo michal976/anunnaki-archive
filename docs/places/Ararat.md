@@ -8,15 +8,15 @@ tags: [anunnaki, misto, ararat, flood, landing, english]
 
 ## In the Biblical Account
 
-In [[Bible-Genesis|Genesis 8:4]], the ark of [[Noah]] comes to rest "upon the mountains of Ararat" after the Great Flood. This has traditionally been interpreted as Mount Ararat itself, though the phrase "mountains of Urartu" (Ararat) refers to the broader region of ancient Armenia.
+In [Genesis 8:4](../sources/Bible-Genesis.md), the ark of Noah comes to rest "upon the mountains of Ararat" after the Great Flood. This has traditionally been interpreted as Mount Ararat itself, though the phrase "mountains of Urartu" (Ararat) refers to the broader region of ancient Armenia.
 
 ## Sitchin's Interpretation
 
 Sitchin went beyond this biblical reading and identified Mount Ararat as a crucial navigation landmark in the Anunnaki spaceport system:
 
-1. **Landing Beacon** — The mountain's distinctive double peak (Greater and Little Ararat) served as a natural landmark for Anunnaki spacecraft approaching the [[Sinai Peninsula|Sinai]] spaceport
-2. **Post-Flood Landing Site** — After the Great Flood (~13,000 BCE), the ark of the [[Anunnaki]] (not Noah's ark, but the spacecraft carrying the chief gods) landed on Ararat
-3. **The Landing Corridor** — Ararat formed one anchor point of a landing corridor that included [[Jeruzalém]] and terminated at the spaceport in [[Sinaj|Sinai]]
+1. **Landing Beacon** — The mountain's distinctive double peak (Greater and Little Ararat) served as a natural landmark for Anunnaki spacecraft approaching the Sinai spaceport
+2. **Post-Flood Landing Site** — After the Great Flood (~13,000 BCE), the ark of the Anunnaki (not Noah's ark, but the spacecraft carrying the chief gods) landed on Ararat
+3. **The Landing Corridor** — Ararat formed one anchor point of a landing corridor that included [Jerusalem](jerusalem.md) and terminated at the spaceport in [Sinai](sinai.md)
 
 ## The Ararat Anomaly
 
@@ -28,20 +28,20 @@ Sitchin proposed that the Anunnaki landing corridor was defined by:
 
 | Landmark | Role |
 |----------|------|
-| [[Ararat]] | Northern anchor / first approach point |
-| [[Jeruzalém]] | The "Mount of the Crossing" — guidance waypoint |
-| [[Baalbek]] | Launch platform / secondary guidance |
-| [[Gíza]] | Primary navigation beacon (Great Pyramid) |
-| [[Sinaj]] | Main spaceport / landing strip |
+| [Ararat](Ararat.md) | Northern anchor / first approach point |
+| [Jerusalem](jerusalem.md) | The "Mount of the Crossing" — guidance waypoint |
+| [Baalbek](Baalbek.md) | Launch platform / secondary guidance |
+| [Giza](giza.md) | Primary navigation beacon (Great Pyramid) |
+| [Sinai](sinai.md) | Main spaceport / landing strip |
 
 ## See Also
 
-- [[Potopa]] — The Great Flood event
-- [[Sinaj-kosmodrom]] — The Sinai spaceport
-- [[Jeruzalém]] — The Mount of the Crossing
-- [[Baalbek]] — The megalithic platform
-- [[Gíza]] — The navigation beacon
-- [[Navigační-majáky]] — Navigation systems
+- [Flood](../timeline/flood.md) — The Great Flood event
+- [Sinai Spaceport](../concepts/sinai-spaceport.md) — The Sinai spaceport
+- [Jerusalem](jerusalem.md) — The Mount of the Crossing
+- [Baalbek](Baalbek.md) — The megalithic platform
+- [Giza](giza.md) — The navigation beacon
+- [Navigation Beacons](../themes/navigation-beacons.md) — Navigation systems
 
 ## Sources
 

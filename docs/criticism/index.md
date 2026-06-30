@@ -10,20 +10,20 @@ This folder catalogs the scholarly and critical responses to Zecharia Sitchin's 
 
 | Critic | Field | Key Criticism |
 |--------|-------|---------------|
-| [[Mainstream-asyriologie]] | Assyriology | Translation errors |
-| [[Heiser|Michael Heiser]] | Biblical studies | Theological and translation critique |
-| [[Lambert|W. G. Lambert]] | Assyriology | Misreading of Sumerian texts |
-| [[Foster|Benjamin Foster]] | Assyriology | Translation methodology |
-| [[Friedrich]] | Linguistics | Linguistic analysis |
-| [[Sumerologové]] | Sumerology | Academic response |
+| [Mainstream Assyriology](mainstream-assyriology.md) | Assyriology | Translation errors |
+| [Michael Heiser](Heiser.md) | Biblical studies | Theological and translation critique |
+| [W. G. Lambert](Lambert.md) | Assyriology | Misreading of Sumerian texts |
+| [Benjamin Foster](Foster.md) | Assyriology | Translation methodology |
+| [Friedrich](Friedrich.md) | Linguistics | Linguistic analysis |
+| [Sumerologists](sumerologists.md) | Sumerology | Academic response |
 
 ## Key Issues
 
 | Issue | File |
 |-------|------|
-| The Nibiru hypothesis | [[Nibiru-kritika]] |
-| Pseudohistorical methodology | [[Pseudohistorie]] |
-| Translation disputes | [[Překlady-spory]] |
+| The Nibiru hypothesis | [Nibiru Critique](nibiru-critique.md) |
+| Pseudohistorical methodology | [Pseudohistory](pseudohistory.md) |
+| Translation disputes | [Translation Disputes](translation-disputes.md) |
 
 ---
 

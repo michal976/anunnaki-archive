@@ -15,6 +15,6 @@ tags: [followers, janet-sitchin, estate, english]
 
 ## See Also
 
-- [[Sitchinovy-klíčové]] — Sitchin's key statements
-- [[Dvanáctá-planeta]] — His foundational book
-- [[Konec-dnů]] — His final book
+- [Sitchin Key Quotes](../quotes/sitchin-key-quotes.md) — Sitchin's key statements
+- [Twelfth Planet](../sources/twelfth-planet.md) — His foundational book
+- [End Of Days](../sources/end-of-days.md) — His final book

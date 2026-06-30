@@ -15,6 +15,6 @@ tags: [followers, bramley, gods-of-eden, english]
 
 ## See Also
 
-- [[Anunnaki]] — The beings
-- [[Enlil]] — The controller figure
-- [[Stěhování-bohů]] — Migration of the gods
+- Anunnaki — The beings
+- [Enlil](../characters/Enlil.md) — The controller figure
+- [Migration Of Gods](../concepts/migration-of-gods.md) — Migration of the gods

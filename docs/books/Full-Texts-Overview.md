@@ -26,13 +26,13 @@ This note provides a complete bibliography of the primary sources for this vault
 
 ## Primary Sources
 
-- [[Enuma-Elíš]] — The Babylonian creation epic
-- [[Atra-Hasis]] — The Babylonian flood epic
-- [[Bible-Genesis]] — The biblical account
+- [Enuma Elish](../sources/enuma-elish.md) — The Babylonian creation epic
+- [Atra Hasis](../sources/Atra-Hasis.md) — The Babylonian flood epic
+- [Bible Genesis](../sources/Bible-Genesis.md) — The biblical account
 
 ## See Also
 
-- [[Sources/index]] — The Sources folder
-- [[Dvanáctá-planeta]] — Book 1
-- [[Schody-do-nebes]] — Book 2
-- [[Války-bohů-a-lidí]] — Book 3
+- [Index](../themes/index.md) — The Sources folder
+- [Twelfth Planet](../sources/twelfth-planet.md) — Book 1
+- [Stairway To Heaven](../sources/stairway-to-heaven.md) — Book 2
+- [Wars Of Gods And Men](../sources/wars-of-gods-and-men.md) — Book 3

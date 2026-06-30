@@ -4,12 +4,12 @@ tags: [anunnaki, concept, duranki, bond-heaven-earth, english]
 
 # DUR.AN.KI — The Bond Heaven-Earth
 
-**DUR.AN.KI** (Sumerian: *DUR.AN.KI*, "Bond Heaven-Earth") was a sacred term used in Sumerian texts to describe the connection point between the heavens and the Earth. In Zecharia Sitchin's narrative, DUR.AN.KI referred to specific physical installations — communication and guidance devices that linked the [[Anunnaki]] on Earth with their home planet [[Niburi]].
+**DUR.AN.KI** (Sumerian: *DUR.AN.KI*, "Bond Heaven-Earth") was a sacred term used in Sumerian texts to describe the connection point between the heavens and the Earth. In Zecharia Sitchin's narrative, DUR.AN.KI referred to specific physical installations — communication and guidance devices that linked the Anunnaki on Earth with their home planet Niburi.
 
 ## Sumerian Usage
 
 In Sumerian inscriptions, DUR.AN.KI appears as:
-- A name for the sacred precinct of [[Nippur]]
+- A name for the sacred precinct of [Nippur](../places/Nippur.md)
 - A description of certain temples
 - A designation for cosmic connection points
 - The name of a measurement or boundary marker
@@ -25,24 +25,24 @@ The literal meaning is:
 
 Sitchin argued that DUR.AN.KI installations were:
 
-1. **Communication Devices** — Allowing the Anunnaki on Earth to communicate with [[Nibiru]]
+1. **Communication Devices** — Allowing the Anunnaki on Earth to communicate with [Nibiru](../characters/Nibiru.md)
 2. **Navigation Beacons** — Serving as guidance points for spacecraft approaching Earth
 3. **Power Sources** — Possibly generating or channeling energy
 4. **Command Stations** — Centers from which the Anunnaki controlled their operations
 
 ## DUR.AN.KI at Nippur
 
-The most important DUR.AN.KI was located at [[Nippur]], in the temple of [[Enlil]] — the *Ekur* ("Mountain House"). This was the central command post for the Anunnaki mission, from which Enlil governed Earth operations.
+The most important DUR.AN.KI was located at [Nippur](../places/Nippur.md), in the temple of [Enlil](../characters/Enlil.md) — the *Ekur* ("Mountain House"). This was the central command post for the Anunnaki mission, from which Enlil governed Earth operations.
 
 ## DUR.AN.KI at Other Sites
 
 Sitchin identified DUR.AN.KI installations at:
-- [[Nippur]] — The primary command center
-- [[Eridu]] — Enki's settlement
-- [[Sippar]] — The spaceport
-- [[Jeruzalém]] — The "Mount of the Crossing"
-- [[Baalbek]] — The launch platform
-- [[Gíza]] — The navigation beacon
+- [Nippur](../places/Nippur.md) — The primary command center
+- [Eridu](Eridu.md) — Enki's settlement
+- [Sippar](../places/Sippar.md) — The spaceport
+- [Jerusalem](../places/jerusalem.md) — The "Mount of the Crossing"
+- [Baalbek](../places/Baalbek.md) — The launch platform
+- [Giza](../places/giza.md) — The navigation beacon
 
 ## The Types of DUR.AN.KI
 
@@ -54,12 +54,12 @@ Sitchin suggested there were different types of DUR.AN.KI:
 
 ## See Also
 
-- [[Nippur]] — The site of the primary DUR.AN.KI
-- [[Eridu]] — Enki's DUR.AN.KI
-- [[SHEM]] — The rocketships
-- [[Navigační-majáky]] — Navigation beacons
-- [[Kosmodromy]] — Spaceports
-- [[Sumer]] — Sumerian technology
+- [Nippur](../places/Nippur.md) — The site of the primary DUR.AN.KI
+- [Eridu](Eridu.md) — Enki's DUR.AN.KI
+- [SHEM](SHEM.md) — The rocketships
+- [Navigation Beacons](../themes/navigation-beacons.md) — Navigation beacons
+- [Spaceports](../themes/spaceports.md) — Spaceports
+- [Sumer](../religions/Sumer.md) — Sumerian technology
 
 ## Sources
 

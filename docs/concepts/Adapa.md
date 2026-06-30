@@ -4,17 +4,17 @@ tags: [anunnaki, concept, adapa, sage, wisdom, english]
 
 # Adapa
 
-**Adapa** (also known as *Abgal* or *Adapa-Uan*) was a legendary sage in Sumerian and Akkadian tradition, the son of [[Enki]] (Ea) and the first of the seven *Apkallu* (sages) who brought civilization to humanity. In Zecharia Sitchin's narrative, Adapa represents a "perfected" human — the model for the second generation of humanity.
+**Adapa** (also known as *Abgal* or *Adapa-Uan*) was a legendary sage in Sumerian and Akkadian tradition, the son of [Enki](../characters/Enki.md) (Ea) and the first of the seven *Apkallu* (sages) who brought civilization to humanity. In Zecharia Sitchin's narrative, Adapa represents a "perfected" human — the model for the second generation of humanity.
 
 ## The Adapa Myth
 
-The myth of Adapa is preserved on a fragmentary tablet from the [[Amarna]] archives in Egypt (c. 14th century BCE). The story:
+The myth of Adapa is preserved on a fragmentary tablet from the Amarna archives in Egypt (c. 14th century BCE). The story:
 
-1. Adapa is the son of Enki and serves as a priest in [[Eridu]]
+1. Adapa is the son of Enki and serves as a priest in [Eridu](Eridu.md)
 2. He is a wise man, skilled in healing, incantations, and knowledge
 3. While fishing, his boat is capsized by the south wind
 4. Adapa curses the south wind, breaking its wing (stopping the wind)
-5. [[Anu]], the sky god, summons Adapa to [[Nibiru]] to account for his actions
+5. [Anu](../characters/Anu.md), the sky god, summons Adapa to [Nibiru](../characters/Nibiru.md) to account for his actions
 6. Enki warns Adapa not to accept food or drink offered to him — it will be the "food of death"
 7. Adapa appears before Anu and refuses the offered food and drink
 8. Anu is impressed by Adapa's wisdom but disappointed — the food was the "food of life"
@@ -46,12 +46,12 @@ Sitchin saw the Apkallu as a team of Anunnaki-appointed human overseers who tran
 
 ## See Also
 
-- [[Enki]] — Adapa's father
-- [[Adamu]] — The first human prototype
-- [[Gilgameš]] — Another human who sought immortality
-- [[Etana]] — A human who flew to heaven
-- [[Genetické-inženýrství]] — Genetic engineering
-- [[Sumer]] — Sumerian civilization
+- [Enki](../characters/Enki.md) — Adapa's father
+- [Adamu](Adamu.md) — The first human prototype
+- [Gilgamesh](../characters/gilgamesh.md) — Another human who sought immortality
+- [Etana](../characters/Etana.md) — A human who flew to heaven
+- [Genetic Engineering](../themes/genetic-engineering.md) — Genetic engineering
+- [Sumer](../religions/Sumer.md) — Sumerian civilization
 
 ## Sources
 

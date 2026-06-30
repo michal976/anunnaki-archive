@@ -8,8 +8,8 @@ Thank you for subscribing. You now have full access to the entire archive.
 
 ## What Now?
 
-- Start exploring the **[Places](places/)**, **[Characters](characters/)**, and **[Concepts](concepts/)**
-- Check the **[Timeline](timeline/)** for the complete chronological framework
+- Start exploring the **[Places](../places/index.md)**, **[Characters](../characters/index.md)**, and **[Concepts](../concepts/index.md)**
+- Check the **[Timeline](../timeline/index.md)** for the complete chronological framework
 - Use the **search** bar at the top to find anything instantly
 
 ## Need Help?

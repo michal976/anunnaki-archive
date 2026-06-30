@@ -4,17 +4,17 @@ tags: [anunnaki, postava, utu, shamash, sun, spaceport, english]
 
 # Utu
 
-**Utu** (Sumerian: *Utu*, "Bright One"; Akkadian: *Shamash*, "Sun") was the god of the sun and justice in the Mesopotamian pantheon. In Zecharia Sitchin's Anunnaki narrative, Utu was the commander of the [[Sippar]] spaceport and the administrator of justice among both gods and humans.
+**Utu** (Sumerian: *Utu*, "Bright One"; Akkadian: *Shamash*, "Sun") was the god of the sun and justice in the Mesopotamian pantheon. In Zecharia Sitchin's Anunnaki narrative, Utu was the commander of the [Sippar](../places/Sippar.md) spaceport and the administrator of justice among both gods and humans.
 
 ## Role in the Anunnaki Hierarchy
 
 | Attribute | Detail |
 |-----------|--------|
-| Father | [[Nannar]] (Sin, the Moon God) |
-| Mother | [[Ningal]] |
-| Siblings | [[Inanna]] (Ishtar) |
-| Grandfather | [[Enlil]] |
-| Domain | [[Sippar]], the Sun, justice, the spaceport |
+| Father | [Nannar](Nannar.md) (Sin, the Moon God) |
+| Mother | Ningal |
+| Siblings | [Inanna](Inanna.md) (Ishtar) |
+| Grandfather | [Enlil](Enlil.md) |
+| Domain | [Sippar](../places/Sippar.md), the Sun, justice, the spaceport |
 | Sacred Number | 20 |
 | Symbol | The solar disk, the saw, the rays |
 
@@ -30,7 +30,7 @@ Sitchin gave Utu a unique role among the Anunnaki — as the controller of the s
 
 Key points:
 
-1. **The Ebabbara Temple** — Utu's "Shining House" at [[Sippar]] was the control tower for the spaceport
+1. **The Ebabbara Temple** — Utu's "Shining House" at [Sippar](../places/Sippar.md) was the control tower for the spaceport
 2. **The Sun as Beacon** — Utu's association with the sun reflected the use of solar alignment for navigation
 3. **The "Bright One"** — His name *Utu* means "the bright one," describing the dazzling appearance of spacecraft
 4. **The Guide** — Utu was the guide of travelers and the protector of those on journeys, including spacecraft journeys
@@ -46,25 +46,25 @@ Utu was also the supreme judge among the gods and the enforcer of justice:
 
 ## Utu in the Gilgamesh Epic
 
-In the [[Gilgameš|Epic of Gilgamesh]], Utu/Shamash plays a crucial role:
+In the [Epic of Gilgamesh](gilgamesh.md), Utu/Shamash plays a crucial role:
 - He is the patron of Gilgamesh and Enkidu
 - He provides guidance and protection
-- He helps Gilgamesh defeat [[Humbaba]] by sending 13 winds
+- He helps Gilgamesh defeat Humbaba by sending 13 winds
 - He is the one who judges the Bull of Heaven
 
 ## Cult and Worship
 
-Utu's primary cult center was at [[Sippar]] (the Ebabbara temple). Another important temple was at [[Larsa]]. His worship in Mesopotamia goes back to the earliest Sumerian periods.
+Utu's primary cult center was at [Sippar](../places/Sippar.md) (the Ebabbara temple). Another important temple was at Larsa. His worship in Mesopotamia goes back to the earliest Sumerian periods.
 
 ## See Also
 
-- [[Nannar]] — Utu's father
-- [[Inanna]] — Utu's sister
-- [[Sippar]] — Utu's city and spaceport
-- [[Sinaj-kosmodrom]] — The spaceport
-- [[SHEM]] — The rocketship
-- [[Gilgameš]] — The epic hero aided by Utu
-- [[Spravedlnost]] — Justice in Sumerian thought
+- [Nannar](Nannar.md) — Utu's father
+- [Inanna](Inanna.md) — Utu's sister
+- [Sippar](../places/Sippar.md) — Utu's city and spaceport
+- [Sinai Spaceport](../concepts/sinai-spaceport.md) — The spaceport
+- [SHEM](../concepts/SHEM.md) — The rocketship
+- [Gilgamesh](gilgamesh.md) — The epic hero aided by Utu
+- Spravedlnost — Justice in Sumerian thought
 
 ## Sources
 

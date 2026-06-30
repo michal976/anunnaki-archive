@@ -4,12 +4,12 @@ tags: [anunnaki, concept, igigi, workers, rebellion, english]
 
 # Igigi
 
-The **Igigi** were a group of lesser [[Anunnaki]] who served as the workforce for the gold mining operations on Earth. In Zecharia Sitchin's narrative, the Igigi's rebellion against their hard labor was the direct cause of the creation of humanity.
+The **Igigi** were a group of lesser Anunnaki who served as the workforce for the gold mining operations on Earth. In Zecharia Sitchin's narrative, the Igigi's rebellion against their hard labor was the direct cause of the creation of humanity.
 
 ## The Igigi in Sumerian Texts
 
 The Igigi appear in several Mesopotamian texts:
-- The [[Atra-Hasis]] epic describes their rebellion
+- The [Atra Hasis](../sources/Atra-Hasis.md) epic describes their rebellion
 - They are sometimes described as "the gods who dig canals"
 - They are distinct from the "great gods" (the senior Anunnaki)
 - Their number is traditionally given as 300
@@ -20,7 +20,7 @@ According to the Atra-Hasis epic:
 
 > *"The gods [Igigi] were digging the canals. They were piling up the earth, they were lifting the baskets. For 3,600 years they bore the labor, day and night. They complained, they grumbled, they murmured in the excavation pits."*
 
-The Igigi threw down their tools and surrounded the house of [[Enlil]], demanding relief from their labor. [[Enki]] proposed creating a "primitive worker" — [[Adamu|humanity]] — to take over the work.
+The Igigi threw down their tools and surrounded the house of [Enlil](../characters/Enlil.md), demanding relief from their labor. [Enki](../characters/Enki.md) proposed creating a "primitive worker" — [humanity](Adamu.md) — to take over the work.
 
 ## Sitchin's Interpretation
 
@@ -30,7 +30,7 @@ Sitchin's key points:
 
 1. **The 300** — The Igigi were a group of 300 Anunnaki astronauts who were assigned the mining work
 2. **The 3,600 Years** — They worked for one Nibiru year (3,600 Earth years) before rebelling
-3. **The Mines** — The gold mines were located in southeast [[Africa]] (the [[Africké-doly|African mines]])
+3. **The Mines** — The gold mines were located in southeast Africa (the [African mines](../modern-science/african-mines.md))
 4. **The Creation Solution** — Enki's proposal to create a hybrid worker species was accepted, leading to the genetic engineering of humanity
 5. **The Name** — The meaning of *Igigi* is uncertain, but Sitchin associated it with "those who observe and see"
 
@@ -46,12 +46,12 @@ Sitchin's key points:
 
 ## See Also
 
-- [[Atra-Hasis]] — The epic describing the Igigi rebellion
-- [[Adamu]] — The human created to replace the Igigi
-- [[Těžba-zlata]] — Gold mining operations
-- [[Africké-doly]] — The African gold mines
-- [[Enki]] — The creator who freed the Igigi
-- [[Stvoření-člověka]] — The creation of humanity
+- [Atra Hasis](../sources/Atra-Hasis.md) — The epic describing the Igigi rebellion
+- [Adamu](Adamu.md) — The human created to replace the Igigi
+- [Gold Mining](../timeline/gold-mining.md) — Gold mining operations
+- [African Mines](../modern-science/african-mines.md) — The African gold mines
+- [Enki](../characters/Enki.md) — The creator who freed the Igigi
+- [Creation Of Humans](../timeline/creation-of-humans.md) — The creation of humanity
 
 ## Sources
 

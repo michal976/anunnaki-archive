@@ -1,6 +1,5 @@
 {
-  "buildCommand": "mkdocs build --clean",
+  "buildCommand": "pip install mkdocs-material && mkdocs build --clean",
   "outputDirectory": "site",
-  "framework": "mkdocs",
   "installCommand": "pip install mkdocs-material"
 }

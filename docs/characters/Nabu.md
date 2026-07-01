@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, nabu, writing, scribe, wisdom, english]
 ---
 
-# Nabu
+# Nabu (Sumerian: NABIUM — "The Caller")
+
+> **Sumerian name:** NABIUM
 
 **Nabu** (Akkadian: *Nabu*; Hebrew: *Nebo*) was the god of writing, wisdom, and records in the Mesopotamian pantheon. In Zecharia Sitchin's Anunnaki narrative, Nabu was the son of [Marduk](Marduk.md) who served as the keeper of the [ME](../concepts/ME.md) — the divine decrees and knowledge of civilization.
 

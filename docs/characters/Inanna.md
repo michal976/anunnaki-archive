@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, inanna, ishtar, goddess, love, war, english]
 ---
 
-# Inanna
+# Inanna (Sumerian: IN.ANNA / NIN.ANNA — "Lady of Heaven")
+
+> **Sumerian name:** IN.ANNA / NIN.ANNA
 
 **Inanna** (Sumerian: *Inanna*; Akkadian: *Ishtar*; "Lady of Heaven") was one of the most important and complex figures in the Mesopotamian pantheon — the goddess of love, beauty, sex, war, and political power. In Zecharia Sitchin's Anunnaki narrative, Inanna was a princess of the Anunnaki, the granddaughter of [Enlil](Enlil.md), and one of the most ambitious and controversial figures in the cosmic drama.
 

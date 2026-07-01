@@ -2,7 +2,9 @@
 tags: [anunnaki, concept, eridu, first-settlement, english]
 ---
 
-# Eridu (in Concepts)
+# Eridu (Sumerian: E.RIDU — "The Faraway Home")
+
+> **Sumerian name:** E.RIDU
 
 This note provides the conceptual overview of **Eridu** as the first Anunnaki settlement. For the geographical and archaeological details, see the corresponding file in the places/ directory: [Eridu](Eridu.md).
 

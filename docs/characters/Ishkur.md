@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, ishkur, adad, storm, weather, english]
 ---
 
-# Ishkur
+# Ishkur (Sumerian: IŠKUR — "Storm God")
+
+> **Sumerian name:** IŠKUR
 
 **Ishkur** (Sumerian: *Ishkur*; Akkadian: *Adad* or *Hadad*) was the god of storms, wind, rain, and thunder in the Mesopotamian pantheon. In Zecharia Sitchin's Anunnaki narrative, Ishkur was an Anunnaki technician responsible for Earth's weather systems.
 

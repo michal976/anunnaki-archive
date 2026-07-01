@@ -2,7 +2,9 @@
 tags: [anunnaki, concept, igigi, workers, rebellion, english]
 ---
 
-# Igigi
+# Igigi (Sumerian: I.GI.GI — "The Ones Who Observe / The Watchers")
+
+> **Sumerian name:** I.GI.GI
 
 The **Igigi** were a group of lesser Anunnaki who served as the workforce for the gold mining operations on Earth. In Zecharia Sitchin's narrative, the Igigi's rebellion against their hard labor was the direct cause of the creation of humanity.
 

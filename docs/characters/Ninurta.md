@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, ninurta, warrior, enlil, english]
 ---
 
-# Ninurta
+# Ninurta (Sumerian: NIN.URTA — "Lord of the Plow")
+
+> **Sumerian name:** NIN.URTA
 
 **Ninurta** (Sumerian: *Ninurta*, "Lord of the Plow"; Akkadian: *Ninurta* or *Ningirsu*) was the god of war, hunting, and the south wind. In Zecharia Sitchin's Anunnaki narrative, Ninurta was a son of [Enlil](Enlil.md) and one of the most powerful warriors among the Anunnaki — the "enforcer" who carried out Enlil's commands.
 

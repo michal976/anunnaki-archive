@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, enki, ea, creator, scientist, english]
 ---
 
-# Enki
+# Enki (Sumerian: EN.KI — "Lord of the Earth")
+
+> **Sumerian name:** EN.KI
 
 **Enki** (Sumerian: *Enki*, "Lord of the Earth"; Akkadian: *Ea*, "House of Water") was the chief scientist of the Anunnaki and, in Zecharia Sitchin's narrative, the most important god in human history. As the creator of humanity, Enki is the central figure of the Earth Chronicles — the Promethean figure who brought knowledge and civilization to the human race.
 

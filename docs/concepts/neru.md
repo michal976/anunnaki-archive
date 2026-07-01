@@ -2,7 +2,9 @@
 tags: [anunnaki, concept, neru, time-unit, nibiru, orbit, english]
 ---
 
-# NÉRU — The 3,600-Year Unit
+# NERU (Sumerian: NÉRU — "The 3,600-Year Unit")
+
+> **Sumerian name:** NÉRU
 
 **NÉRU** (also spelled *NERU* or *NÉR*) was a Sumerian unit of measurement that Zecharia Sitchin interpreted as representing 3,600 years — the orbital period of [Nibiru](../characters/Nibiru.md), the twelfth planet.
 

@@ -2,7 +2,9 @@
 tags: [anunnaki, concept, shem, rocketship, spacecraft, english]
 ---
 
-# SHEM — The Rocketship
+# SHEM (Sumerian: MU / ŠUMU — "Name / That Which Ascends")
+
+> **Sumerian name:** MU / ŠUMU
 
 **SHEM** (Sumerian: *mu* or *shem*; Akkadian: *šumu*; Hebrew: *shem* — "name") was a term that Zecharia Sitchin reinterpreted as meaning "rocketship," "sky vehicle," or "that which ascends." This interpretation is one of the most distinctive and controversial aspects of Sitchin's work.
 

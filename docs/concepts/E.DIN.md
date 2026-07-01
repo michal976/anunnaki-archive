@@ -2,7 +2,9 @@
 tags: [anunnaki, concept, edin, garden-of-eden, mesopotamia, english]
 ---
 
-# E.DIN — The Garden of Eden
+# E.DIN (Sumerian: E.DIN — "The Garden of Eden")
+
+> **Sumerian name:** E.DIN
 
 **E.DIN** (Sumerian: *E.DIN*, "the righteous abode of the righteous ones" or "house of the righteous") was the Sumerian term for a fertile plain or valley. Zecharia Sitchin identified E.DIN as the original "Garden of Eden" — not a mythological paradise but the actual geographical location of the Anunnaki's first settlements on Earth.
 

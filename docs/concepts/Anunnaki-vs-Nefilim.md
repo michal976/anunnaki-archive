@@ -2,7 +2,9 @@
 tags: [anunnaki, concept, nephilim, distinction, english]
 ---
 
-# Anunnaki vs. Nefilim (Anunnaki vs. Nefilim)
+# Anunnaki vs. Nefilim (Sumerian: A.NUN.NA.KI — "Those Who From Heaven to Earth Came")
+
+> **Sumerian name:** A.NUN.NA.KI
 
 The terms **Anunnaki** and **Nefilim** (also spelled *Nephilim*) are often used interchangeably in popular culture, but Zecharia Sitchin made a careful distinction between them. Understanding this distinction is essential for following his narrative.
 

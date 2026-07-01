@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, tiamat, kingu, primordial, creation, english]
 ---
 
-# Tiamat and Kingu
+# Tiamat (Sumerian: TI.AMAT / TI.AMTU — "Sea / Salt Water") and Kingu
+
+> **Sumerian name:** TI.AMAT / TI.AMTU
 
 **Tiamat** and **Kingu** are figures from the [Enuma Elish](../sources/enuma-elish.md), the Babylonian creation epic. In Zecharia Sitchin's cosmological reading, they represent celestial bodies that existed in the early solar system before the arrival of [Nibiru](Nibiru.md).
 

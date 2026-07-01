@@ -2,7 +2,9 @@
 tags: [anunnaki, concept, shar, time-cycle, english]
 ---
 
-# Shar — The 36,000-Year Cycle
+# Shar (Sumerian: ŠAR — "King / Universe / Totality")
+
+> **Sumerian name:** ŠAR
 
 **Šar** (also spelled *SAR* or *SHAR*; Sumerian: *ŠAR*) was a Sumerian term meaning "king," "universe," or "totality." In numerical terms, it represented 3,600 — the same value as the [NÉRU](neru.md). However, Zecharia Sitchin identified a larger cycle called the **Šar** that measured 36,000 years (10 NÉRU).
 

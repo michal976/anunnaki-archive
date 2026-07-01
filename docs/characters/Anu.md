@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, anu, king, nibiru, english]
 ---
 
-# Anu
+# Anu (Sumerian: AN / DINGIR.AN — "Sky / Heavenly")
+
+> **Sumerian name:** AN / DINGIR.AN
 
 **Anu** (Sumerian: *An*; Akkadian: *Anu* — "Heaven") was the supreme ruler of [Nibiru](Nibiru.md) and the patriarch of the Anunnaki. In the Sumerian pantheon, An was the sky god — the oldest and most powerful of all deities. In Zecharia Sitchin's narrative, Anu was the king of the twelfth planet, the ultimate authority over the Anunnaki expedition to Earth.
 

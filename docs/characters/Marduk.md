@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, marduk, babylon, lord, english]
 ---
 
-# Marduk
+# Marduk (Sumerian: AMAR.UTU — "Bull of Utu")
+
+> **Sumerian name:** AMAR.UTU
 
 **Marduk** (Sumerian: *Amarutu*; Hebrew: *Merodach*) was the chief god of [Babylon](../places/Babylon.md) and, in later Mesopotamian religion, the supreme deity of the pantheon. In Zecharia Sitchin's Anunnaki narrative, Marduk was the firstborn son of [Enki](Enki.md), whose ambition to achieve supremacy among the Anunnaki sparked centuries of conflict — the [Pyramid Wars](../timeline/pyramid-wars.md).
 

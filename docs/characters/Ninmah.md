@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, ninmah, nintur, mother-goddess, creation, english]
 ---
 
-# Ninmah
+# Ninmah (Sumerian: NIN.MAH / NIN.HURSAG — "Exalted Lady")
+
+> **Sumerian name:** NIN.MAH / NIN.HURSAG
 
 **Ninmah** (Sumerian: *Ninmah*, "Great Lady"; also known as *Nintur*, *Ninhursag*, *Ki*, *Mami*, *Mammi*, *Aruru*, *Belit-ili* — "the Lady of the Gods") was the Anunnaki mother goddess who assisted [Enki](Enki.md) in the genetic engineering of humanity. In Zecharia Sitchin's narrative, Ninmah was the chief geneticist who performed the actual laboratory work of creating [Homo sapiens](../concepts/Adamu.md).
 

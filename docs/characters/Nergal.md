@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, nergal, underworld, war, plague, english]
 ---
 
-# Nergal
+# Nergal (Sumerian: NE.IRI.GAL — "Lord of the Underworld")
+
+> **Sumerian name:** NE.IRI.GAL
 
 **Nergal** (Sumerian: *Nergal*; Akkadian: *Nergal* or *Erra*) was the god of war, plague, the underworld, and destruction. In Zecharia Sitchin's Anunnaki narrative, Nergal was a son of [Enki](Enki.md) who became the ruler of the underworld and consort of [Ereshkigal](Ereshkigal.md).
 

@@ -2,7 +2,9 @@
 tags: [anunnaki, concept, adapa, sage, wisdom, english]
 ---
 
-# Adapa
+# Adapa (Sumerian: A.DA.PA — "The Wise")
+
+> **Sumerian name:** A.DA.PA
 
 **Adapa** (also known as *Abgal* or *Adapa-Uan*) was a legendary sage in Sumerian and Akkadian tradition, the son of [Enki](../characters/Enki.md) (Ea) and the first of the seven *Apkallu* (sages) who brought civilization to humanity. In Zecharia Sitchin's narrative, Adapa represents a "perfected" human — the model for the second generation of humanity.
 

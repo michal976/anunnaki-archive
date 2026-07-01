@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, nannar, sin, moon-god, english]
 ---
 
-# Nannar
+# Nannar (Sumerian: NANNA / ŠEŠ.KI — "Moon God")
+
+> **Sumerian name:** NANNA / ŠEŠ.KI
 
 **Nannar** (Sumerian: *Nannar* or *Suen*; Akkadian: *Sin*; "Lord of Heaven") was the god of the moon in the Mesopotamian pantheon. In Zecharia Sitchin's Anunnaki narrative, Nannar was the firstborn son of [Enlil](Enlil.md) and the father of [Utu](Utu.md) (the Sun God) and [Inanna](Inanna.md) (the Goddess of Love and War).
 

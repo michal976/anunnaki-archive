@@ -2,7 +2,9 @@
 tags: [anunnaki, concept, adam, first-human, english]
 ---
 
-# Adamu
+# Adamu (Sumerian: A.DAM / A.DA.AM — "The Earthling / The First Created")
+
+> **Sumerian name:** A.DAM / A.DA.AM
 
 **Adamu** (from the Sumerian *Adamu*; biblical *Adam*) was, according to Zecharia Sitchin, the first genetically engineered Homo sapiens — the prototype human created by [Enki](../characters/Enki.md) and [Ninmah](../characters/Ninmah.md) to serve as a "primitive worker" (*Lullu*) for the Anunnaki.
 

@@ -2,7 +2,9 @@
 tags: [anunnaki, concept, me, divine-decrees, civilization, english]
 ---
 
-# ME — The Divine Decrees
+# ME (Sumerian: ME — "Divine Decree / Blueprint")
+
+> **Sumerian name:** ME
 
 The **ME** (Sumerian: *ME*, plural *MEŠ*) were the divine decrees or principles of civilization in Sumerian mythology. In Zecharia Sitchin's interpretation, the ME were a collection of knowledge, technology, and cultural templates — essentially a "civilization package" that the Anunnaki transmitted to humanity.
 

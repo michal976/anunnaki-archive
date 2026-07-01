@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, ereshkigal, underworld, queen, english]
 ---
 
-# Ereshkigal
+# Ereshkigal (Sumerian: EREŠ.KI.GAL — "Lady of the Great Earth")
+
+> **Sumerian name:** EREŠ.KI.GAL
 
 **Ereshkigal** (Sumerian: *Ereshkigal*, "Lady of the Great Earth" — i.e., the underworld) was the queen of the underworld (*Irkalla*), the elder sister of [Inanna](Inanna.md), and a central figure in one of the most dramatic stories of the Anunnaki — the Descent of Inanna.
 

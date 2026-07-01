@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, gibil, fire, metallurgy, english]
 ---
 
-# Gibil
+# Gibil (Sumerian: GIBIL6 / BIL.GI — "Fire / Purifier")
+
+> **Sumerian name:** GIBIL6 / BIL.GI
 
 **Gibil** (Sumerian: *Gibil*; Akkadian: *Gerru* or *Girra*) was the god of fire and metallurgy in the Mesopotamian pantheon. In Zecharia Sitchin's Anunnaki narrative, Gibil was an Anunnaki technician and craftsman — the master of fire, metalworking, and possibly energy technologies.
 

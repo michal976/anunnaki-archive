@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, utu, shamash, sun, spaceport, english]
 ---
 
-# Utu
+# Utu (Sumerian: UTU — "Sun")
+
+> **Sumerian name:** UTU
 
 **Utu** (Sumerian: *Utu*, "Bright One"; Akkadian: *Shamash*, "Sun") was the god of the sun and justice in the Mesopotamian pantheon. In Zecharia Sitchin's Anunnaki narrative, Utu was the commander of the [Sippar](../places/Sippar.md) spaceport and the administrator of justice among both gods and humans.
 

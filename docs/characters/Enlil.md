@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, enlil, commander, english]
 ---
 
-# Enlil
+# Enlil (Sumerian: EN.LÍL — "Lord of the Wind")
+
+> **Sumerian name:** EN.LÍL
 
 **Enlil** (Sumerian: *Enlil*, "Lord of the Wind"; Akkadian: *Ellil*) was the second son of [Anu](Anu.md) and the supreme commander of the Anunnaki expedition to Earth. In Zecharia Sitchin's narrative, Enlil was the executive authority — the god of order, discipline, and authority who governed the affairs of both gods and humans from his command center at [Nippur](../places/Nippur.md).
 

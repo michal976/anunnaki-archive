@@ -2,7 +2,9 @@
 tags: [anunnaki, postava, dumuzi, shepherd, inanna, tammuz, english]
 ---
 
-# Dumuzi
+# Dumuzi (Sumerian: DUMU.ZI — "The Faithful Son")
+
+> **Sumerian name:** DUMU.ZI
 
 **Dumuzi** (Sumerian: *Dumuzid*, "the faithful son"; Akkadian: *Tammuz*) was the shepherd god and the consort of [Inanna](Inanna.md). In Zecharia Sitchin's Anunnaki narrative, Dumuzi represents a tragic figure caught in the power struggles of the Anunnaki family.
 

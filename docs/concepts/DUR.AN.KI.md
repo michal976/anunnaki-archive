@@ -2,7 +2,9 @@
 tags: [anunnaki, concept, duranki, bond-heaven-earth, english]
 ---
 
-# DUR.AN.KI — The Bond Heaven-Earth
+# DUR.AN.KI (Sumerian: DUR.AN.KI — "Bond Heaven-Earth")
+
+> **Sumerian name:** DUR.AN.KI
 
 **DUR.AN.KI** (Sumerian: *DUR.AN.KI*, "Bond Heaven-Earth") was a sacred term used in Sumerian texts to describe the connection point between the heavens and the Earth. In Zecharia Sitchin's narrative, DUR.AN.KI referred to specific physical installations — communication and guidance devices that linked the Anunnaki on Earth with their home planet Niburi.
 

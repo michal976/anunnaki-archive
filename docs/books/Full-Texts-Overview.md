@@ -4,7 +4,7 @@ tags: [knihy, sitchin, bibliography, full-text, english]
 
 # Full Texts — Overview
 
-This note provides a complete bibliography of the primary sources for this vault.
+This note provides a complete bibliography of the primary sources for this archive.
 
 ## The Earth Chronicles Series
 

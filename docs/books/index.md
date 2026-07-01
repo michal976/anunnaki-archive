@@ -4,7 +4,7 @@ tags: [knihy, reference, index, english]
 
 # Knihy (Books / Reference)
 
-This folder contains reference materials, full-text summaries, and annotated bibliographies for the key sources used in this vault.
+This folder contains reference materials, full-text summaries, and annotated bibliographies for the key sources used in this archive.
 
 ## Reference Files
 
@@ -15,4 +15,4 @@ This folder contains reference materials, full-text summaries, and annotated bib
 
 ---
 
-*"The books are the foundation. Every claim in this vault can be traced back to a specific source."*
+*"The books are the foundation. Every claim in this archive can be traced back to a specific source."*

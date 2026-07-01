@@ -3,7 +3,7 @@ tags: [anunnaki, sitchin, roadmap, guide, english]
 created: 2025-01-15
 ---
 
-# Roadmap: A Guided Tour of the Anunnaki Vault
+# Roadmap: A Guided Tour of the Anunnaki Achive
 
 This roadmap provides a structured path through the Anunnaki narrative, from origins to legacy. Follow the sequence below for a comprehensive understanding of Zecharia Sitchin's Earth Chronicles.
 

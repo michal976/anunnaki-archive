@@ -37,7 +37,7 @@ Each source file provides:
 1. Overview of the text and its significance
 2. Sitchin's interpretation and key passages
 3. Scholarly context and alternative readings
-4. Cross-references to related vault content
+4. Cross-references to related archive content
 
 ---
 

@@ -54,7 +54,7 @@ Reference summary for **When Time Began** (1993), the fifth book of Zecharia Sit
 
 ## Cross-References
 
-- [When Time Began](../sources/when-time-began.md) — Vault entry for the book
+- [When Time Began](../sources/when-time-began.md) — Achive entry for the book
 - [Precession](../themes/precession.md) — Precessional cycle
 - [Calendar](../themes/calendar.md) — Calendar systems
 - [NÉRU](../concepts/neru.md) — The 3,600-year unit

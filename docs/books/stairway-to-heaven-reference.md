@@ -45,7 +45,7 @@ Reference summary for **The Stairway to Heaven** (1980), the second book of Zech
 
 ## Cross-References
 
-- [Stairway To Heaven](../sources/stairway-to-heaven.md) — Vault entry for the book
+- [Stairway To Heaven](../sources/stairway-to-heaven.md) — Achive entry for the book
 - [Sinai Spaceport](../concepts/sinai-spaceport.md) — The Sinai spaceport
 - [SHEM](../concepts/SHEM.md) — The rocketship concept
 - [Gilgamesh](../characters/gilgamesh.md) — The epic hero

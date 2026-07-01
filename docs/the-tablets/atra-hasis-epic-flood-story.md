@@ -50,6 +50,10 @@ Sitchin also highlighted the pre-flood and post-flood population controls — sh
 
 Mainstream scholarship fully agrees with Sitchin on one key point: the Atra-Hasis Epic predates the biblical flood narrative by centuries and shares unmistakable structural parallels — a divine decision to destroy humanity, a warning to a righteous man, the building of a boat, the saving of animals, and sacrifice after the waters recede. On causation, however, scholars see the Atra-Hasis flood as theogenic — a mythological consequence of divine conflict over human noise and overpopulation — not a historical event. Sitchin's claims that the "blood of a god" describes DNA mixing, that Nibiru caused the flood, and that population controls document Anunnaki genetic management have no support in the actual cuneiform text, which consistently uses the language of myth and ritual, not science. The epic remains, nonetheless, the earliest surviving flood story in world literature — a cornerstone text for anyone studying the relationship between Mesopotamian and biblical traditions.
 
+## See Also
+
+- [The Great Flood](../evidence/the-great-flood.md) — Evidence analysis of the flood event
+
 ## Sources
 
 - CDLI composite entry: https://cdli.earth/cdli-tablet/130536

@@ -65,6 +65,8 @@ The Sumerian sign **NÉRU** (𒋼𒊒, "3,600" in the sexagesimal system) is att
 - [Sacred Numbers](../themes/sacred-numbers.md) — Sacred numbers
 - [Nibiru](../characters/Nibiru.md) — The planet with the 3,600-year orbit
 - [When Time Began](../sources/when-time-began.md) — Sitchin's book on time
+- [Nibiru — The 12th Planet](../evidence/nibiru-twelfth-planet.md) — The NÉRU as Nibiru's orbital period
+- [Sumerian King List](../evidence/sumerian-king-list.md) — The king list uses NÉRU units
 
 ## Sources
 

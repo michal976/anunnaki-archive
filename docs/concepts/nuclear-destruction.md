@@ -77,6 +77,7 @@ The destruction of Sumerian cities described in Sitchin's narrative as "nuclear"
 - [Nergal](../characters/Nergal.md) — The god of destruction
 - [End Of Days](../sources/end-of-days.md) — The end times
 - [Sumer](../religions/Sumer.md) — Sumerian civilization
+- [Sinai Nuclear Holocaust](../evidence/sinai-nuclear-holocaust.md) — Evidence of the ancient nuclear event
 
 ## Sources
 

@@ -53,6 +53,7 @@ Sitchin proposed that Tiwanaku was:
 - [Gold Mining](../timeline/gold-mining.md) — Gold mining
 - Následovníci — Other researchers
 - [Precession](../themes/precession.md) — The precessional cycle
+- [Tiahuanaco — Baalbek of the New World](../evidence/tiahuanaco-baalbek-of-the-new-world.md) — Tiwanaku as Anunnaki outpost evidence
 
 ## Sources
 

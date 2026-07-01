@@ -69,6 +69,7 @@ Sitchin's work anticipated several developments in modern genetics:
 - [Enki](../characters/Enki.md) — The creator
 - [Paleogenetics](../modern-science/paleogenetics.md) — Modern genetic research
 - [Mixed Marriages](mixed-marriages.md) — Anunnaki-human interbreeding
+- [Genetic Creation of Humans](../evidence/genetic-creation-of-humans.md) — Evidence of Anunnaki genetic engineering
 
 ## Sources
 

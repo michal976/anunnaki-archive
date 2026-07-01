@@ -34,3 +34,4 @@ The result was *Homo sapiens* — a hybrid species with:
 - [Enki](../characters/Enki.md) — The creator
 - [Ninmah](../characters/Ninmah.md) — The geneticist
 - [Igigi](../concepts/Igigi.md) — The rebellion that led to creation
+- [Genetic Creation of Humans](../evidence/genetic-creation-of-humans.md) — Evidence of Anunnaki genetic engineering

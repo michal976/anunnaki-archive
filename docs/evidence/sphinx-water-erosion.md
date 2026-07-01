@@ -1,5 +1,6 @@
 ---
 tags: [evidence, sphinx, water-erosion, giza, deep-dive, anunnaki, geology]
+description: "A Boston University geologist proved the Sphinx was weathered by rain, not sand — dating it to 10,000 B.C. or earlier. Egyptology ignored the evidence. The Sphinx is twice as old as believed."
 ---
 
 # Sphinx Water Erosion — Geological Proof the Sphinx Is 9,000+ Years Old

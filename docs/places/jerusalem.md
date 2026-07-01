@@ -54,6 +54,7 @@ Jerusalem was the central waypoint in the Anunnaki landing corridor:
 - [Navigation Beacons](../themes/navigation-beacons.md) — Navigation beacons
 - [DUR.AN.KI](../concepts/DUR.AN.KI.md) — The "Bond Heaven-Earth"
 - Abraham — The patriarch who visited this site
+- [Landing Corridor](../evidence/landing-corridor.md) — Jerusalem in the landing corridor
 
 ## Sources
 

@@ -80,6 +80,7 @@ The name **TI.AMAT** (𒀭𒋾𒊩𒆳, "Sea / Salt Water") appears in the Babyl
 - [Creation Of Humans](../timeline/creation-of-humans.md) — Creation from Kingu's blood
 - [Planet Nine](../modern-science/Planet-Nine.md) — Modern searches for a trans-Neptunian planet
 - [Origin Of The Moon](../modern-science/origin-of-the-moon.md) — The formation of the Moon
+- [Enuma Elish Creation Epic](../evidence/enuma-elish-creation-epic.md) — Evidence of the celestial battle
 
 ## Sources
 

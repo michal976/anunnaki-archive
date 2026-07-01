@@ -61,6 +61,7 @@ The term **A.DAM / A.DA.AM** (𒀀𒁕𒄠, "The Earthling / The First Created")
 - [E.Din](E.DIN.md) — The Garden of Eden
 - [Mixed Marriages](../themes/mixed-marriages.md) — Later interbreeding
 - [Creation Of Humans](../timeline/creation-of-humans.md) — The creation account
+- [Genetic Creation of Humans](../evidence/genetic-creation-of-humans.md) — Evidence of the creation of Adamu
 
 ## Sources
 

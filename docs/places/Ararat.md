@@ -42,6 +42,7 @@ Sitchin proposed that the Anunnaki landing corridor was defined by:
 - [Baalbek](Baalbek.md) — The megalithic platform
 - [Giza](giza.md) — The navigation beacon
 - [Navigation Beacons](../themes/navigation-beacons.md) — Navigation systems
+- [Landing Corridor](../evidence/landing-corridor.md) — Ararat as part of the landing corridor
 
 ## Sources
 

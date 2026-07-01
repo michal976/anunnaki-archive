@@ -75,6 +75,7 @@ The number 7 is equally pervasive:
 - [Šar](../concepts/shar.md) — The 36,000-year cycle
 - [DUR.AN.KI](../concepts/DUR.AN.KI.md) — The Bond Heaven-Earth
 - [ME](../concepts/ME.md) — The divine decrees
+- [Enuma Elish Creation Epic](../evidence/enuma-elish-creation-epic.md) — The sacred numbers in the creation epic
 
 ## Sources
 

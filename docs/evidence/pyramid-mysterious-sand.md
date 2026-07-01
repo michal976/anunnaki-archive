@@ -1,5 +1,6 @@
 ---
 tags: [evidence, pyramid, sand, giza, deep-dive, anunnaki]
+description: "Sand 'more precious than gold' discovered inside the Great Pyramid in 1986. The Egyptian government shut down all tests and sent scientists home. What was the pyramid concealing?"
 ---
 
 # The Great Pyramid's Mysterious Sand — "More Precious Than Gold"

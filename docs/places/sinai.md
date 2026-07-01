@@ -44,6 +44,9 @@ Sitchin reinterpreted the biblical story of Moses and the Exodus as a conflict o
 - [Baalbek](Baalbek.md) — The launch platform
 - [SHEM](../concepts/SHEM.md) — The rocketship
 - [DUR.AN.KI](../concepts/DUR.AN.KI.md) — The "Bond Heaven-Earth"
+- [Sinai Nuclear Holocaust](../evidence/sinai-nuclear-holocaust.md) — Evidence of nuclear destruction at Sinai
+- [Landing Corridor](../evidence/landing-corridor.md) — The Anunnaki landing corridor alignment
+- [Elusive Mount Sinai](../evidence/elusive-mount-sinai.md) — The search for the true Mount Sinai
 
 ## Sources
 

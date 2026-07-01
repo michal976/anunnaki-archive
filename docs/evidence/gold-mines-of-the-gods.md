@@ -1,5 +1,6 @@
 ---
 tags: [evidence, gold, mining, south-africa, anunnaki, deep-dive, igigi, creation]
+description: "Ancient gold mines in southern Africa dated to 100,000 years old. The tunnel systems predate civilization. The Sumerians wrote that the gods created humans to work these mines."
 ---
 
 # The Gold Mines of the Gods — 100,000 Years of Mining Before Civilization

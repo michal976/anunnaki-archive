@@ -58,6 +58,7 @@ The Sumerian King List records kings with extraordinarily long reigns in the ant
 - [Enki](../characters/Enki.md) — The creator god who supported mixing
 - [Enlil](../characters/Enlil.md) — The commander who opposed it
 - [Bible Genesis](../sources/Bible-Genesis.md) — The biblical account
+- [Giant Nephilim](../evidence/giant-nephilim.md) — Evidence of the hybrid giants
 
 ## Sources
 

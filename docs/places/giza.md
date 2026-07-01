@@ -44,6 +44,10 @@ The Sphinx, a half-human, half-lion statue carved from living rock, was dated by
 - [Archeoastronomy Of Giza](../modern-science/archeoastronomy-of-giza.md) — Giza's astronomical alignments
 - [Stairway To Heaven](../sources/stairway-to-heaven.md) — The Stairway to Heaven
 - [Pyramids](../themes/pyramids.md) — The pyramid typology
+- [Sphinx Water Erosion](../evidence/sphinx-water-erosion.md) — Evidence the Sphinx predates Egypt
+- [Pyramid Mysterious Sand](../evidence/pyramid-mysterious-sand.md) — The mysterious sand at Giza
+- [Pyramid Wars](../evidence/pyramid-wars.md) — The wars over the pyramids
+- [Landing Corridor](../evidence/landing-corridor.md) — Giza as part of the landing corridor
 
 ## Sources
 

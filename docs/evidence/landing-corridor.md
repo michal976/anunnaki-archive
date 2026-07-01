@@ -1,5 +1,6 @@
 ---
 tags: [evidence, landing-corridor, baalbek, ararat, giza, jerusalem, sinai, spaceport, deep-dive, anunnaki]
+description: "Five sites across 1,600 km form a near-perfect straight line: Ararat, Baalbek, Giza, Jerusalem, Sinai. A precision-engineered landing corridor for spacecraft. The 'Way of the Gods.'"
 ---
 
 # Landing Corridor — DUR.AN.KI / KASKAL.KUR — The Anunnaki Precision Guidance System

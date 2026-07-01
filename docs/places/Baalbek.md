@@ -53,6 +53,9 @@ Sitchin notes that the name "Baalbek" derives from "Ba'al" (Lord) + "Bek" (Beka'
 - [Giza](giza.md) — The navigation beacon
 - [Navigation Beacons](../themes/navigation-beacons.md) — Navigation beacons
 - [Stairway To Heaven](../sources/stairway-to-heaven.md) — The Stairway to Heaven
+- [Baalbek Landing Place](../evidence/baalbek-landing-place.md) — Evidence of the Anunnaki launch pad
+- [Landing Corridor](../evidence/landing-corridor.md) — The Anunnaki landing corridor
+- [Gilgamesh Landing Place](../evidence/gilgamesh-landing-place.md) — Gilgamesh's journey to the landing place
 
 ## Sources
 

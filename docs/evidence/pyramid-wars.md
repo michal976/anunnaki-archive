@@ -1,5 +1,6 @@
 ---
 tags: [evidence, pyramids, giza, ninurta, enlil, enki, deep-dive, anunnaki, pyramid-wars]
+description: "The Great Pyramid has no mummy, no inscriptions, and was found completely stripped of equipment. Sumerian texts say Ninurta forcibly entered it in 8670 B.C. and removed its technology."
 ---
 
 # Pyramid Wars — É.KUR / LUGAL-E — The Battle for the Radiant Mountain

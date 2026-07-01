@@ -49,6 +49,7 @@ Sitchin connected the god [Nergal](../characters/Nergal.md) with the nuclear str
 - [Enlil](../characters/Enlil.md) — The commander who authorized the strike
 - [Ninurta](../characters/Ninurta.md) — The warrior who delivered the strike
 - [End Of Days](../sources/end-of-days.md) — The end times scenario involving nuclear events
+- [Sinai Nuclear Holocaust](../evidence/sinai-nuclear-holocaust.md) — Evidence of ancient nuclear events
 
 ## Sources
 

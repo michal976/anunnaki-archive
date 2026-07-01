@@ -49,6 +49,10 @@ Furthermore, Sitchin argued that the list's structure — kingship descending fr
 
 Mainstream scholars interpret the Sumerian King List as a political and theological document, not an accurate historical record. The impossibly long reigns serve to legitimize kingship as eternal and divinely ordained — a literary convention common across the ancient Near East. The list was also a tool for dynastic propaganda: later kings could trace their lineage back to the legendary pre-flood rulers, bolstering their authority. Sitchin and scholars agree that the King List is a work of synthesis, combining historical and legendary material. But where scholars see symbolic numbers and literary convention, Sitchin sees encrypted astronomical data. There is no evidence — none — that the Sumerians knew of a planet with a 3,600-year orbit, or that they used a "divine year" of that length. The numbers in the King List follow Mesopotamian numerical patterns (multiples of 60, 600, and 3,600) that are purely base-60 conventions, not astronomical measurements. The prism remains, however, a uniquely valuable document for understanding how the Sumerians and Babylonians conceived of their own deep past.
 
+## See Also
+
+- [Sumerian King List](../evidence/sumerian-king-list.md) — Evidence analysis of the Sumerian King List
+
 ## Sources
 
 - CDLI entry: https://cdli.earth/cdli-tablet/444

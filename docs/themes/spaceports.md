@@ -55,6 +55,9 @@ According to Sitchin, the spaceport at [Sippar](../places/Sippar.md) was destroy
 - [SHEM](../concepts/SHEM.md) — The rocketships
 - [Sippar](../places/Sippar.md) — The destroyed spaceport
 - [DUR.AN.KI](../concepts/DUR.AN.KI.md) — The Bond Heaven-Earth
+- [Baalbek Landing Place](../evidence/baalbek-landing-place.md) — Evidence of the Anunnaki launch pad
+- [Landing Corridor](../evidence/landing-corridor.md) — The Anunnaki landing corridor
+- [Nazca & Paracas Landing Facility](../evidence/nazca-paracas-landing-facility.md) — Evidence of South American landing sites
 
 ## Sources
 

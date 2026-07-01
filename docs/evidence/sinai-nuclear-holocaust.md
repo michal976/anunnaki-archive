@@ -1,5 +1,6 @@
 ---
 tags: [evidence, nuclear, sinai, sodom, gomorrah, deep-dive, anunnaki]
+description: "4,000-year-old trinitite in the Egyptian desert. Radioactive Dead Sea water. Sumerian Lamentations describing radiation sickness. The evidence that thermonuclear weapons were used in 2024 B.C."
 ---
 
 # Sinai Nuclear Holocaust — The Day the Gods Used Atom Bombs

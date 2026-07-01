@@ -1,5 +1,6 @@
 ---
 tags: [evidence, sumerian, king-list, antediluvian, deep-dive, anunnaki, chronology]
+description: "Eight kings ruled for 241,200 years before the Flood. The cities named in the list have been excavated and confirmed. The Sumerian King List is real — and it says rulers lived for millennia."
 ---
 
 # Sumerian King List — LU.GAL.LA / PALA — The Record of 432,000 Years of Divine Reign

@@ -1,5 +1,6 @@
 ---
 tags: [evidence, enuma-elish, creation-epic, marduk, tiamat, nibiru, deep-dive, babylonian-astronomy]
+description: "A 3,000-year-old clay tablet describes a planet colliding with Tiamat, forming Earth and the asteroid belt. The Enuma Elish is not myth — it's accurate celestial mechanics."
 ---
 
 # Enuma Eliš — The Babylonian Creation Epic That Described the Solar System's Birth

@@ -76,6 +76,8 @@ Sitchin and other researchers have suggested that many other ancient sites may h
 - [SHEM](../concepts/SHEM.md) — The rocketships
 - [Stairway To Heaven](../sources/stairway-to-heaven.md) — The Stairway to Heaven
 - [DUR.AN.KI](../concepts/DUR.AN.KI.md) — The Bond Heaven-Earth
+- [Landing Corridor](../evidence/landing-corridor.md) — Evidence of the navigation corridor
+- [Gilgamesh Landing Place](../evidence/gilgamesh-landing-place.md) — Gilgamesh's journey along the beacon corridor
 
 ## Sources
 

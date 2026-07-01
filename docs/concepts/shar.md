@@ -67,6 +67,8 @@ The term **ŠAR** (𒊹, "King / Universe / Totality") appears in Sumerian texts
 - [Sacred Numbers](../themes/sacred-numbers.md) — Sacred numbers
 - [When Time Began](../sources/when-time-began.md) — Sitchin's book on time
 - [Nibiru](../characters/Nibiru.md) — The 3,600-year orbit
+- [Nibiru — The 12th Planet](../evidence/nibiru-twelfth-planet.md) — The Šar as Nibiru's larger cycle
+- [Sumerian King List](../evidence/sumerian-king-list.md) — The king list uses Šar units
 
 ## Sources
 

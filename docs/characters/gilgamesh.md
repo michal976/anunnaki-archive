@@ -62,6 +62,9 @@ The name **Gilgameš** (Sumerian: *Bilgames*) is attested in Sumerian and Akkadi
 - [Adapa](../concepts/Adapa.md) — Another human who sought immortality
 - [Flood](../timeline/flood.md) — The flood narrative
 - [Sumer](../religions/Sumer.md) — Sumerian civilization
+- [Baalbek Landing Place](../evidence/baalbek-landing-place.md) — Baalbek's connection to Gilgamesh's journey
+- [Gilgamesh Landing Place](../evidence/gilgamesh-landing-place.md) — Gilgamesh's journey to the landing place
+- [Giant Nephilim](../evidence/giant-nephilim.md) — The giants and the hybrid offspring
 
 ## Sources
 

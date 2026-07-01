@@ -68,6 +68,7 @@ The term **A.NUN.NA.KI** (𒀭𒀀𒉣𒈾𒆠, "Those Who From Heaven to Earth 
 - [Mixed Marriages](../themes/mixed-marriages.md) — Anunnaki-human interbreeding
 - [Gilgamesh](../characters/gilgamesh.md) — The most famous hybrid
 - [Bible Genesis](../sources/Bible-Genesis.md) — The biblical account of the Nephilim
+- [Giant Nephilim](../evidence/giant-nephilim.md) — Evidence of the Nephilim giants
 
 ## Sources
 

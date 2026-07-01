@@ -1,5 +1,6 @@
 ---
 tags: [evidence, gilgamesh, baalbek, cedar-mountain, landing-place, deep-dive, anunnaki, epic-of-gilgamesh]
+description: "The oldest story ever written describes a king traveling through radiation chambers and tunnels to reach a spacecraft landing platform. The Baalbek platform still stands today."
 ---
 
 # GIŠ.BIL.GA.MEŠ — Gilgamesh's Quest for the Landing Place

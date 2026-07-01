@@ -73,6 +73,8 @@ The term **Nibiru** (Akkadian: *nēberu*, "crossing" or "ford") appears in Babyl
 - [Anu](Anu.md) — The king of Nibiru
 - [Planet Nine](../modern-science/Planet-Nine.md) — Scientific comparison
 - [Nibiru Critique](../criticism/nibiru-critique.md) — Criticism of the Nibiru hypothesis
+- [Nibiru — The 12th Planet](../evidence/nibiru-twelfth-planet.md) — Evidence for the twelfth planet
+- [Sumerian King List](../evidence/sumerian-king-list.md) — The king list evidence for Nibiru's orbit
 
 ## Sources
 

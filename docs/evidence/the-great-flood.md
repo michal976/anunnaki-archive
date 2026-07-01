@@ -1,5 +1,6 @@
 ---
 tags: [evidence, flood, deluge, mesopotamia, gilgamesh, deep-dive, anunnaki]
+description: "An 8-foot flood silt layer at Ur. The Black Sea flood of 12,600 B.C. Every ancient civilization recorded a global deluge. Atra-Hasis, Gilgamesh, and Genesis agree — the Flood was real."
 ---
 
 # The Great Flood — A.MA.RU (𒀀𒈠𒊒) — When the Oceans Swallowed the World

@@ -77,6 +77,9 @@ The name **EN.KI** (𒂗𒆠, "Lord of the Earth") is well attested in Sumerian 
 - [Enlil](Enlil.md) — Enki's brother and rival
 - [Marduk](Marduk.md) — Enki's firstborn son
 - [Creation Of Humans](../timeline/creation-of-humans.md) — The creation of humanity
+- [Genetic Creation of Humans](../evidence/genetic-creation-of-humans.md) — Enki as the creator in the evidence
+- [Viracocha & Quetzalcoatl](../evidence/viracocha-quetzalcoatl.md) — Enki as Quetzalcoatl
+- [The Great Flood](../evidence/the-great-flood.md) — Enki's role in saving humanity
 
 ## Sources
 

@@ -68,6 +68,8 @@ Scholars such as [Lambert](../criticism/Lambert.md) and [Heiser](../criticism/He
 - [Nibiru](../characters/Nibiru.md) — The twelfth planet
 - [Bible Genesis](Bible-Genesis.md) — Parallel creation account
 - [Creation Of Humans](../timeline/creation-of-humans.md) — The creation of humanity
+- [Enuma Elish Creation Epic](../evidence/enuma-elish-creation-epic.md) — Evidence analysis of the creation epic
+- [Nibiru — The 12th Planet](../evidence/nibiru-twelfth-planet.md) — Evidence for Nibiru in the Enuma Elish
 
 ## Sources
 

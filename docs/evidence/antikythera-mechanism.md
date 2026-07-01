@@ -1,5 +1,6 @@
 ---
 tags: [evidence, antikythera, greece, technology, computing, astronomy, deep-dive, anunnaki]
+description: "A bronze gear-driven computer from 100 B.C. that tracked planets and eclipses — technology not matched for 1,400 years. The Sumerians had astronomical knowledge 2,000 years earlier."
 ---
 
 # Antikythera Mechanism — The Greek Computer That Shouldn't Exist

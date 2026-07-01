@@ -64,6 +64,8 @@ The *Pyramid Wars* as a term is Sitchin's own construct, but the conflicts betwe
 - [Ninurta](../characters/Ninurta.md) — The warrior god
 - [Babylon](../places/Babylon.md) — Marduk's city
 - [Tower Of Babel](tower-of-babel.md) — The Tower of Babel
+- [Pyramid Wars](../evidence/pyramid-wars.md) — Evidence of the Pyramid Wars
+- [Pyramid Mysterious Sand](../evidence/pyramid-mysterious-sand.md) — The mysterious sand evidence
 
 ## Sources
 

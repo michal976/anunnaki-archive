@@ -22,3 +22,4 @@ Sitchin argued that humanity was genetically engineered ~300,000 years ago. The 
 - [Adamu](../concepts/Adamu.md) — The first human
 - [Neanderthals Denisovans](neanderthals-denisovans.md) — Other hominids
 - [African Mines](african-mines.md) — African mines
+- [Genetic Creation of Humans](../evidence/genetic-creation-of-humans.md) — Evidence linking paleogenetics to Sitchin's narrative

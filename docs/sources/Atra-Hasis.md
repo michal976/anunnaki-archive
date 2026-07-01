@@ -64,6 +64,8 @@ Sitchin noted the following correspondences between Atra-Hasis and the [biblical
 - [Enlil](../characters/Enlil.md) — The commander god
 - [Ninmah](../characters/Ninmah.md) — The mother goddess
 - [Bible Genesis](Bible-Genesis.md) — The biblical parallel
+- [The Great Flood](../evidence/the-great-flood.md) — Evidence of the flood event
+- [Genetic Creation of Humans](../evidence/genetic-creation-of-humans.md) — Evidence of genetic creation in Atra-Hasis
 
 ## Sources
 

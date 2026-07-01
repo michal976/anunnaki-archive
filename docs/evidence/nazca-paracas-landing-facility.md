@@ -1,5 +1,6 @@
 ---
 tags: [evidence, nazca, paracas, geoglyphs, deep-dive, anunnaki, landing-facility]
+description: "Geoglyphs only visible from the air covering 200 square miles. A heliport landing pad in the Peruvian desert. DIN.GIR — the Sumerian word for 'god' was a rocket pictograph."
 ---
 
 # Nazca Lines & Paracas Candelabra — The Landing Facility of the Gods

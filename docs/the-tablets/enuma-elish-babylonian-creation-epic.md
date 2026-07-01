@@ -53,6 +53,10 @@ Sitchin argued that the Sumerians had advanced astronomical knowledge far beyond
 
 Scholars and Sitchin agree that the Enuma Elish is a cosmogonic text — it describes the origin of the cosmos. Both also recognize that it establishes Marduk's supremacy over the other gods, serving as a political-theological justification for Babylon's rise. But the divergence is fundamental: mainstream Assyriologists treat the epic as purely mythological and theological, composed to elevate the patron god of Babylon. Sitchin reads it as literal astronomical history. There is no archaeological or astronomical evidence supporting Sitchin's identification of Marduk with a tenth planet (Nibiru), and the supposed Sumerian astronomical knowledge he invokes is not attested in any cuneiform source. However, the epic's vivid imagery — a celestial battle, a world split in two, and the creation of order from chaos — makes it understandable why Sitchin found it irresistible as a template for his planetary collision theory.
 
+## See Also
+
+- [Enuma Elish Creation Epic](../evidence/enuma-elish-creation-epic.md) — Evidence analysis of the creation epic
+
 ## Sources
 
 - CDLI entry: https://cdli.earth/cdli-tablet/130

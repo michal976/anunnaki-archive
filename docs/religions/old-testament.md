@@ -24,3 +24,4 @@ Zecharia Sitchin argued that the [Old Testament](../sources/Bible-Genesis.md) (H
 - [Bible Genesis](../sources/Bible-Genesis.md) — The Genesis account
 - [Old Testament](old-testament.md) — The Old Testament
 - [Enlil](../characters/Enlil.md) — The god identified with Yahweh
+- [Elusive Mount Sinai](../evidence/elusive-mount-sinai.md) — The search for the true Mount Sinai

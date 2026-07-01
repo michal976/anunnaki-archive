@@ -1,5 +1,6 @@
 ---
 tags: [evidence, quetzalcoatl, viracocha, mesoamerica, andes, ningishzidda, deep-dive, anunnaki]
+description: "A white bearded god appears in both Andean and Mesoamerican mythology — with the same symbols as Sumer. The Winged Disk of Nibiru on the Gateway of the Sun. Thoth in the Americas."
 ---
 
 # Viracocha / Quetzalcoatl — The White Bearded Gods of Two Continents

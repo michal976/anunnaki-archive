@@ -32,3 +32,5 @@ The [Pyramid Wars](pyramid-wars.md) were the conflicts among the Anunnaki over c
 - [Marduk](../characters/Marduk.md) — The ambitious god
 - [Enlil](../characters/Enlil.md) — The commander
 - [Nuclear Catastrophe](nuclear-catastrophe.md) — The final event
+- [Pyramid Wars](../evidence/pyramid-wars.md) — Evidence of the Pyramid Wars
+- [Sphinx Water Erosion](../evidence/sphinx-water-erosion.md) — Evidence linking to the pyramid timeline

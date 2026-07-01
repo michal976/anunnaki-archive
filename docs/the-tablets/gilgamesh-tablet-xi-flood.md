@@ -56,6 +56,10 @@ Sitchin also seized on the detail of the boat's dimensions: a perfect cube, whic
 
 Mainstream scholars fully accept that the Gilgamesh flood story predates the biblical account and shares a common Mesopotamian source tradition. The discovery of the tablet by George Smith in 1872 — culminating in his dramatic reading before the Society of Biblical Archaeology — was a watershed moment in biblical criticism, and no serious scholar today disputes the genealogical relationship. The areas of agreement between Sitchin and mainstream scholarship on this tablet are thus unusually wide. The divergence lies in interpretation of *origin*: scholars see the flood story as a Mesopotamian cultural myth that spread through the ancient Near East via trade, migration, and conquest; Sitchin sees it as distorted historical memory of an actual Anunnaki-engineered catastrophe. Additionally, Sitchin's claim that the cubic boat was a submersible vessel with Anunnaki technological input is speculation unsupported by the text — the Akkadian description of the boat as a *kuppu'u* (a "round" or "coracle" design in the older Atra-Hasis version) suggests development over time, not a single sealed cube. But the tablet's importance as an independent witness to a pre-Genesis flood narrative is beyond dispute.
 
+## See Also
+
+- [The Great Flood](../evidence/the-great-flood.md) — Evidence analysis of the flood story
+
 ## Sources
 
 - CDLI entry: https://cdli.earth/cdli-tablet/3374 (Tablet XI)

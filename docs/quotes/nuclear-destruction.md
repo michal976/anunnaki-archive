@@ -37,6 +37,7 @@ Selected quotations from Sumerian lamentations and other texts describing the de
 - [Sippar](../places/Sippar.md) — The destroyed spaceport
 - [Ur](../places/Ur.md) — The destroyed city
 - [Nergal](../characters/Nergal.md) — The god of destruction
+- [Sinai Nuclear Holocaust](../evidence/sinai-nuclear-holocaust.md) — Evidence of ancient nuclear events
 
 ## Sources
 

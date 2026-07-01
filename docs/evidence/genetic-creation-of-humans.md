@@ -1,5 +1,6 @@
 ---
 tags: [evidence, genetic, adamu, lullu, creation, deep-dive, anunnaki, hominid]
+description: "Homo sapiens appeared suddenly 300,000 years ago — no transitional fossils exist. Mitochondrial Eve dates to the same time and place. The Sumerians said the gods created us."
 ---
 
 # Genetic Creation of Homo Sapiens — LULLU / ADAMU

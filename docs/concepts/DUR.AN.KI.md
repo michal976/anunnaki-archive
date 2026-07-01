@@ -71,6 +71,8 @@ The term **DUR.AN.KI** (𒁕𒊒𒀭𒆠, "Bond Heaven-Earth") appears in Sumeri
 - [Navigation Beacons](../themes/navigation-beacons.md) — Navigation beacons
 - [Spaceports](../themes/spaceports.md) — Spaceports
 - [Sumer](../religions/Sumer.md) — Sumerian technology
+- [Baalbek Landing Place](../evidence/baalbek-landing-place.md) — Baalbek as a DUR.AN.KI installation
+- [Landing Corridor](../evidence/landing-corridor.md) — The corridor aligned with DUR.AN.KI sites
 
 ## Sources
 

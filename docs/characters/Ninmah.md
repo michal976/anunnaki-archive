@@ -79,6 +79,8 @@ The name **NIN.MAH** (𒊩𒌆𒈤, "Exalted Lady") is well attested in Sumerian
 - [Genetic Engineering](../themes/genetic-engineering.md) — Genetic engineering
 - [Ninurta](Ninurta.md) — Ninmah's son (in some traditions)
 - [Atra Hasis](../sources/Atra-Hasis.md) — The creation epic
+- [Genetic Creation of Humans](../evidence/genetic-creation-of-humans.md) — Evidence of Anunnaki genetic engineering
+- [Olmec Colossal Heads](../evidence/olmec-colossal-heads.md) — The Thoth/Ninmah connection in the Americas
 
 ## Sources
 

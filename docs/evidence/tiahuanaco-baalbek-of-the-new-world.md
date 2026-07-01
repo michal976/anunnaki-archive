@@ -1,5 +1,6 @@
 ---
 tags: [evidence, tiahuanaco, puma-punku, bolivia, megalithic, deep-dive, anunnaki]
+description: "400-ton precision-cut blocks at 12,500 feet in Bolivia. Bronze clamps identical to Giza. The Uru people speak a language with Sumerian roots. Who built this?"
 ---
 
 # Tiahuanaco — Baalbek of the New World

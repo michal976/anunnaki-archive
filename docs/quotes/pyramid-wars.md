@@ -35,6 +35,7 @@ Selected quotations from texts that Zecharia Sitchin interpreted as describing t
 - [Enlil](../characters/Enlil.md) — The commander
 - [Ninurta](../characters/Ninurta.md) — The warrior
 - [Wars Of Gods And Men](../sources/wars-of-gods-and-men.md) — Sitchin's book
+- [Pyramid Wars](../evidence/pyramid-wars.md) — Evidence of the Pyramid Wars
 
 ## Sources
 

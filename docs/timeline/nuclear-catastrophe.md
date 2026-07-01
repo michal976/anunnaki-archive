@@ -33,3 +33,4 @@ The nuclear destruction of [Sippar](../places/Sippar.md) and [Ur](../places/Ur.m
 - [Sippar](../places/Sippar.md) — The destroyed spaceport
 - [Ur](../places/Ur.md) — The destroyed city
 - [End Of Days](../sources/end-of-days.md) — The end of the cycle
+- [Sinai Nuclear Holocaust](../evidence/sinai-nuclear-holocaust.md) — Evidence of the nuclear catastrophe

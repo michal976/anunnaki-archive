@@ -1,5 +1,6 @@
 ---
 tags: [evidence, mount-sinai, spaceport, anunnaki, sin, deep-dive, sitchin]
+description: "No archaeological evidence of the Exodus at the traditional Mount Sinai. Alternative sites are off-limits. The Bible describes a spacecraft landing. The true Sinai was radioactive after the nuclear blast."
 ---
 
 # The Elusive Mount Sinai — The Lost Mountain of God

@@ -29,3 +29,4 @@ The Igigi's rebellion (recorded in the [Atra Hasis](../sources/Atra-Hasis.md) ep
 - [Igigi](../concepts/Igigi.md) — The worker gods
 - [Monatomic Gold](../themes/monatomic-gold.md) — The gold's purpose
 - [Creation Of Humans](creation-of-humans.md) — Creation of humanity
+- [Gold Mines of the Gods](../evidence/gold-mines-of-the-gods.md) — Evidence of Anunnaki gold mining

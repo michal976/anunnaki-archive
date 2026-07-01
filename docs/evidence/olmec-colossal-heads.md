@@ -1,5 +1,6 @@
 ---
 tags: [evidence, olmec, colossal-heads, mesoamerica, deep-dive, anunnaki, african-presence]
+description: "Seventeen giant basalt heads with African features — found in Mexico. Bearded Semitic men with ray guns in Olmec art. The Anunnaki brought Africans to the Americas."
 ---
 
 # Olmec Colossal Heads — The African Kings of Ancient Mexico

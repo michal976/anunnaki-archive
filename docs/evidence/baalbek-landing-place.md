@@ -1,5 +1,6 @@
 ---
 tags: [evidence, baalbek, megalithic, deep-dive, anunnaki, landing-place]
+description: "Three 1,200-ton stone blocks that no modern crane can lift. The Romans couldn't have built it. Ancient Sumerian texts name Baalbek as the Landing Place of the gods."
 ---
 
 # Baalbek — The Landing Place of the Gods

@@ -76,6 +76,7 @@ The name **AMAR.UTU** (𒀭𒀫𒌓, "Bull of the Sun God") is the Sumerian writ
 - [Nibiru](Nibiru.md) — The celestial body Marduk was equated with
 - [Egypt](../religions/Egypt.md) — Marduk's exile destination
 - [Nabu](Nabu.md) — Marduk's son
+- [Enuma Elish Creation Epic](../evidence/enuma-elish-creation-epic.md) — Evidence linking Marduk to the creation epic
 
 ## Sources
 

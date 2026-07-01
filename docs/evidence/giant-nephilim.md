@@ -1,5 +1,6 @@
 ---
 tags: [evidence, nephilim, giants, interbreeding, hybrid, gilgamesh, sumerian-kings, deep-dive, anunnaki]
+description: "Genesis 6:4 records giants walking the Earth. Gilgamesh was 2/3 divine. Sumerian demigods, colossal skeletons reported worldwide. The Anunnaki bred with humans — and the offspring were giants."
 ---
 
 # LU.GAL / NEFILIM — The Giants That Walked the Earth

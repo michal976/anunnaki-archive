@@ -68,6 +68,10 @@ Sitchin endorsed the Orion Correlation Theory proposed by Robert Bauval, which a
 - [Archeoastronomy Of Giza](../modern-science/archeoastronomy-of-giza.md) — Giza's astronomical alignments
 - [Egypt](../religions/Egypt.md) — Egyptian civilization and religion
 - [Baalbek](../places/Baalbek.md) — The megalithic platform
+- [Sphinx Water Erosion](../evidence/sphinx-water-erosion.md) — Evidence the Sphinx predates Egypt
+- [Pyramid Mysterious Sand](../evidence/pyramid-mysterious-sand.md) — The mysterious sand evidence
+- [Pyramid Wars](../evidence/pyramid-wars.md) — The wars over the pyramids
+- [Tiahuanaco — Baalbek of the New World](../evidence/tiahuanaco-baalbek-of-the-new-world.md) — Pyramids in the Americas
 
 ## Sources
 

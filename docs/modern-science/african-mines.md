@@ -23,3 +23,4 @@ Sitchin argued that these were the Anunnaki gold mines — the reason they came 
 - [Monatomic Gold](../themes/monatomic-gold.md) — Monatomic gold
 - [Igigi](../concepts/Igigi.md) — The workers
 - [Enki](../characters/Enki.md) — The project leader
+- [Gold Mines of the Gods](../evidence/gold-mines-of-the-gods.md) — Evidence of ancient gold mining by the Anunnaki

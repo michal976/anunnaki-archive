@@ -61,4 +61,7 @@ This section collects the physical anomalies, archaeological puzzles, and ancien
 
 **Don't believe us?** Click any link. Every claim is sourced from: CDLI tablet photos, peer-reviewed scientific papers, and Sitchin's original publications. You can verify every single one — if you're willing to look.
 
+<div id="evidence-email-form" data-email-form data-email-context="evidence"></div>
+<div id="evidence-share" data-share-buttons></div>
+
 *Curated from 16 books by Zecharia Sitchin.*

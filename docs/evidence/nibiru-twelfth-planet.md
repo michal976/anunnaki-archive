@@ -1,5 +1,6 @@
 ---
 tags: [evidence, nibiru, planet-x, deep-dive, sumerian-astronomy]
+description: "The Sumerians listed Uranus, Neptune, and Pluto 3,800 years before telescopes. The Enuma Elish describes a planet in a 3,600-year orbit. Planet X is real."
 ---
 
 # Nibiru — The Planet the Sumerians Knew Before Telescopes

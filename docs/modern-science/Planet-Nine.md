@@ -27,3 +27,4 @@ In 2016, astronomers Konstantin Batygin and Michael E. Brown proposed the existe
 - [Nibiru](../characters/Nibiru.md) — Sitchin's planet
 - [Nibiru Critique](../criticism/nibiru-critique.md) — Criticism of Nibiru
 - [Panspermia](panspermia.md) — Life from space
+- [Nibiru — The 12th Planet](../evidence/nibiru-twelfth-planet.md) — Comparing Planet Nine with Sitchin's Nibiru

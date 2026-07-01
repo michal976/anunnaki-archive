@@ -52,6 +52,8 @@ Sitchin argued that Nibiru's 3,600-year orbit explains much of Earth's historica
 - [Tiamat Kingu](../characters/Tiamat-Kingu.md) — The celestial collision
 - [Creation Of Humans](../timeline/creation-of-humans.md) — The creation of Adamu
 - [Flood](../timeline/flood.md) — The Great Flood narrative
+- [Antikythera Mechanism](../evidence/antikythera-mechanism.md) — Evidence of ancient advanced knowledge
+- [Nibiru — The 12th Planet](../evidence/nibiru-twelfth-planet.md) — Evidence for the twelfth planet
 
 ## Sources
 

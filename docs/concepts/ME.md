@@ -70,6 +70,7 @@ The term **ME** (𒈨, "Divine Decree / Blueprint") appears in Sumerian literary
 - [Tablet Of Destinies](tablet-of-destinies.md) — The Tablet of Destinies
 - [Sacred Numbers](../themes/sacred-numbers.md) — Sacred numbers
 - [Cosmic Code](../sources/cosmic-code.md) — The Cosmic Code
+- [Antikythera Mechanism](../evidence/antikythera-mechanism.md) — Evidence of ancient advanced knowledge connected to the ME
 
 ## Sources
 

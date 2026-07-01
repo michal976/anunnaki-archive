@@ -59,6 +59,7 @@ The name **NIN.URTA** (𒀭𒎏𒄯𒋫, "Lord of the Plow") is attested in Sume
 - [Nuclear Destruction](../quotes/nuclear-destruction.md) — The nuclear destruction
 - [Tablet Of Destinies](../concepts/tablet-of-destinies.md) — The Tablet of Destinies
 - [Nergal](Nergal.md) — Another warrior god
+- [Pyramid Wars](../evidence/pyramid-wars.md) — Ninurta's role in the Pyramid Wars evidence
 
 ## Sources
 

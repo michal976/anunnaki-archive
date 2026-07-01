@@ -25,3 +25,5 @@ The Mayan Long Count calendar, with its cycles of 5,125 and 26,000 years, was se
 - [Tiwanaku](../places/Tiwanaku.md) — The Bolivian site
 - [Calendar](../themes/calendar.md) — Calendar systems
 - [Precession](../themes/precession.md) — Precessional cycle
+- [Viracocha & Quetzalcoatl](../evidence/viracocha-quetzalcoatl.md) — Evidence of Anunnaki in Mesoamerica
+- [Olmec Colossal Heads](../evidence/olmec-colossal-heads.md) — Evidence of transatlantic contact

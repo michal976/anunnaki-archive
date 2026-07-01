@@ -87,6 +87,33 @@ extra_javascript:
 
 nav:
   - Home: index.md
+  - 🔥 Evidence:
+    - evidence/index.md
+    - Sinai Nuclear Holocaust: evidence/sinai-nuclear-holocaust.md
+    - Baalbek Landing Place: evidence/baalbek-landing-place.md
+    - Nibiru — The 12th Planet: evidence/nibiru-twelfth-planet.md
+    - Tiahuanaco — Baalbek of the New World: evidence/tiahuanaco-baalbek-of-the-new-world.md
+    - Olmec Colossal Heads: evidence/olmec-colossal-heads.md
+    - Genetic Creation of Humans: evidence/genetic-creation-of-humans.md
+    - Gold Mines of the Gods: evidence/gold-mines-of-the-gods.md
+    - Nazca & Paracas Landing Facility: evidence/nazca-paracas-landing-facility.md
+    - Sumerian King List: evidence/sumerian-king-list.md
+    - Sphinx Water Erosion: evidence/sphinx-water-erosion.md
+    - Viracocha & Quetzalcoatl: evidence/viracocha-quetzalcoatl.md
+    - Antikythera Mechanism: evidence/antikythera-mechanism.md
+    - The Landing Corridor: evidence/landing-corridor.md
+    - Pyramid Mysterious Sand: evidence/pyramid-mysterious-sand.md
+    - The Pyramid Wars: evidence/pyramid-wars.md
+    - Enuma Elish Creation Epic: evidence/enuma-elish-creation-epic.md
+    - Giant Nephilim: evidence/giant-nephilim.md
+    - The Great Flood: evidence/the-great-flood.md
+    - Gilgamesh Landing Place: evidence/gilgamesh-landing-place.md
+    - The Elusive Mount Sinai: evidence/elusive-mount-sinai.md
+  - 📖 Books:
+    - books/index.md
+    - Full Texts Overview: books/Full-Texts-Overview.md
+    - Stairway to Heaven Reference: books/stairway-to-heaven-reference.md
+    - When Time Began Reference: books/when-time-began-reference.md
   - 📍 Places:
     - places/index.md
     - Apsu: places/Apsu.md
@@ -279,7 +306,7 @@ nav:
   - 💎 Premium Membership: premium.md
   - 🔒 Premium Content:
     - premium/sitchin-compilation.md
-  - 🗺️ Roadmap: roadmap.md
   - 👋 Welcome (Members): members/welcome.md
+  - 🗺️ Roadmap: roadmap.md
 
 copyright: Copyright &copy; 2026 The Anunnaki Archive

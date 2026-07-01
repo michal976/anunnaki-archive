@@ -26,7 +26,7 @@ This section collects the physical anomalies, archaeological puzzles, and ancien
 
 | Anomaly | Evidence | Hook |
 |---------|----------|------|
-| Baalbek Trilithon | 1,200-ton stone blocks that no modern crane can lift | We can put a man on the Moon, but we can't lift these stones |
+|| [Baalbek Landing Place](baalbek-landing-place.md) | 1,200-ton stone blocks that no modern crane can lift | Three stones. Each weighing 1,200 tons. We can put a man on the Moon, but we can't lift these. |
 | Great Pyramid | Empty, no mummy, no inscriptions, water-eroded Sphinx dating to 10,000+ B.C. | The most analyzed building on Earth — and we still don't know who built it or why |
 | Tiahuanaco / Puma Punku | 400-ton precision-cut blocks at 12,500 feet, bronze clamps, no developmental phase | The people called themselves Urus — their language has Sumerian roots |
 | Landing Corridor | Ararat → Baalbek → Giza → Sinai aligned in a straight line | A highway for the gods — built across the Middle East |

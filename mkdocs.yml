@@ -40,9 +40,13 @@ extra:
       link: https://youtube.com/@anunnakiarchive
     - icon: fontawesome/brands/github
       link: https://github.com/michalplacek/anunnaki-archive
+    - icon: fontawesome/solid/envelope
+      link: mailto:a32675117@gmail.com
   analytics:
     provider: google
     property: G-XXXXXXXXXX
+
+copyright: "Copyright &copy; 2026 The Anunnaki Archive | Contact: a32675117@gmail.com"
 
 plugins:
   - search

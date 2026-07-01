@@ -2,7 +2,9 @@
 tags: [anunnaki, misto, uruk, inanna, gilgamesh, english]
 ---
 
-# Uruk
+# Uruk (Sumerian: UNUG — "the City")
+
+> **Sumerian name:** UNUG (𒀕𒆠) — "the City"
 
 **Uruk** (Sumerian: *Unug*; biblical: *Erech*; modern: *Warka*) was an ancient city of Sumer located in what is now southern Iraq. In Zecharia Sitchin's narrative, Uruk played a critical role as the cult center of [Inanna](../characters/Inanna.md) (Ishtar), the warrior goddess of love and war.
 

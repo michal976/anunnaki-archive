@@ -2,7 +2,9 @@
 tags: [anunnaki, misto, ur, sumer, nannar, moon-god, english]
 ---
 
-# Ur
+# Ur (Sumerian: URIM — "the City")
+
+> **Sumerian name:** URIM (𒋀𒀕𒆠) — "the City"
 
 **Ur** (Sumerian: *Urim*; modern: *Tell el-Muqayyar*) was one of the most important city-states of ancient Sumer, located near the mouth of the Euphrates River in what is now southern Iraq. In the Anunnaki narrative, Ur was the principal cult center of [Nannar](../characters/Nannar.md) (Sin), the Moon God, and the birthplace of the patriarch Abraham.
 

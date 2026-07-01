@@ -2,7 +2,9 @@
 tags: [anunnaki, misto, sippar, spaceport, utu, english]
 ---
 
-# Sippar
+# Sippar (Sumerian: ZIMBIR / UD.KIB.NUN)
+
+> **Sumerian name:** ZIMBIR / UD.KIB.NUN (𒌓𒄒𒉣𒆠)
 
 **Sippar** (Sumerian: *Zimbir*; Akkadian: *Sippar*) was an ancient Babylonian city on the eastern bank of the Euphrates River, located approximately 30 kilometers southwest of modern Baghdad. In Zecharia Sitchin's narrative, Sippar held the critical function of the **Anunnaki spaceport** — the main landing and take-off field from which spacecraft traveled between Earth and [Nibiru](../characters/Nibiru.md).
 

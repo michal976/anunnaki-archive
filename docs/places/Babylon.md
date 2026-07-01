@@ -2,7 +2,9 @@
 tags: [anunnaki, misto, babylon, mesopotamia, marduk, english]
 ---
 
-# Babylon
+# Babylon (Sumerian: KA.DINGIR.RA — "Gate of the Gods")
+
+> **Sumerian name:** KA.DINGIR.RA (𒆍𒀭𒊏𒆠) — "Gate of the Gods"
 
 **Babylon** (Akkadian: *Bāb-ilim*, "Gate of the Gods") was one of the most important cities of the ancient world, located in central Mesopotamia on the Euphrates River. In Zecharia Sitchin's narrative, Babylon played a pivotal role as the center of [Marduk](../characters/Marduk.md)'s power and the site of the infamous "Tower of Babel."
 

@@ -2,7 +2,9 @@
 tags: [anunnaki, misto, nippur, enlil, mission-control, english]
 ---
 
-# Nippur
+# Nippur (Sumerian: EN.LÍL.KI — "Place of the Lord Wind")
+
+> **Sumerian name:** EN.LÍL.KI (𒂍𒇉𒆠) — "Place of the Lord Wind"
 
 **Nippur** (Sumerian: *Nibru*; Akkadian: *Nippur*) was one of the most sacred cities of ancient Sumer, located approximately 100 kilometers southeast of modern Baghdad in central Iraq. For Zecharia Sitchin, Nippur was the **Mission Control Center of the Anunnaki** — the central command post for their operations on Earth.
 

@@ -2,7 +2,9 @@
 tags: [anunnaki, misto, eridu, first-settlement, enki, english]
 ---
 
-# Eridu
+# Eridu (Sumerian: E.RIDU — "the Faraway Home")
+
+> **Sumerian name:** E.RIDU (𒂍𒃻𒉌𒁺) — "the Faraway Home"
 
 **Eridu** (Sumerian: *Eridug*; Akkadian: *Iri-du* — "the good city" or "house built in the distance") was the southernmost of the great Sumerian city-states, located approximately 12 kilometers southwest of [Ur](Ur.md) in present-day southern Iraq. In Zecharia Sitchin's Anunnaki narrative, Eridu holds the distinction of being the **first settlement of the Anunnaki on Earth**.
 

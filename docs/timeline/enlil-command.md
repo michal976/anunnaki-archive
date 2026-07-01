@@ -4,6 +4,8 @@ tags: [anunnaki, timeline, enlil, command, future, english]
 
 # Enlil's Command (Enlil's Command / The Future)
 
+> **Sumerian term:** EN.LÍL (𒂗𒇸) — "Lord of the Command"
+
 The "Enlil Command" refers to the future return of the Anunnaki as prophesied in various ancient texts. According to Zecharia Sitchin's reading, [Enlil](../characters/Enlil.md) decreed that the Anunnaki would depart but eventually return when [Nibiru](../characters/Nibiru.md) completes its next orbit.
 
 ## The Prophecy

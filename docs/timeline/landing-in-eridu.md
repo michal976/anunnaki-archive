@@ -4,6 +4,8 @@ tags: [anunnaki, timeline, landing, eridu, english]
 
 # Landing at Eridu
 
+> **Sumerian term:** E.RIDU (𒂍𒃻𒉌𒁺) — "the Faraway Home"
+
 **Date: Approximately 450,000 BCE**
 
 According to Zecharia Sitchin, the first landing of the Anunnaki on Earth occurred at [Eridu](../concepts/Eridu.md), in the region later known as Sumer (southern Mesopotamia).

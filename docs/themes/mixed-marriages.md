@@ -4,6 +4,8 @@ tags: [anunnaki, tema, interbreeding, marriage, nephilim, english]
 
 # Mixed Marriages / Interbreeding
 
+> **Sumerian name:** LU.LU / NAM.LU.LU (𒉆𒇽𒇽) — "mixed ones"
+
 One of the most controversial aspects of Zecharia Sitchin's Anunnaki narrative is the concept of interbreeding — sexual unions between the Anunnaki ("gods") and human women. This theme appears in both the [biblical account](../sources/Bible-Genesis.md) (the "sons of God" and the "daughters of men") and in Sumerian mythology.
 
 ## The Biblical Account

@@ -4,6 +4,8 @@ tags: [anunnaki, timeline, arrival, english]
 
 # Arrival of the Anunnaki
 
+> **Sumerian term:** A.NUN.NA.KI (𒀀𒉣𒈾𒆠) — "Those who from heaven to earth came"
+
 **Date: Approximately 450,000 BCE**
 
 According to Zecharia Sitchin, the Anunnaki arrived on Earth approximately 450,000 years ago. They came from [Nibiru](../characters/Nibiru.md), the twelfth planet, in a fleet of spacecraft seeking gold to repair their planet's atmosphere.

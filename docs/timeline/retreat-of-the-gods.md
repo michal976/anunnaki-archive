@@ -4,6 +4,8 @@ tags: [anunnaki, timeline, departure, english]
 
 # Departure of the Gods
 
+> **Sumerian term:** DINGIR (𒀭) — "God/Divine being"
+
 **Date: After 2024 BCE**
 
 After the nuclear destruction of Sumer, the Anunnaki gradually withdrew from direct involvement in human affairs. The "golden age" when gods walked among men came to an end.

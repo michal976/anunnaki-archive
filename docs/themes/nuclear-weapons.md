@@ -4,6 +4,8 @@ tags: [anunnaki, tema, nuclear, weapons, destruction, english]
 
 # Nuclear Weapons
 
+> **Sumerian name:** NAM.ḪUL (𒉆𒃲) — "Weapons of Terror"
+
 Zecharia Sitchin proposed that the Anunnaki possessed and used nuclear weapons on Earth. The most significant event in his narrative involving nuclear weapons is the destruction of [Sippar](../places/Sippar.md) and [Ur](../places/Ur.md) in 2024 BCE — a catastrophe that, according to Sitchin, ended the Sumerian civilization and forced the Anunnaki to abandon Earth.
 
 ## The Nuclear Strike of 2024 BCE

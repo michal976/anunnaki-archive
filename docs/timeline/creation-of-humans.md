@@ -4,6 +4,9 @@ tags: [anunnaki, timeline, creation, man, english]
 
 # Creation of Humanity
 
+> **Sumerian term:** LULLU (𒇽𒇽) — "Primitive Worker"
+> **Sumerian term:** ADAMU (𒀀𒁕𒈬) — "Earth creature"
+
 **Date: Approximately 445,000 BCE**
 
 After the [Igigi](../concepts/Igigi.md) rebellion, [Enki](../characters/Enki.md) proposed creating a "primitive worker" — a hybrid being that could perform the labor of the mines. This led to the genetic engineering of [Adamu](../concepts/Adamu.md), the first Homo sapiens.

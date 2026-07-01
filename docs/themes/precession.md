@@ -4,6 +4,8 @@ tags: [anunnaki, tema, precession, cycle, equinox, english]
 
 # Precession — The Precessional Cycle
 
+> **Sumerian name:** MUL.AN (𒀯𒀭) — "Celestial Signs"
+
 **Precession** refers to the slow, conical wobble of Earth's rotational axis, which completes one full cycle approximately every 25,920 years. This phenomenon causes the position of the stars to shift slowly over time and changes which constellation rises with the Sun on the spring equinox — marking the "ages" of the zodiac.
 
 Zecharia Sitchin gave the precessional cycle central importance in his interpretation of ancient knowledge, arguing that the Anunnaki not only understood precession but encoded its timing into the structure of mythology, religion, and monumental architecture.

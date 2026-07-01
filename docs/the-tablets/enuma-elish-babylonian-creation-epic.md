@@ -5,6 +5,8 @@ tags: [primary-source, cuneiform, akkadian, creation-myth, babylonian]
 
 # Enuma Elish — The Babylonian Creation Epic
 
+> **Cuneiform name:** Enuma Eliš (𒂊𒉡𒈠𒂊𒇺) — "When on High" (Akkadian)
+
 **Tablet:** Enuma Elish (Tablet I, upper half) — British Museum K.2929+ (Seven tablets of the creation epic)
 **Date:** c. 1100 BCE (Old Babylonian copies date to c. 1750 BCE; the standard version is Neo-Assyrian)
 **Location:** Library of Ashurbanipal, Nineveh (modern-day Mosul, Iraq)

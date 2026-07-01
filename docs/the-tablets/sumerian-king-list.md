@@ -5,6 +5,8 @@ tags: [primary-source, cuneiform, sumerian, king-list, pre-flood, antediluvian]
 
 # The Sumerian King List
 
+> **Cuneiform name:** LU.GAL.LA / PALA (𒇽𒃲𒆷) — "Kingship"
+
 **Tablet:** Weld-Blundell Prism (WB 444) — the most complete exemplar of the Sumerian King List
 **Date:** c. 1820–1760 BCE (Old Babylonian period, reign of Rīm-Sîn of Larsa)
 **Location:** Larsa (modern Tell es-Senereh, Iraq)

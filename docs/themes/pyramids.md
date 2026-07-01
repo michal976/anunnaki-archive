@@ -4,6 +4,8 @@ tags: [anunnaki, tema, pyramids, egypt, mesopotamia, english]
 
 # Pyramids
 
+> **Sumerian name:** É.KUR (𒂍𒆳) — "Mountain House"
+
 The pyramids — particularly the [Great Pyramid](../places/giza.md) of Giza — occupy a central place in Zecharia Sitchin's Anunnaki narrative. Sitchin rejected the conventional view that the Egyptian pyramids were tombs for pharaohs. Instead, he argued they were part of a sophisticated navigation and communication system built by or with the guidance of the Anunnaki.
 
 ## The Great Pyramid of Giza

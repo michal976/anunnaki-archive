@@ -4,6 +4,8 @@ tags: [anunnaki, tema, genetics, engineering, creation, english]
 
 # Genetic Engineering
 
+> **Sumerian name:** LULLU (𒇽𒇽) — "Primitive Worker"
+
 The genetic engineering of humanity is the central theme of Zecharia Sitchin's Earth Chronicles. Sitchin argued that the Anunnaki possessed advanced knowledge of genetics and used it to create Homo sapiens as a worker species approximately 300,000 years ago.
 
 ## The Sumerian Account

@@ -4,6 +4,9 @@ tags: [anunnaki, timeline, nuclear, catastrophe, english]
 
 # Nuclear Catastrophe
 
+> **Sumerian term:** NAM.ḪUL (𒉆𒃲) — "Weapons of Terror"
+> **Sumerian term:** GIG (𒄀𒅅) — "Catastrophe"
+
 **Date: 2024 BCE**
 
 The nuclear destruction of [Sippar](../places/Sippar.md) and [Ur](../places/Ur.md) was the final act of the [Pyramid Wars](pyramid-wars.md). A nuclear weapon was used to destroy the spaceport and the rebellious cities.

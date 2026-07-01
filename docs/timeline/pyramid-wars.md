@@ -4,6 +4,8 @@ tags: [anunnaki, timeline, pyramid-wars, conflicts, english]
 
 # Pyramid Wars
 
+> **Sumerian term:** É.KUR (𒂍𒆳) — "Mountain House"
+
 **Date: Approximately 3,500–2,024 BCE**
 
 The [Pyramid Wars](pyramid-wars.md) were the conflicts among the Anunnaki over control of Earth and its spaceport facilities.

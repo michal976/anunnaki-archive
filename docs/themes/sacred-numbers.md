@@ -4,6 +4,8 @@ tags: [anunnaki, tema, sacred-numbers, numerology, english]
 
 # Sacred Numbers
 
+> **Sumerian name:** EŠ (𒐁) — "60 / divine number" (sexagesimal system)
+
 Zecharia Sitchin argued that the numbers that appear repeatedly in ancient Sumerian, Babylonian, and biblical texts are not arbitrary but encode precise astronomical and mathematical knowledge transmitted by the Anunnaki.
 
 ## The Base-60 (Sexagesimal) System

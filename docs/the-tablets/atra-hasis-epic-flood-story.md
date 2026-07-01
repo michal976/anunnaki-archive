@@ -5,6 +5,8 @@ tags: [primary-source, cuneiform, akkadian, flood, atra-hasis, genesis-parallels
 
 # The Atra-Hasis Epic — The Flood Story
 
+> **Cuneiform name:** At-ram-ḫa-sis (𒀜𒊏𒄩𒋛𒅖) — "Exceedingly Wise"
+
 **Tablet:** Atra-Hasis Epic — British Museum BM 78963+ (composite of several fragments, the most complete being from the Old Babylonian period)
 **Date:** c. 1640 BCE (Old Babylonian version); the flood story itself is even older in oral tradition
 **Location:** Sippar (modern Tell Abu Habbah, Iraq), found alongside other tablets in the library of the temple of Shamash

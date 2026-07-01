@@ -4,6 +4,9 @@ tags: [anunnaki, timeline, mesopotamia, civilization, english]
 
 # Mesopotamian Civilization
 
+> **Sumerian term:** KALAM (𒌦) — "the Land"
+> **Sumerian term:** URI.KI (𒋀𒀕𒆠) — "Akkad/Sumer"
+
 **Date: 3,800–2,024 BCE**
 
 The flowering of Sumerian civilization was, in Sitchin's view, directly supervised by the Anunnaki. Every aspect of Sumerian culture — writing, law, mathematics, astronomy, agriculture — came from the gods.

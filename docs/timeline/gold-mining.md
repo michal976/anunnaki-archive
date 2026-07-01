@@ -4,6 +4,9 @@ tags: [anunnaki, timeline, gold, mining, english]
 
 # Gold Mining
 
+> **Sumerian term:** KUG.GI (𒆬𒄀) — "Gold"
+> **Sumerian term:** AŠ.NA (𒀸𒈾) — "the ore"
+
 **Date: Approximately 450,000–445,000 BCE**
 
 After establishing their base at [Eridu](../concepts/Eridu.md), the Anunnaki began mining gold. This was the primary purpose of their mission to Earth.

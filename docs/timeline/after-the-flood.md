@@ -4,6 +4,8 @@ tags: [anunnaki, timeline, post-flood, english]
 
 # After the Flood
 
+> **Sumerian term:** EN.LÍL.KI — "the Enlil domain after the Flood"
+
 **Date: Approximately 13,000–3,800 BCE**
 
 After the Great Flood, the Anunnaki re-established their presence on Earth. This period saw the formation of the first post-diluvian cities and the institution of kingship.

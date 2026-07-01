@@ -4,6 +4,8 @@ tags: [anunnaki, tema, vimana, aircraft, flying-vehicles, english]
 
 # Vimanas and Aircraft
 
+> **Sumerian name:** GIŠ.GIGIR (𒄑𒎌) — "Chariot" / MU.NA.DIR (𒈬𒈾𒉌𒀉)
+
 A recurring theme in ancient texts worldwide is the description of flying vehicles. Zecharia Sitchin argued that these were literal descriptions of Anunnaki aircraft and spacecraft, which the Sumerians called [SHEM](../concepts/SHEM.md) and the Indians later called *Vimanas*.
 
 ## Sumerian Flying Vehicles

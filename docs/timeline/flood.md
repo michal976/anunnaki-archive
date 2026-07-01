@@ -4,6 +4,8 @@ tags: [anunnaki, timeline, flood, deluge, english]
 
 # The Great Flood
 
+> **Sumerian term:** A.MA.RU (𒀭𒈤𒊒) — "the Deluge / Flood"
+
 **Date: Approximately 13,000 BCE**
 
 Sitchin dated the Great Flood to about 13,000 BCE. It was caused by the gravitational effects of [Nibiru](../characters/Nibiru.md)'s approach, which triggered massive tidal waves and the melting of ice caps.

@@ -5,6 +5,8 @@ tags: [primary-source, cuneiform, sumerian, creation, enki, ninmah, lullu, genet
 
 # Enki and Ninmah — The Creation of Man
 
+> **Cuneiform name:** EN.KI u NIN.MAH (𒂗𒆠𒌋𒊩𒌆𒈤) — "Lord Earth and Lady Exalted"
+
 **Tablet:** Enki and Ninmah (various exemplars, including CBS 8096 and others at the University of Pennsylvania Museum)
 **Date:** c. 2000–1600 BCE (Old Babylonian period; the story itself likely originates in the late third millennium BCE)
 **Location:** Nippur (modern Nuffar, Iraq) — most copies excavated from the temple library of Enlil at Nippur

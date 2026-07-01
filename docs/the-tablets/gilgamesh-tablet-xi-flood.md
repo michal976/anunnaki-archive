@@ -5,6 +5,8 @@ tags: [primary-source, cuneiform, akkadian, gilgamesh, flood, utnapishtim, genes
 
 # Gilgamesh Tablet XI — The Flood Story
 
+> **Cuneiform name:** GIŠ.BIL.GA.MEŠ (𒄑𒉈𒂆𒈦) — "The Ancestor is a Hero" (Sumerian for Gilgamesh) / ŠA.NE.GA (𒊭𒉈𒂵) — "Flood"
+
 **Tablet:** Gilgamesh Tablet XI — British Museum K.3375 (from the Library of Ashurbanipal, Nineveh)
 **Date:** c. 650 BCE (Neo-Assyrian copy); the Standard Babylonian version of the *Epic of Gilgamesh* dates to c. 1200 BCE; the flood story appears already in Old Babylonian versions c. 1700 BCE
 **Location:** Nineveh, Library of Ashurbanipal, Kouyunjik mound (modern Mosul, Iraq)

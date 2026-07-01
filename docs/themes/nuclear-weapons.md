@@ -2,7 +2,7 @@
 tags: [anunnaki, tema, nuclear, weapons, destruction, english]
 ---
 
-# Jaderné zbraně (Nuclear Weapons)
+# Nuclear Weapons
 
 Zecharia Sitchin proposed that the Anunnaki possessed and used nuclear weapons on Earth. The most significant event in his narrative involving nuclear weapons is the destruction of [Sippar](../places/Sippar.md) and [Ur](../places/Ur.md) in 2024 BCE — a catastrophe that, according to Sitchin, ended the Sumerian civilization and forced the Anunnaki to abandon Earth.
 

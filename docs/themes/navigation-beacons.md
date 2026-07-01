@@ -2,7 +2,7 @@
 tags: [anunnaki, tema, navigation, beacons, english]
 ---
 
-# Navigační majáky (Navigation Beacons)
+# Navigation Beacons
 
 Zecharia Sitchin proposed that the Anunnaki established a system of navigation beacons on Earth to guide their spacecraft as they approached and landed on the planet. These beacons took the form of massive stone structures — pyramids, megalithic platforms, and aligned stone circles — that remain some of the most impressive monuments of the ancient world.
 

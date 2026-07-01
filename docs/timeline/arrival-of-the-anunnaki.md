@@ -2,7 +2,7 @@
 tags: [anunnaki, timeline, arrival, english]
 ---
 
-# Příchod Anunnaků (Arrival of the Anunnaki)
+# Arrival of the Anunnaki
 
 **Date: Approximately 450,000 BCE**
 

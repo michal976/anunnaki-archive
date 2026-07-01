@@ -2,7 +2,7 @@
 tags: [anunnaki, tema, vimana, aircraft, flying-vehicles, english]
 ---
 
-# Vimány a letadla (Vimanas and Aircraft)
+# Vimanas and Aircraft
 
 A recurring theme in ancient texts worldwide is the description of flying vehicles. Zecharia Sitchin argued that these were literal descriptions of Anunnaki aircraft and spacecraft, which the Sumerians called [SHEM](../concepts/SHEM.md) and the Indians later called *Vimanas*.
 

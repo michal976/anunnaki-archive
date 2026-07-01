@@ -2,7 +2,7 @@
 tags: [knihy, reference, stairway-to-heaven, sitchin, english]
 ---
 
-# Schody k nebesům — Reference Notes
+# Stairway to Heaven — Reference Notes
 
 Reference summary for **The Stairway to Heaven** (1980), the second book of Zecharia Sitchin's Earth Chronicles series.
 

@@ -2,7 +2,7 @@
 tags: [citace, sitchin, key-quotes, english]
 ---
 
-# Sitchinovy klíčové výroky (Sitchin's Key Statements)
+# Sitchin's Key Statements
 
 Selected quotations directly from Zecharia Sitchin's writings that summarize his key arguments.
 

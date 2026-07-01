@@ -2,7 +2,7 @@
 tags: [modern-science, moon, formation, theia, english]
 ---
 
-# Vznik Měsíce (Formation of the Moon)
+# Formation of the Moon
 
 The leading scientific theory for the formation of the Moon is the **giant impact hypothesis**.
 

@@ -2,7 +2,7 @@
 tags: [anunnaki, source, sitchin, wars, english]
 ---
 
-# The Wars of Gods and Men (Války bohů a lidí)
+# The Wars of Gods and Men
 
 *The Wars of Gods and Men*, published in 1985, is the third book in Zecharia Sitchin's Earth Chronicles series. It details the conflicts among the Anunnaki themselves and the wars that shaped the ancient Near East.
 

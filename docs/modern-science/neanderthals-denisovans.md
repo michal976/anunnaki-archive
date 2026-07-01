@@ -2,7 +2,7 @@
 tags: [modern-science, neanderthals, denisovans, hominids, english]
 ---
 
-# Neandertálci a Denišované (Neanderthals and Denisovans)
+# Neanderthals and Denisovans
 
 The discovery that modern humans interbred with Neanderthals and Denisovans has profound implications for our understanding of human origins.
 

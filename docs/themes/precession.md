@@ -2,7 +2,7 @@
 tags: [anunnaki, tema, precession, cycle, equinox, english]
 ---
 
-# Precese (Precession — The Precessional Cycle)
+# Precession — The Precessional Cycle
 
 **Precession** refers to the slow, conical wobble of Earth's rotational axis, which completes one full cycle approximately every 25,920 years. This phenomenon causes the position of the stars to shift slowly over time and changes which constellation rises with the Sun on the spring equinox — marking the "ages" of the zodiac.
 

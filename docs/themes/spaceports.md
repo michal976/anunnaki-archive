@@ -2,7 +2,7 @@
 tags: [anunnaki, tema, spaceport, cosmodrome, english]
 ---
 
-# Kosmodromy (Spaceports)
+# Spaceports
 
 Zecharia Sitchin proposed that the Anunnaki maintained a network of spaceports and landing facilities on Earth. These facilities formed the basis for some of the most impressive ancient structures and sacred sites.
 

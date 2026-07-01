@@ -2,7 +2,7 @@
 tags: [anunnaki, religion, bible, old-testament, english]
 ---
 
-# Starý zákon (Old Testament)
+# Old Testament
 
 Zecharia Sitchin argued that the [Old Testament](../sources/Bible-Genesis.md) (Hebrew Bible) is a monotheistic redaction of much older Sumerian texts about the Anunnaki.
 

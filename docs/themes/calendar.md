@@ -2,7 +2,7 @@
 tags: [anunnaki, tema, calendar, time, english]
 ---
 
-# Kalendář (Calendar)
+# Calendar
 
 The calendar is one of the most important legacies of the Anunnaki according to Zecharia Sitchin. He argued that the Sumerians did not invent the calendar but received it as a fully developed system from their Anunnaki masters — a system that encoded advanced astronomical knowledge about [Nibiru](../characters/Nibiru.md) and the precessional cycle.
 

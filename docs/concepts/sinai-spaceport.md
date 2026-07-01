@@ -2,7 +2,7 @@
 tags: [anunnaki, concept, sinai, spaceport, cosmodrome, english]
 ---
 
-# Sinajský kosmodrom (Sinai Spaceport)
+# Sinai Spaceport
 
 The **Sinai Spaceport** was, according to Zecharia Sitchin, the primary landing and take-off facility for the Anunnaki on Earth. Located in the [Sinai Peninsula](../places/sinai.md), it was the central hub of the Anunnaki space transportation system.
 

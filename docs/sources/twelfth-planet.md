@@ -2,7 +2,7 @@
 tags: [anunnaki, source, sitchin, 12th-planet, nibiru, english]
 ---
 
-# The 12th Planet (Dvanáctá planeta)
+# The 12th Planet
 
 *The 12th Planet*, published in 1976 by Harper, is the foundational book of Zecharia Sitchin's Earth Chronicles series. It introduced the world to Sitchin's thesis that a twelfth planet (counting the Sun, Moon, and ten known planets) named [Nibiru](../characters/Nibiru.md) orbits the Sun every 3,600 years and is the homeworld of the Anunnaki.
 

@@ -2,7 +2,7 @@
 tags: [citace, anunnaki, gods, quotations, english]
 ---
 
-# Anunnaki a bohové (Anunnaki and the Gods)
+# Anunnaki and the Gods
 
 Selected quotations from Sumerian, Akkadian, and Babylonian texts describing the Anunnaki and their nature, as translated by Zecharia Sitchin.
 

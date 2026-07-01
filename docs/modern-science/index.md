@@ -2,7 +2,7 @@
 tags: [modern-science, anunnaki, index, english]
 ---
 
-# Moderní věda (Modern Science)
+# Modern Science
 
 This folder explores connections between Zecharia Sitchin's Anunnaki narrative and modern scientific discoveries.
 

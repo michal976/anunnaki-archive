@@ -2,7 +2,7 @@
 tags: [knihy, reference, index, english]
 ---
 
-# Knihy (Books / Reference)
+# Books / Reference
 
 This folder contains reference materials, full-text summaries, and annotated bibliographies for the key sources used in this archive.
 

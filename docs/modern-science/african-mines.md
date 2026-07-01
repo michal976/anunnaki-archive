@@ -2,7 +2,7 @@
 tags: [modern-science, africa, mines, gold, english]
 ---
 
-# Africké doly (African Mines)
+# African Mines
 
 Southern Africa contains archaeological evidence of extensive ancient mining operations.
 

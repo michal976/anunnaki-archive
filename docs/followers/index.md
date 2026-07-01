@@ -2,7 +2,7 @@
 tags: [followers, anunnaki, index, english]
 ---
 
-# Následovníci (Followers)
+# Followers
 
 This folder profiles other researchers and authors who have expanded upon, been influenced by, or worked parallel to Zecharia Sitchin's Anunnaki narrative.
 

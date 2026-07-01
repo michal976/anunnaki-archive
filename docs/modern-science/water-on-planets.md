@@ -2,7 +2,7 @@
 tags: [modern-science, water, planets, solar-system, english]
 ---
 
-# Voda na planetách (Water on Planets)
+# Water on Planets
 
 The discovery of water on other planets and moons has revolutionized our understanding of the solar system.
 

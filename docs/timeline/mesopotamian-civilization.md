@@ -2,7 +2,7 @@
 tags: [anunnaki, timeline, mesopotamia, civilization, english]
 ---
 
-# Mezopotámská civilizace (Mesopotamian Civilization)
+# Mesopotamian Civilization
 
 **Date: 3,800–2,024 BCE**
 

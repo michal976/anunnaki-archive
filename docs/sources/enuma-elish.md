@@ -2,7 +2,7 @@
 tags: [anunnaki, source, enuma-elish, creation, babylon, english]
 ---
 
-# Enuma Elíš — The Babylonian Creation Epic
+# Enuma Elish — The Babylonian Creation Epic
 
 The *Enuma Elíš* (named after its opening words meaning "When on high") is the Babylonian creation epic, inscribed on seven clay tablets dating to approximately the 12th century BCE. It was discovered in the ruins of the library of Ashurbanipal in Niniveh and first translated in the 19th century. For Zecharia Sitchin, this text was the single most important document supporting his cosmological theory.
 

@@ -2,7 +2,7 @@
 tags: [anunnaki, tema, gold, monatomic, alchemy, english]
 ---
 
-# Monoatomické zlato (Monatomic Gold)
+# Monatomic Gold
 
 **Monatomic gold** (also known as *white powder gold*, *ORMUS*, or *m-state gold*) is a theoretical substance that some alternative researchers have connected to Zecharia Sitchin's account of the Anunnaki gold mining operations. The theory proposes that the Anunnaki were not mining ordinary gold for its monetary or decorative value, but were extracting monatomic gold — a substance with extraordinary properties.
 

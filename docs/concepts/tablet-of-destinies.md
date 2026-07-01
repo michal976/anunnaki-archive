@@ -2,7 +2,7 @@
 tags: [anunnaki, concept, tablet-of-destinies, fate, english]
 ---
 
-# Tabulka osudů (Tablet of Destinies)
+# Tablet of Destinies
 
 The **Tablet of Destinies** (Sumerian: *DUB.NAM.TAR.RA*; Akkadian: *Ṭuppi Šīmāti*) was a legendary artifact in Mesopotamian mythology — a cosmic tablet that contained the decrees of the gods and the fate of the universe. In Zecharia Sitchin's interpretation, the Tablet of Destinies was a physical object — likely a computer or command device — that controlled the Anunnaki's operations on Earth and their connection to [Nibiru](../characters/Nibiru.md).
 

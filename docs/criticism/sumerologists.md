@@ -2,7 +2,7 @@
 tags: [kritika, sumerologists, academic, english]
 ---
 
-# Sumerologové (Sumerologists)
+# Sumerologists
 
 The academic response to Zecharia Sitchin's work from professional Sumerologists.
 

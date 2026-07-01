@@ -2,7 +2,7 @@
 tags: [anunnaki, misto, jerusalem, crossing, zion, english]
 ---
 
-# Jeruzalém (Jerusalem)
+# Jerusalem
 
 **Jerusalem** is one of the most contested and sacred cities in human history, holy to Judaism, Christianity, and Islam. In Zecharia Sitchin's Anunnaki narrative, Jerusalem occupies a unique position as the **Mount of the Crossing** — a critical navigation point in the Anunnaki landing corridor.
 

@@ -2,7 +2,7 @@
 tags: [anunnaki, concept, tower-of-babel, babylon, english]
 ---
 
-# Věž Babylon (The Tower of Babel)
+# The Tower of Babel
 
 The **Tower of Babel** is one of the most famous stories in the [Book of Genesis](../sources/Bible-Genesis.md) (Genesis 11:1-9). In Zecharia Sitchin's interpretation, this was not a story about divine punishment for human pride but a historical account of [Marduk](../characters/Marduk.md)'s attempt to build a rocket launch tower — a [SHEM](SHEM.md) facility — in [Babylon](../places/Babylon.md).
 

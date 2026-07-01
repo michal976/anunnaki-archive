@@ -2,7 +2,7 @@
 tags: [anunnaki, source, sitchin, cosmic-code, genetics, english]
 ---
 
-# The Cosmic Code (Kosmický kód)
+# The Cosmic Code
 
 *The Cosmic Code*, published in 1998, is the sixth book of the Earth Chronicles series. In this volume, Zecharia Sitchin explores the relationship between the Anunnaki's genetic engineering of humanity and the discovery of the DNA double helix, arguing that the "cosmic code" is embedded in everything from biology to mythology.
 

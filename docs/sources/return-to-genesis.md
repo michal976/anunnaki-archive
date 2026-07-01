@@ -2,7 +2,7 @@
 tags: [anunnaki, source, sitchin, genesis-revisited, english]
 ---
 
-# Genesis Revisited (Návrat ke Genesis)
+# Genesis Revisited
 
 *Genesis Revisited*, published in 1990, is Zecharia Sitchin's "fourth" book in the Earth Chronicles series (though it was published between *The Wars of Gods and Men* and *When Time Began*). It revisits the themes of *The 12th Planet* in light of new archaeological and scientific discoveries of the 1980s, particularly in genetics, astronomy, and space exploration.
 

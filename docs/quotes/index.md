@@ -2,7 +2,7 @@
 tags: [citace, anunnaki, index, english]
 ---
 
-# Citace (Quotes / Citation Index)
+# Quotes / Citation Index
 
 This folder catalogs key quotations and thematic parallels that Zecharia Sitchin identified in his reading of ancient texts. Each file collects citations from Sumerian, Akkadian, Babylonian, Egyptian, and biblical sources — as translated and interpreted by Sitchin — organized by theme.
 

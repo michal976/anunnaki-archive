@@ -2,7 +2,7 @@
 tags: [anunnaki, timeline, post-flood, english]
 ---
 
-# Po potopě (After the Flood)
+# After the Flood
 
 **Date: Approximately 13,000–3,800 BCE**
 

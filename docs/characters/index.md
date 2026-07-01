@@ -2,7 +2,7 @@
 tags: [anunnaki, postavy, characters, index, english]
 ---
 
-# Postavy (Characters)
+# Characters
 
 This folder catalogs the key figures in Zecharia Sitchin's Anunnaki narrative — the gods, demigods, and heroic humans who populate the Earth Chronicles. These beings are not mythological abstractions but, in Sitchin's reading, real historical actors from [Nibiru](Nibiru.md) and Earth.
 

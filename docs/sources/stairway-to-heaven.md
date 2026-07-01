@@ -2,7 +2,7 @@
 tags: [anunnaki, source, sitchin, stairway-to-heaven, spaceport, english]
 ---
 
-# The Stairway to Heaven (Schody do nebes)
+# The Stairway to Heaven
 
 *The Stairway to Heaven*, published in 1980, is the second book in Zecharia Sitchin's Earth Chronicles series. It focuses on the Anunnaki space connection — the "stairway" or "path" to heaven that was established between Earth and [Nibiru](../characters/Nibiru.md).
 

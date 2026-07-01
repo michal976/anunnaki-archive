@@ -2,7 +2,7 @@
 tags: [modern-science, megalithic, archaeology, stonehenge, english]
 ---
 
-# Megalitická archeologie (Megalithic Archaeology)
+# Megalithic Archaeology
 
 The study of megalithic structures worldwide — including [Baalbek](../places/Baalbek.md), [Stonehenge](../places/Stonehenge.md), [Tiwanaku](../places/Tiwanaku.md), and [Giza](../places/giza.md).
 

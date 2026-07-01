@@ -2,7 +2,7 @@
 tags: [anunnaki, religion, greece, greek-mythology, english]
 ---
 
-# Řecko (Greek Religion)
+# Greek Religion
 
 The mythology of ancient [Greece](greece.md) shows clear parallels with the Mesopotamian and Anunnaki narratives, according to Zecharia Sitchin.
 

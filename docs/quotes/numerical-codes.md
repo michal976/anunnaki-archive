@@ -2,7 +2,7 @@
 tags: [citace, numbers, codes, numerology, english]
 ---
 
-# Číselné kódy (Numerical Codes)
+# Numerical Codes
 
 Selected quotations and examples of numerical patterns that Zecharia Sitchin identified in Sumerian, Babylonian, and biblical texts.
 

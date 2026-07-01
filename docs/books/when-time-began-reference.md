@@ -2,7 +2,7 @@
 tags: [knihy, reference, when-time-began, sitchin, english]
 ---
 
-# Když začal čas — Reference Notes
+# When Time Began — Reference Notes
 
 Reference summary for **When Time Began** (1993), the fifth book of Zecharia Sitchin's Earth Chronicles series.
 

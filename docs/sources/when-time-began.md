@@ -2,7 +2,7 @@
 tags: [anunnaki, source, sitchin, time, calendars, precession, english]
 ---
 
-# When Time Began (Kdy začal čas)
+# When Time Began
 
 *When Time Began*, published in 1993, is the fifth book in Zecharia Sitchin's Earth Chronicles series. It examines the Anunnaki's role in creating systems of timekeeping, the calendar, and the profound significance of the precessional cycle.
 

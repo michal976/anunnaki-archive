@@ -2,7 +2,7 @@
 tags: [anunnaki, postava, gilgamesh, uruk, king, epic, english]
 ---
 
-# Gilgameš (Gilgamesh)
+# Gilgamesh
 
 **Gilgameš** (Akkadian: *Gilgamesh*; Sumerian: *Bilgames*) was a legendary king of [Uruk](../places/Uruk.md) and the hero of the *Epic of Gilgamesh*, one of the oldest surviving works of literature (c. 2100 BCE). In Zecharia Sitchin's reading, Gilgamesh was a historical figure — a semi-divine human who sought the secret of immortality from the Anunnaki.
 

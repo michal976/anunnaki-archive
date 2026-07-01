@@ -2,7 +2,7 @@
 tags: [anunnaki, tema, sacred-numbers, numerology, english]
 ---
 
-# Posvátná čísla (Sacred Numbers)
+# Sacred Numbers
 
 Zecharia Sitchin argued that the numbers that appear repeatedly in ancient Sumerian, Babylonian, and biblical texts are not arbitrary but encode precise astronomical and mathematical knowledge transmitted by the Anunnaki.
 

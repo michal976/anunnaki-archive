@@ -2,7 +2,7 @@
 tags: [anunnaki, source, sitchin, prophecy, end-times, english]
 ---
 
-# The End of Days (Konec dnů)
+# The End of Days
 
 *The End of Days*, published in 2007, is the seventh and final book of Zecharia Sitchin's Earth Chronicles series. It concludes the epic narrative by examining end-times prophecies, the return of [Nibiru](../characters/Nibiru.md), and the ultimate destiny of humanity.
 

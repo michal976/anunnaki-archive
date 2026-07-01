@@ -2,7 +2,7 @@
 tags: [anunnaki, religion, india, vedic, english]
 ---
 
-# Indie (India — Vedic Religion)
+# India — Vedic Religion
 
 Zecharia Sitchin explored connections between the Anunnaki narrative and the religious traditions of India, particularly the Vedas and Puranas.
 

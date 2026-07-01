@@ -2,7 +2,7 @@
 tags: [modern-science, archaeoastronomy, giza, pyramids, english]
 ---
 
-# Archeoastronomie Gízy (Archeoastronomy of Giza)
+# Archeoastronomy of Giza
 
 The [Giza](../places/giza.md) pyramid complex shows remarkable astronomical alignments.
 

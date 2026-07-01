@@ -2,7 +2,7 @@
 tags: [anunnaki, religion, norse, viking, english]
 ---
 
-# Severská (Norse Religion)
+# Norse Religion
 
 While Sitchin focused primarily on Near Eastern and Mediterranean traditions, other researchers have extended his methodology to [Norse mythology](norse.md).
 

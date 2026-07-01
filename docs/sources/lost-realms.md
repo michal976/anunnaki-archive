@@ -2,7 +2,7 @@
 tags: [anunnaki, source, sitchin, lost-realms, english]
 ---
 
-# The Lost Realms (Ztracená království)
+# The Lost Realms
 
 *The Lost Realms*, published in 1990 as the fourth book of the Earth Chronicles series (the timeline is: books 1-3, then book 4 *The Lost Realms*, book 5 *When Time Began*, though *Genesis Revisited* was published in between), extends the Anunnaki narrative to the Americas. Sitchin argues that the Anunnaki established colonies and influenced civilizations in the New World as well.
 

@@ -2,7 +2,7 @@
 tags: [anunnaki, religion, mesoamerica, maya, aztec, english]
 ---
 
-# Mezoamerika (Mesoamerican Religions)
+# Mesoamerican Religions
 
 Zecharia Sitchin devoted significant attention to [Mesoamerican](mesoamerica.md) civilizations in his book *The Lost Realms*. He argued that the Olmecs, Mayans, and Aztecs preserved traditions brought by [Marduk](../characters/Marduk.md) and other Anunnaki refugees.
 

@@ -2,7 +2,7 @@
 tags: [anunnaki, misto, giza, pyramid, sphinx, navigation, english]
 ---
 
-# Gíza (Giza)
+# Giza
 
 The **Giza Plateau**, located on the outskirts of modern Cairo, Egypt, is home to the **Great Pyramid of Khufu (Cheops)**, the **Pyramid of Khafre**, the **Pyramid of Menkaure**, and the **Great Sphinx**. For Zecharia Sitchin, this complex was the most sophisticated structure ever built on Earth — not as tombs for pharaohs, but as an advanced navigational beacon for the Anunnaki space program.
 

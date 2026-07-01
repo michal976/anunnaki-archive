@@ -2,7 +2,7 @@
 tags: [kritika, translations, disputes, english]
 ---
 
-# Překlady spory (Translation Disputes)
+# Translation Disputes
 
 The translation disputes between Zecharia Sitchin and mainstream Assyriologists are at the heart of the controversy surrounding his work.
 

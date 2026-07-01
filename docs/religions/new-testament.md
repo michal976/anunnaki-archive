@@ -2,7 +2,7 @@
 tags: [anunnaki, religion, new-testament, jesus, english]
 ---
 
-# Nový zákon (New Testament)
+# New Testament
 
 Some researchers, building on Zecharia Sitchin's work, have explored potential connections between the Anunnaki narrative and the [New Testament](new-testament.md).
 

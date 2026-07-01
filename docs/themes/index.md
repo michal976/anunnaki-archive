@@ -2,7 +2,7 @@
 tags: [anunnaki, temata, themes, index, english]
 ---
 
-# Témata (Themes)
+# Themes
 
 This folder catalogs the major themes, technologies, and conceptual frameworks that Zecharia Sitchin identified in the Anunnaki narrative. These themes span genetics, warfare, timekeeping, navigation, and the sacred sciences.
 

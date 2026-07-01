@@ -2,7 +2,7 @@
 tags: [anunnaki, misto, location, index, english]
 ---
 
-# Místa (Places)
+# Places
 
 This folder catalogs the key locations in the Anunnaki narrative as reconstructed by Zecharia Sitchin from Sumerian, Akkadian, Babylonian, and biblical sources. These sites span the geography of the ancient Near East and beyond, forming a network of settlements, space facilities, mining operations, and ceremonial centers.
 

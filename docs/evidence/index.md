@@ -37,8 +37,8 @@ This section collects the physical anomalies, archaeological puzzles, and ancien
 
 | Anomaly | Evidence | Hook |
 |---------|----------|------|
-| Genetic Creation of *Homo sapiens* | Sudden appearance 300,000 years ago with no transitional fossils | Mitochondrial Eve dates to exactly when and where the Sumerians said humanity was created |
-| Anunnaki Gold Mines | 100,000-year-old mining tunnels in southern Africa | The oldest mines on Earth predate civilization by 90,000 years |
+|| [Genetic Creation of Humans](genetic-creation-of-humans.md) | Sudden appearance 300,000 years ago with no transitional fossils, Mitochondrial Eve | Mitochondrial Eve dates to exactly when and where the Sumerians said humanity was created |
+|| [Gold Mines of the Gods](gold-mines-of-the-gods.md) | 100,000-year-old mining tunnels in southern Africa | The oldest mines on Earth predate civilization by 90,000 years |
 | Giant Nephilim | Biblical "giants," Sumerian demigods, colossal skeletal remains | The gods bred with humans — and the offspring were not entirely human |
 
 ### 🪐 Celestial
@@ -53,7 +53,7 @@ This section collects the physical anomalies, archaeological puzzles, and ancien
 
 | Anomaly | Evidence | Hook |
 |---------|----------|------|
-| Olmec Heads | African features carved in stone — in Mexico, 1500 B.C. | African faces and bearded Semitic men in the jungles of Mesoamerica |
+|| [Olmec Colossal Heads](olmec-colossal-heads.md) | African features carved in stone — in Mexico, 1500 B.C. | African faces and bearded Semitic men in the jungles of Mesoamerica |
 | Viracocha / Quetzalcoatl | White bearded god in both Andes and Mesoamerica — same symbols as Sumer | The winged disk of Nibiru appears on the Gateway of the Sun at Tiahuanaco |
 | Antikythera Mechanism | A gear-driven computer from 100 B.C. — technology not matched for 1,400 years | Where did the Greeks get this knowledge? The Sumerians had it 2,000 years earlier |
 

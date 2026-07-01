@@ -48,7 +48,7 @@ Unlock the complete Anunnaki Archive — every article, every detail, every conn
     <h3>🏆 Lifetime</h3>
     <p style="font-size:2em;font-weight:bold;color:#10b981;">$199</p>
     <p style="color:#666;">one-time payment</p>
-    <a href="mailto:michal@placek.one?subject=Lifetime%20Membership" style="background:#10b981;color:white;text-decoration:none;padding:12px 32px;border-radius:8px;font-size:1.1em;display:inline-block;width:100%;box-sizing:border-box;">
+    <a href="mailto:a32675117@gmail.com?subject=Lifetime%20Membership" style="background:#10b981;color:white;text-decoration:none;padding:12px 32px;border-radius:8px;font-size:1.1em;display:inline-block;width:100%;box-sizing:border-box;">
       Contact for Access
     </a>
   </div>
@@ -64,7 +64,7 @@ Unlock the complete Anunnaki Archive — every article, every detail, every conn
 
 All payments are processed securely via **Stripe**. Your card details never touch our servers. Cancel anytime.
 
-*Questions? Email [michal@placek.one](mailto:michal@placek.one)*
+_Questions? Email [a32675117@gmail.com](mailto:a32675117@gmail.com)_
 
 <script>
 async function checkout(priceId) {

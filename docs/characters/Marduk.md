@@ -58,6 +58,15 @@ In the Babylonian epic, Marduk is the champion who defeats Tiamat and creates th
 - Replaced Enlil as the supreme authority
 - Legitimized Babylon as the center of the world
 
+## Cuneiform Evidence
+
+The name **AMAR.UTU** (𒀭𒀫𒌓, "Bull of the Sun God") is the Sumerian writing for Marduk, who rose to become the supreme deity of the Babylonian pantheon. Marduk is the central figure of the Babylonian creation epic.
+
+- **[CDLI Corpus: AMAR.UTU](https://cdli.earth/search?q=AMAR.UTU)** — Browse tablets mentioning Marduk
+- **Key tablet:** The *Enuma Elish* — The Babylonian creation epic that recounts Marduk's rise to supremacy. The standard version was inscribed on seven tablets. CDLI P450752 preserves a Neo-Assyrian copy from Nineveh.
+- ![Enuma Elish tablet](https://cdli.earth/dl/tn_photo/P450752.jpg)
+  *Tablet of the Enuma Elish, the Babylonian creation epic in which Marduk defeats Tiamat and becomes the king of the gods. (CDLI P450752)*
+
 ## See Also
 
 - [Enki](Enki.md) — Marduk's father

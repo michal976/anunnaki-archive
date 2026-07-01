@@ -53,6 +53,15 @@ Sitchin argued that:
 - Ziusudra/Noah was a real person who preserved knowledge
 - After the flood, the Anunnaki regranted civilization to humanity
 
+## Cuneiform Evidence
+
+The Great Flood narrative is preserved in multiple Sumerian, Akkadian, and Babylonian cuneiform texts, making it one of the most extensively documented events in ancient Mesopotamian literature.
+
+- **[CDLI Corpus: flood myth](https://cdli.earth/search?q=flood%20epic)** — Browse tablets containing flood narratives
+- **Key tablet:** The *Atra-Hasis* epic (CDLI P346270) — The most complete account of the flood from a Mesopotamian source. The *Epic of Gilgamesh*, Tablet XI (CDLI P354853), also recounts the flood story through Utnapishtim. The *Sumerian Flood Story* (CDLI P346271) from Nippur provides the earliest known version.
+- ![Atra-Hasis flood tablet](https://cdli.earth/dl/tn_photo/P346270.jpg)
+  *Old Babylonian tablet of the Atra-Hasis epic, containing the earliest complete version of the flood narrative. (CDLI P346270)*
+
 ## See Also
 
 - [Atra Hasis](../sources/Atra-Hasis.md) — The flood epic

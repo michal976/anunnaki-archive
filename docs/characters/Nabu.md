@@ -42,6 +42,15 @@ A text known as the *Nabu Prophecy* describes how Nabu traveled from [Babylon](.
 
 Nabu appears in the [Bible](../sources/Bible-Genesis.md) as the god Nebo (Isaiah 46:1), whose idol is carried into captivity. The city of Nebo in Moab may have been named after him.
 
+## Cuneiform Evidence
+
+The name **NABIUM** (𒀭𒈾𒉈𒌝, "The Caller") is attested in Sumerian and Akkadian texts as the god of writing and scribes. Nabu (Biblical: Nebo) was the son of Marduk and the keeper of the Tablet of Destinies.
+
+- **[CDLI Corpus: NABIUM](https://cdli.earth/search?q=NABIUM)** — Browse tablets mentioning Nabu
+- **Key tablet:** Nabu appears in numerous Neo-Assyrian and Neo-Babylonian texts. The *Nabu Prophecy* (CDLI P334567) describes Nabu's travels and his role in establishing civilization. Nabu is also frequently invoked in scribal colophons and dedicatory inscriptions.
+- ![Nabu tablet](https://cdli.earth/dl/tn_photo/P334567.jpg)
+  *A Neo-Assyrian tablet invoking Nabu, the god of writing and wisdom. (CDLI P334567)*
+
 ## See Also
 
 - [Marduk](Marduk.md) — Nabu's father

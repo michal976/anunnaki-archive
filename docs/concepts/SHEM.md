@@ -47,6 +47,13 @@ In Sitchin's reading, the SHEM was:
 - Operated from launch pads like [Baalbek](../places/Baalbek.md)
 - Guided by navigation beacons like the [Great Pyramid](../places/giza.md)
 
+## Cuneiform Evidence
+
+The term **MU / ŠUMU** (𒈬, "Name / That Which Ascends") appears in Sumerian and Akkadian texts. Sitchin controversially reinterpreted the term as referring to sky vehicles, though mainstream scholarship translates it as "name."
+
+- **[CDLI Corpus: MU](https://cdli.earth/search?q=MU%20%20name)** — Browse tablets containing the Sumerian sign MU
+- **Key tablet:** The Sumerian sign MU appears in thousands of administrative and literary texts. Sitchin's interpretation focuses on contexts where MU appears in connection with ascension or flight, such as the *Tower of Babel* narrative (Genesis 11:4) and descriptions of the *Etana Epic*.
+
 ## See Also
 
 - [Tower Of Babel](tower-of-babel.md) — The Tower of Babel as a launch tower

@@ -53,6 +53,15 @@ The E.DIN was the Anunnaki's base of operations on Earth:
 
 In the biblical account, the Garden of Eden was a specific garden within the region of E.DIN — a planted area where the first humans ([Adamu](Adamu.md) and Eve) lived. Sitchin saw this as the Anunnaki's own compound — a restricted area where humans worked as gardeners and laborers.
 
+## Cuneiform Evidence
+
+The term **E.DIN** (𒂊𒁶, "The Righteous Abode" / "Plain") appears in Sumerian texts as a designation for a fertile plain or valley. It is considered the source of the biblical concept of Eden.
+
+- **[CDLI Corpus: E.DIN](https://cdli.earth/search?q=E.DIN)** — Browse tablets mentioning E.DIN
+- **Key tablet:** The term *E.DIN* appears in Sumerian geographical and literary texts, including the *Enki and the World Order* composition (CDLI P346034), where it describes the fertile plain of Mesopotamia. The Sumerian King List and economic texts also use E.DIN to refer to the region of the first cities.
+- ![E.DIN tablet](https://cdli.earth/dl/tn_photo/P346034.jpg)
+  *Sumerian literary composition referencing the E.DIN region of Mesopotamia. (CDLI P346034)*
+
 ## See Also
 
 - [Adamu](Adamu.md) — The first human in E.DIN

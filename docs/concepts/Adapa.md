@@ -46,6 +46,15 @@ Adapa was the first of the seven *Apkallu* — the "sages" who taught humanity:
 
 Sitchin saw the Apkallu as a team of Anunnaki-appointed human overseers who transmitted knowledge from the gods to humanity.
 
+## Cuneiform Evidence
+
+The name **A.DA.PA** (𒀭𒀀𒁕𒉺, "The Wise") is attested in Sumerian and Akkadian literary texts. The Adapa myth is one of the most significant Mesopotamian narratives concerning human wisdom and the quest for immortality.
+
+- **[CDLI Corpus: A.DA.PA](https://cdli.earth/search?q=A.DA.PA)** — Browse tablets mentioning Adapa
+- **Key tablet:** The *Adapa and the South Wind* epic (CDLI P334592) — A fragmentary tablet from the Amarna archives in Egypt (c. 14th century BCE), also known from copies found at Nineveh. The text describes Adapa's summons before Anu in heaven and his loss of immortality.
+- ![Adapa tablet](https://cdli.earth/dl/tn_photo/P334592.jpg)
+  *Fragmentary Amarna tablet recording the myth of Adapa and the South Wind. (CDLI P334592)*
+
 ## See Also
 
 - [Enki](../characters/Enki.md) — Adapa's father

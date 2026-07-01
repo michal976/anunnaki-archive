@@ -30,6 +30,15 @@ The spaceport was part of a precisely aligned corridor:
 
 The Egyptian name for the Sinai mountains — *Ta-ur* or "the stairway" — preserved the memory of the spaceport's function. The biblical "ladder" in Jacob's dream and the Sumerian [DUR.AN.KI](DUR.AN.KI.md) all referred to the same thing: the connection point between Earth and the heavens.
 
+## Cuneiform Evidence
+
+The Sinai Spaceport is a concept from Sitchin's interpretation, not directly named in cuneiform texts. However, the related Sumerian term **DUR.AN.KI** ("Bond Heaven-Earth") and references to landing places for the gods are attested in the cuneiform record.
+
+- **[CDLI Corpus: DUR.AN.KI](https://cdli.earth/search?q=DUR.AN.KI)** — Browse tablets mentioning the Bond Heaven-Earth
+- **Key tablet:** The *Etana Epic* (CDLI P348833) describes a flight to heaven that Sitchin interpreted as a spacecraft launch. The *Enuma Elish* and various Sumerian cylinder seals depict "celestial boats" that Sitchin read as spacecraft using the Sinai landing corridor.
+- ![Etana tablet](https://cdli.earth/dl/tn_photo/P348833.jpg)
+  *The Etana Epic, describing the king's flight to heaven — interpreted by Sitchin as a spacecraft journey. (CDLI P348833)*
+
 ## See Also
 
 - [Sinai](../places/sinai.md) — The Sinai Peninsula

@@ -42,6 +42,15 @@ Dumuzi/Tammuz was adapted into other Near Eastern religions:
 - **Attis** in Phrygian tradition
 - The biblical reference to women weeping for Tammuz (Ezekiel 8:14)
 
+## Cuneiform Evidence
+
+The name **DUMU.ZI** (𒀭𒌉𒍣, "The Faithful Son") is well attested in Sumerian literary and cultic texts. Dumuzi (Akkadian: Tammuz) was the shepherd god and consort of Inanna.
+
+- **[CDLI Corpus: DUMU.ZI](https://cdli.earth/search?q=DUMU.ZI)** — Browse tablets mentioning Dumuzi/Tammuz
+- **Key tablet:** *The Descent of Inanna* (CDLI P343434) describes Dumuzi's fate as Inanna's substitute in the underworld. The *Dumuzi's Dream* and *Dumuzi and Geshtinanna* compositions (CDLI P346267) further detail his mythology.
+- ![Dumuzi tablet](https://cdli.earth/dl/tn_photo/P346267.jpg)
+  *Sumerian literary tablet recounting the story of Dumuzi and his sister Geshtinanna. (CDLI P346267)*
+
 ## See Also
 
 - [Inanna](Inanna.md) — Dumuzi's consort

@@ -41,6 +41,15 @@ Sitchin identified Ishkur as an Anunnaki who operated weather control systems:
 
 Ishkur's primary temples were at Karkara in southern Mesopotamia and at Aleppo in Syria. His cult was carried by Aramean and Canaanite tribes throughout the Near East.
 
+## Cuneiform Evidence
+
+The name **IŠKUR** (𒀭𒅎, "Storm God") appears in Sumerian god lists and mythological texts. Ishkur (Akkadian: Adad/Hadad) was the god of storms, rain, and thunder.
+
+- **[CDLI Corpus: IŠKUR](https://cdli.earth/search?q=I%C5%A0KUR)** — Browse tablets mentioning Ishkur/Adad
+- **Key tablet:** The *Atra-Hasis* epic and various Sumerian literary texts describe Ishkur as the controller of weather. Weather omens and incantations invoking Adad are attested from the Old Babylonian through Neo-Assyrian periods.
+- ![Ishkur tablet](https://cdli.earth/dl/tn_photo/P346034.jpg)
+  *Sumerian literary tablet referencing Ishkur/Adad among the Anunnaki deities. (CDLI P346034)*
+
 ## See Also
 
 - [Enlil](Enlil.md) — Ishkur's father

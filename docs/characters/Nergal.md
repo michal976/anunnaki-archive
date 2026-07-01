@@ -44,6 +44,15 @@ The story of how Nergal came to rule the underworld is told in the epic *Nergal 
 
 The name *Nergal* may mean "Lord of the Great Dwelling" or "the great man of the house of the dead." He was also known as Erra in Babylonian tradition, where he was associated specifically with plague and destruction.
 
+## Cuneiform Evidence
+
+The name **NE.IRI.GAL** (𒀭𒎏𒄊𒃲, "Lord of the Underworld") is attested in Sumerian and Akkadian god lists and mythological texts. Nergal was the god of war, plague, and the underworld.
+
+- **[CDLI Corpus: NE.IRI.GAL](https://cdli.earth/search?q=NE.IRI.GAL)** — Browse tablets mentioning Nergal
+- **Key tablet:** *Nergal and Ereshkigal* — An Akkadian poem found at Tell el-Amarna (c. 14th century BCE) that describes Nergal's journey to the underworld and his marriage to Ereshkigal. Multiple copies exist, including CDLI P345321 from Sultantepe.
+- ![Nergal and Ereshkigal](https://cdli.earth/dl/tn_photo/P345321.jpg)
+  *Neo-Assyrian tablet of the Nergal and Ereshkigal epic, recounting Nergal's conquest of the underworld. (CDLI P345321)*
+
 ## See Also
 
 - [Ereshkigal](Ereshkigal.md) — Nergal's consort

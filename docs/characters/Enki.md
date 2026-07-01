@@ -58,6 +58,15 @@ Enki's motivation was both practical (providing workers to replace the revolting
 
 Enki's symbol — the entwined serpents (the *caduceus*) — became the universal symbol of medicine and healing. Sitchin argued that the serpent represented the DNA double helix, reflecting Enki's mastery of genetic science.
 
+## Cuneiform Evidence
+
+The name **EN.KI** (𒂗𒆠, "Lord of the Earth") is well attested in Sumerian literary tablets. Enki appears as a central figure in numerous mythological compositions from the Old Babylonian period (c. 2000–1600 BCE).
+
+- **[CDLI Corpus: EN.KI](https://cdli.earth/search?q=EN.KI)** — Browse tablets mentioning Enki
+- **Key tablet:** *Enki and the World Order* (CDLI P346034) — A Sumerian literary composition describing Enki's organization of the world. The tablet (CDLI no. 173) is housed in the Louvre Museum and dates to the Old Babylonian period.
+- ![Enki and the World Order](https://cdli.earth/dl/tn_photo/P346034.jpg)
+  *Tablet of "Enki and the World Order," a Sumerian literary composition recounting Enki's divine decrees that ordered civilization. (CDLI P346034)*
+
 ## See Also
 
 - [Adamu](../concepts/Adamu.md) — The first human created by Enki

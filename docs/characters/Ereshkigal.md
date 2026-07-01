@@ -42,6 +42,15 @@ Sitchin read the Descent of Inanna as a political narrative:
 
 The story of Ereshkigal's marriage to [Nergal](Nergal.md) is told in the epic *Nergal and Ereshkigal*. Nergal was sent to the underworld as an envoy or to pay homage, but he disrespected Ereshkigal and was sentenced to death. He eventually conquered the underworld and became her consort.
 
+## Cuneiform Evidence
+
+The name **EREŠ.KI.GAL** (𒀭𒊩𒆠𒃲, "Lady of the Great Earth") is attested in Sumerian literary texts and god lists. Ereshkigal is best known from the myth of Inanna's descent and the Nergal and Ereshkigal epic.
+
+- **[CDLI Corpus: EREŠ.KI.GAL](https://cdli.earth/search?q=ERE%C5%A0.KI.GAL)** — Browse tablets mentioning Ereshkigal
+- **Key tablet:** *The Descent of Inanna* (CDLI P343434) — This Sumerian poem features Ereshkigal as the queen of the underworld who confronts her sister Inanna. The Nergal and Ereshkigal epic (found at Tell el-Amarna) further develops her role.
+- ![Descent of Inanna tablet](https://cdli.earth/dl/tn_photo/P343434.jpg)
+  *Tablet of the Descent of Inanna, in which Ereshkigal plays the central antagonist role. (CDLI P343434)*
+
 ## See Also
 
 - [Inanna](Inanna.md) — Ereshkigal's sister and rival

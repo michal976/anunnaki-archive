@@ -39,6 +39,15 @@ The myth of the Anzu bird stealing the Tablet of Destinies is particularly signi
 
 Sitchin read this as an attempted coup — a rebellious Anunnaki (Anzu) seized control of the central command computer (the Tablet), and Ninurta was sent to suppress the rebellion and recover the device.
 
+## Cuneiform Evidence
+
+The **Tablet of Destinies** (Sumerian: *DUB.NAM.TAR.RA*; Akkadian: *Ṭuppi Šīmāti*) is referenced in several major Mesopotamian mythological compositions as a divine artifact that confers supreme authority.
+
+- **[CDLI Corpus: Tablet of Destinies](https://cdli.earth/search?q=DUB.NAM.TAR.RA)** — Browse tablets mentioning the Tablet of Destinies
+- **Key tablet:** The *Anzu Myth* (CDLI P345456) describes how the Anzu bird stole the Tablet of Destinies from Enlil, and Ninurta recovered it. The *Enuma Elish* describes Marduk taking the tablet from Kingu after Tiamat's defeat. Both texts present the tablet as the ultimate symbol of divine authority.
+- ![Anzu myth tablet](https://cdli.earth/dl/tn_photo/P345456.jpg)
+  *Tablet of the Anzu myth, describing the theft and recovery of the Tablet of Destinies. (CDLI P345456)*
+
 ## See Also
 
 - [ME](ME.md) — The divine decrees

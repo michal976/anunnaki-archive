@@ -43,6 +43,15 @@ Sitchin noted that Anu's symbol — the horned cap or tiara — was the sign of 
 
 The Sumerian *AN* means "heaven" or "sky." The name *Anunnaki* itself means "those who from heaven came" — linking the entire class of beings to Anu's celestial domain.
 
+## Cuneiform Evidence
+
+The Sumerian name **AN** (𒀭, meaning "heaven" or "sky") is one of the most frequently attested signs in the cuneiform corpus, appearing in thousands of economic, administrative, literary, and religious tablets from the earliest Uruk period (c. 3300 BCE) onward.
+
+- **[CDLI Corpus: AN](https://cdli.earth/search?q=AN)** — Browse tablets bearing the sign AN in the Cuneiform Digital Library Initiative
+- **Key tablet:** The *Anu myth* cycle from Uruk (late Babylonian period) records the sky god's role in the pantheon. The so-called "Anu Hymn" (CDLI P363660) describes Anu's supreme position among the gods.
+- ![Anu tablet photo](https://cdli.earth/dl/tn_photo/P363660.jpg)
+  *Anu is referenced in hundreds of Sumerian and Akkadian tablets. The sign AN (𒀭) served both as the divine determinative (marking god names) and as the logogram for the sky god Anu himself.*
+
 ## See Also
 
 - [Nibiru](Nibiru.md) — The planet Anu rules

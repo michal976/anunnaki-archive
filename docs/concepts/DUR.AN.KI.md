@@ -54,6 +54,15 @@ Sitchin suggested there were different types of DUR.AN.KI:
 - **Launch pads** — For spacecraft takeoff and landing
 - **Control centers** — For managing Earth operations
 
+## Cuneiform Evidence
+
+The term **DUR.AN.KI** (𒁕𒊒𒀭𒆠, "Bond Heaven-Earth") appears in Sumerian temple hymns, building inscriptions, and literary texts as a description of sacred precincts that linked heaven and earth.
+
+- **[CDLI Corpus: DUR.AN.KI](https://cdli.earth/search?q=DUR.AN.KI)** — Browse tablets mentioning DUR.AN.KI
+- **Key tablet:** The *Ekur* temple hymns from Nippur describe the DUR.AN.KI as the bond between heaven and earth, located at Enlil's sanctuary. The *Gudea cylinders* also reference the sacred bond between the divine and earthly realms in temple construction.
+- ![Ekur tablet](https://cdli.earth/dl/tn_photo/P346034.jpg)
+  *Sumerian literary tablet describing the Ekur at Nippur as the DUR.AN.KI, the bond between heaven and earth. (CDLI P346034)*
+
 ## See Also
 
 - [Nippur](../places/Nippur.md) — The site of the primary DUR.AN.KI

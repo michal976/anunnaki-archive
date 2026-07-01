@@ -42,6 +42,15 @@ Nannar's two most famous children had very different fates:
 - **[Utu](Utu.md) (Shamash)** — The sun god, a reliable administrator who controlled the [Sippar](../places/Sippar.md) spaceport
 - **[Inanna](Inanna.md) (Ishtar)** — The goddess of love and war, an ambitious and unpredictable force who often challenged authority
 
+## Cuneiform Evidence
+
+The name **NANNA** (𒀭𒋀𒆠, also written ŠEŠ.KI) is well attested in Sumerian and Akkadian texts. Nanna (Akkadian: Sin) was the moon god and one of the most widely worshipped deities throughout Mesopotamian history.
+
+- **[CDLI Corpus: NANNA](https://cdli.earth/search?q=NANNA)** — Browse tablets mentioning Nanna/Sin
+- **Key tablet:** Numerous economic and religious tablets from Ur, Nanna's primary cult city, document his worship. The *Gudea cylinders* and the *Ur-Nammu code* both invoke Nanna as the patron deity of Ur.
+- ![Nanna tablet](https://cdli.earth/dl/tn_photo/P346038.jpg)
+  *A Sumerian administrative tablet from Ur referencing Nanna, the moon god and patron of the city of Ur. (CDLI P346038)*
+
 ## See Also
 
 - [Enlil](Enlil.md) — Nannar's father

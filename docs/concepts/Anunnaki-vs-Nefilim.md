@@ -51,6 +51,15 @@ The confusion between the two terms arises because:
 3. The Greek translation of the Hebrew Bible (the Septuagint) rendered *Nefilim* as *gigantes* ("giants"), adding another layer of confusion
 4. Modern popular culture has conflated Anunnaki, Nephilim, and "giants" into a single concept
 
+## Cuneiform Evidence
+
+The term **A.NUN.NA.KI** (𒀭𒀀𒉣𒈾𒆠, "Those Who From Heaven to Earth Came") appears in Sumerian and Akkadian texts from the third millennium BCE onward. The Anunnaki were the most powerful deities in the Mesopotamian pantheon.
+
+- **[CDLI Corpus: A.NUN.NA.KI](https://cdli.earth/search?q=A.NUN.NA.KI)** — Browse tablets mentioning the Anunnaki
+- **Key tablet:** The term Anunnaki appears in many major literary compositions, including the *Atra-Hasis* epic (CDLI P346270), the *Enuma Elish* (CDLI P450752), and the *Descent of Inanna* (CDLI P343434). In different periods, the Anunnaki were described as the council of the great gods or as underworld deities.
+- ![Atra-Hasis tablet](https://cdli.earth/dl/tn_photo/P346270.jpg)
+  *Old Babylonian tablet of the Atra-Hasis epic, which describes the Anunnaki hierarchy and the Igigi rebellion. (CDLI P346270)*
+
 ## See Also
 
 - [Anunnaki Vs Nefilim](Anunnaki-vs-Nefilim.md) — This note

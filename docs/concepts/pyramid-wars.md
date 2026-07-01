@@ -45,6 +45,15 @@ Enlil authorized a nuclear strike against Sippar and [Ur](../places/Ur.md) to pr
 
 The wars are called "Pyramid Wars" because Sitchin argued that the pyramids at Giza were part of the spaceport infrastructure. The Great Pyramid served as a navigation beacon, and control over it was strategically vital.
 
+## Cuneiform Evidence
+
+The *Pyramid Wars* as a term is Sitchin's own construct, but the conflicts between the Anunnaki are attested in several Mesopotamian mythological texts that describe divine warfare.
+
+- **[CDLI Corpus: Marduk](https://cdli.earth/search?q=Marduk)** — Browse tablets mentioning Marduk, the central figure of the Pyramid Wars
+- **Key tablet:** The *Enuma Elish* (CDLI P450752) describes Marduk's celestial battle with Tiamat and his rise to supremacy. The *Marduk Prophecy* and *Nabu Prophecy* texts describe the political struggles between gods. The *Lamentation over the Destruction of Ur* (CDLI P348534) documents the destruction that Sitchin linked to the Pyramid Wars.
+- ![Lamentation over Ur](https://cdli.earth/dl/tn_photo/P348534.jpg)
+  *The Lamentation over the Destruction of Ur, describing the cataclysmic events Sitchin linked to the Pyramid Wars. (CDLI P348534)*
+
 ## See Also
 
 - [Nuclear Weapons](../themes/nuclear-weapons.md) — Nuclear weapons

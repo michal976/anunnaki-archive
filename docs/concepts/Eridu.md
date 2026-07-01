@@ -32,6 +32,15 @@ Eridu served as:
 - The distribution point for the ME (divine decrees)
 - A key DUR.AN.KI installation
 
+## Cuneiform Evidence
+
+The name **E.RIDU** (𒂊𒊑𒁺, "The Faraway Home") appears in Sumerian texts as the name of the first city, established according to the Sumerian King List "when kingship descended from heaven."
+
+- **[CDLI Corpus: E.RIDU](https://cdli.earth/search?q=E.RIDU)** — Browse tablets mentioning Eridu
+- **Key tablet:** The *Sumerian King List* (CDLI P384782) begins with Eridu as the first city where kingship was established. The *Enki and the World Order* composition (CDLI P346034) describes Eridu as Enki's city, the center of the Abzu.
+- ![Sumerian King List](https://cdli.earth/dl/tn_photo/P384782.jpg)
+  *The Sumerian King List (Weld-Blundell Prism), which begins with Eridu as the first city. (CDLI P384782)*
+
 ## See Also
 
 - [Eridu](Eridu.md) (in places/) — Full geographical and archaeological details

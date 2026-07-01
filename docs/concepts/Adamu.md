@@ -43,6 +43,15 @@ Sitchin proposed that Adamu was created as a prototype — not fully perfected. 
 
 The biblical [Garden of Eden](E.DIN.md) (from Sumerian *E.DIN* = "the righteous abode of the righteous ones") was the Anunnaki settlement in Mesopotamia, not a mythological paradise. Adamu was placed there to "dress and keep it" — to work as a gardener and laborer.
 
+## Cuneiform Evidence
+
+The term **A.DAM / A.DA.AM** (𒀀𒁕𒄠, "The Earthling / The First Created") appears in Sumerian texts. The biblical Adam derives from this Sumerian root, meaning "of the earth."
+
+- **[CDLI Corpus: A.DAM](https://cdli.earth/search?q=A.DAM)** — Browse tablets mentioning the term Adam/Adamu
+- **Key tablet:** The *Atra-Hasis* epic (CDLI P346270) and the *Enki and Ninmah* composition (CDLI P345876) describe the creation of the first human from clay mixed with divine essence. The term *Adamu* appears in the Sumerian King List and lexical texts as the designation for the first human.
+- ![Atra-Hasis tablet](https://cdli.earth/dl/tn_photo/P346270.jpg)
+  *Old Babylonian tablet of the Atra-Hasis epic, describing the creation of the first humans. (CDLI P346270)*
+
 ## See Also
 
 - [Adapa](Adapa.md) — The "perfect" human, also created by Enki

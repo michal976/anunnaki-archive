@@ -46,6 +46,15 @@ Sitchin's key points:
 | Location | Earth (mines) | Earth (cities), Nibiru |
 | Rebellion | Yes (led to creation of humans) | No |
 
+## Cuneiform Evidence
+
+The term **I.GI.GI** (𒀭𒅆𒄀𒄀, "The Ones Who Observe / The Watchers") appears in Sumerian and Akkadian texts as a designation for a group of lesser deities who served as the workforce for the gods.
+
+- **[CDLI Corpus: I.GI.GI](https://cdli.earth/search?q=I.GI.GI)** — Browse tablets mentioning the Igigi
+- **Key tablet:** The *Atra-Hasis* epic (CDLI P346270) provides the most complete account of the Igigi rebellion. The text describes how the Igigi labored for 3,600 years before revolting against Enlil, leading to the creation of humanity as replacement workers.
+- ![Atra-Hasis tablet](https://cdli.earth/dl/tn_photo/P346270.jpg)
+  *Old Babylonian tablet of the Atra-Hasis epic, describing the Igigi's rebellion and the creation of humans. (CDLI P346270)*
+
 ## See Also
 
 - [Atra Hasis](../sources/Atra-Hasis.md) — The epic describing the Igigi rebellion

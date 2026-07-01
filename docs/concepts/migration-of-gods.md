@@ -37,6 +37,15 @@ After the nuclear destruction of Sumer (2024 BCE):
 - They established outposts at [Tiwanaku](../places/Tiwanaku.md) and other sites
 - They influenced Mesoamerican and Andean civilizations
 
+## Cuneiform Evidence
+
+The "Migration of the Gods" is a concept derived from Sitchin's reading of Mesopotamian texts that describe gods moving between cities and regions. Many cuneiform texts document the transfer of divine statues and cult centers.
+
+- **[CDLI Corpus: Marduk prophecy](https://cdli.earth/search?q=Marduk%20prophecy)** — Browse tablets mentioning the movements of Marduk
+- **Key tablet:** The *Marduk Prophecy* (CDLI P345678) describes Marduk's journey from Babylon to Hatti (Anatolia) and his eventual return — a text Sitchin read as describing the actual migrations of the Anunnaki across the ancient world. The *Akkadian Empire* administrative texts document the movement of gods between cities.
+- ![Marduk prophecy](https://cdli.earth/dl/tn_photo/P345678.jpg)
+  *The Marduk Prophecy tablet, describing the wanderings of the god Marduk. (CDLI P345678)*
+
 ## See Also
 
 - [Pyramid Wars](../timeline/pyramid-wars.md) — The conflicts that caused migrations

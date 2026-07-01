@@ -58,6 +58,15 @@ In the [Epic of Gilgamesh](gilgamesh.md), Utu/Shamash plays a crucial role:
 
 Utu's primary cult center was at [Sippar](../places/Sippar.md) (the Ebabbara temple). Another important temple was at Larsa. His worship in Mesopotamia goes back to the earliest Sumerian periods.
 
+## Cuneiform Evidence
+
+The name **UTU** (𒀭𒌓, "Sun") is among the most frequently attested divine names in the cuneiform record. Utu (Akkadian: Shamash) was the sun god and god of justice.
+
+- **[CDLI Corpus: UTU](https://cdli.earth/search?q=UTU)** — Browse tablets mentioning Utu/Shamash
+- **Key tablet:** The *Code of Hammurabi* (CDLI P464554) — Though primarily associated with Shamash, this famous stele depicts the sun god handing the law code to Hammurabi and is one of the most iconic Mesopotamian artifacts.
+- ![Code of Hammurabi](https://cdli.earth/dl/tn_photo/P464554.jpg)
+  *The Code of Hammurabi stele, topped with a relief of Shamash (Utu) handing the law code to the king. (CDLI P464554)*
+
 ## See Also
 
 - [Nannar](Nannar.md) — Utu's father

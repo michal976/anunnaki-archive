@@ -50,6 +50,15 @@ Inanna's descent to the underworld is one of the most powerful narratives in anc
 5. [Enki](Enki.md) creates two beings who revive Inanna
 6. Inanna must find a replacement — she chooses [Dumuzi](Dumuzi.md), who spends half the year in the underworld
 
+## Cuneiform Evidence
+
+The name **IN.ANNA** (𒀭𒈹, "Lady of Heaven") is one of the most frequently attested divine names in the Sumerian and Akkadian cuneiform corpus. Inanna appears in literary, ritual, and administrative texts spanning more than two thousand years.
+
+- **[CDLI Corpus: IN.ANNA](https://cdli.earth/search?q=IN.ANNA)** — Browse tablets mentioning Inanna/Ishtar
+- **Key tablet:** *The Descent of Inanna* (CDLI P343434) — A Sumerian literary composition recounting Inanna's journey to the underworld. This is one of the most important works of Sumerian literature and a primary source for understanding Inanna's mythological role.
+- ![Descent of Inanna](https://cdli.earth/dl/tn_photo/P343434.jpg)
+  *Tablet preserving the "Descent of Inanna," a Sumerian poem that describes Inanna's journey to the underworld and her confrontation with Ereshkigal. (CDLI P343434)*
+
 ## See Also
 
 - [Uruk](../places/Uruk.md) — Inanna's primary city

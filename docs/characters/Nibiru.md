@@ -55,6 +55,15 @@ Sitchin derived Nibiru's orbital period from the Sumerian [NÉRU](../concepts/ne
 
 Nibiru as described by Sitchin is **not recognized by mainstream astronomy**. The hypothetical "Planet Nine" or "Planet X" proposed by astronomers (Batygin & Brown, 2016) is a different concept — a Neptune-sized planet in a distant 10,000–20,000 year orbit. Sitchin's Nibiru would be detectable if it existed, and its 3,600-year orbit would be gravitationally disruptive.
 
+## Cuneiform Evidence
+
+The term **Nibiru** (Akkadian: *nēberu*, "crossing" or "ford") appears in Babylonian astronomical and astrological texts as a celestial body associated with the god Marduk. The term is used in the Enuma Elish to designate Marduk's celestial station.
+
+- **[CDLI Corpus: Nibiru](https://cdli.earth/search?q=Nibiru)** — Browse tablets mentioning Nibiru in the Cuneiform Digital Library Initiative
+- **Key tablet:** The *Enuma Elish* (Tablet VII, CDLI P450752) describes Nibiru as Marduk's star that "crosses the heavens." Babylonian astronomical diaries and the *Mul-Apin* series also reference Nibiru as a celestial marker.
+- ![Enuma Elish](https://cdli.earth/dl/tn_photo/P450752.jpg)
+  *Tablet of the Enuma Elish, which equates Marduk with the celestial Nibiru. (CDLI P450752)*
+
 ## See Also
 
 - [Twelfth Planet](../sources/twelfth-planet.md) — Sitchin's book introducing Nibiru

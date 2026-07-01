@@ -48,6 +48,15 @@ The NÉRU (3,600 years) is related to the precessional cycle (25,920 years):
 - 1 zodiac age (2,160 years) = 0.6 NÉRU
 - 1 degree of precession (72 years) = 1/50 of a NÉRU
 
+## Cuneiform Evidence
+
+The Sumerian sign **NÉRU** (𒋼𒊒, "3,600" in the sexagesimal system) is attested in Sumerian mathematical, administrative, and chronological texts. It appears in the Sumerian King List as a unit for measuring royal reigns.
+
+- **[CDLI Corpus: NÉRU](https://cdli.earth/search?q=N%C3%89RU)** — Browse tablets mentioning the NÉRU unit
+- **Key tablet:** The *Sumerian King List* (CDLI P384782) records the reigns of antediluvian kings in NÉRU and SAR units, which Sitchin interpreted as reflecting the Nibiru calendar rather than literal Earth years.
+- ![Sumerian King List](https://cdli.earth/dl/tn_photo/P384782.jpg)
+  *The Sumerian King List recording antediluvian reigns in NÉRU units. (CDLI P384782)*
+
 ## See Also
 
 - [Šar](shar.md) — The 36,000-year cycle (10 NÉRU)

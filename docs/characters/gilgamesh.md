@@ -44,6 +44,15 @@ Gilgamesh's journey to find Utnapishtim involved:
 - Crossing the "waters of death" (a restricted area)
 - Arriving at the island of the blessed [Tilmun](../places/Tilmun.md)
 
+## Cuneiform Evidence
+
+The name **Gilgameš** (Sumerian: *Bilgames*) is attested in Sumerian and Akkadian cuneiform texts from the third millennium BCE. The Epic of Gilgamesh is one of the oldest surviving works of world literature.
+
+- **[CDLI Corpus: Gilgamesh](https://cdli.earth/search?q=Gilgamesh)** — Browse tablets mentioning Gilgamesh
+- **Key tablet:** The *Standard Babylonian Epic of Gilgamesh* (CDLI P354853) — A twelve-tablet version from the library of Ashurbanipal at Nineveh (7th century BCE). The epic includes the flood narrative and Gilgamesh's quest for immortality. Older Sumerian tales about Bilgames also survive on tablets from Nippur and Ur.
+- ![Gilgamesh tablet](https://cdli.earth/dl/tn_photo/P354853.jpg)
+  *Neo-Assyrian tablet of the Epic of Gilgamesh from the Library of Ashurbanipal. (CDLI P354853)*
+
 ## See Also
 
 - [Uruk](../places/Uruk.md) — Gilgamesh's city

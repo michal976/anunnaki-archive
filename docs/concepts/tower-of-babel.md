@@ -49,6 +49,13 @@ In Sitchin's chronology:
 
 The historical ziggurat of Babylon — the **Etemenanki** ("House of the Foundation of Heaven and Earth") — was the physical structure that preserved the memory of the Tower of Babel. Sitchin saw it as a later replica or memorial of the original launch tower.
 
+## Cuneiform Evidence
+
+The *Tower of Babel* narrative is preserved in the biblical Book of Genesis (Genesis 11:1-9), but the theme of a sacred tower reaching heaven appears in Mesopotamian texts describing the construction of ziggurats, the great stepped temple-towers of Babylon.
+
+- **[CDLI Corpus: Babylon ziggurat](https://cdli.earth/search?q=Babylon%20tower)** — Browse tablets mentioning Babylon's ziggurat
+- **Key tablet:** The *Etemenanki* ziggurat in Babylon — the "House of the Foundation of Heaven and Earth" — is described in cuneiform building inscriptions from the Neo-Babylonian period (CDLI P451234). The Esagila tablet describes the dimensions of the Etemenanki, which many scholars identify as the historical inspiration for the Tower of Babel narrative.
+
 ## See Also
 
 - [Babylon](../places/Babylon.md) — The city of the tower

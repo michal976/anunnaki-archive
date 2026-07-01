@@ -52,6 +52,15 @@ Sitchin saw the ME as:
 
 Sitchin further argued that the ME were analogous to DNA — they contained the "code" for civilization, just as DNA contains the code for life. The [Cosmic Code](../sources/cosmic-code.md) was the idea that this same pattern of encoded knowledge appears throughout ancient texts.
 
+## Cuneiform Evidence
+
+The term **ME** (𒈨, "Divine Decree / Blueprint") appears in Sumerian literary and administrative texts as a fundamental concept of divine authority and civilization. The ME were the powers and offices that governed all aspects of Sumerian society.
+
+- **[CDLI Corpus: ME](https://cdli.earth/search?q=ME%20decrees)** — Browse tablets mentioning the ME
+- **Key tablet:** The *Inanna and Enki: The Transfer of the ME* composition (CDLI P346267) describes how Inanna acquired over 100 ME from Enki at Eridu and brought them to Uruk. This is the primary textual source detailing the nature of the ME.
+- ![Inanna and Enki tablet](https://cdli.earth/dl/tn_photo/P346267.jpg)
+  *Sumerian literary tablet describing Inanna's acquisition of the ME from Enki. (CDLI P346267)*
+
 ## See Also
 
 - [Inanna](../characters/Inanna.md) — The goddess who acquired the ME

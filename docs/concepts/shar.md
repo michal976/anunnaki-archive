@@ -50,6 +50,15 @@ The relationship between Šar and NÉRU reflects the Sumerian sexagesimal system
 | 1 SOS | 60 years |
 | 1 NEROS | 600 years |
 
+## Cuneiform Evidence
+
+The term **ŠAR** (𒊹, "King / Universe / Totality") appears in Sumerian texts as both a royal title and a numerical unit. In the sexagesimal system, ŠAR represents 3,600, also used for cycles of 36,000 years (10 ŠAR).
+
+- **[CDLI Corpus: ŠAR](https://cdli.earth/search?q=%C5%A0AR)** — Browse tablets mentioning the ŠAR unit
+- **Key tablet:** The *Sumerian King List* (CDLI P384782) and astronomical texts use the ŠAR unit for measuring long periods. Babylonian chronologies preserve the concept of the *šar* as a great cosmic cycle.
+- ![Sumerian King List](https://cdli.earth/dl/tn_photo/P384782.jpg)
+  *The Sumerian King List, which records royal reigns in ŠAR and NÉRU units. (CDLI P384782)*
+
 ## See Also
 
 - [NÉRU](neru.md) — The 3,600-year time unit

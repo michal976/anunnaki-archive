@@ -35,6 +35,15 @@ Sitchin emphasized Gibil's connection to [Enki](Enki.md)'s domain, seeing him as
 
 The name *Gibil* is related to the Sumerian word for "fire" (*gibil*/*gir*). In some lists of gods, Gibil is synonymous with the god Girra or is considered an aspect of Nusku.
 
+## Cuneiform Evidence
+
+The name **GIBIL6** / **BIL.GI** (𒀭𒉋𒄀, "Fire / Purifier") is attested in Sumerian god lists and incantation texts. Gibil (Akkadian: Girra) was the god of fire and metallurgy.
+
+- **[CDLI Corpus: GIBIL6](https://cdli.earth/search?q=GIBIL6)** — Browse tablets mentioning Gibil/Girra
+- **Key tablet:** Gibil appears in the *Enki and the World Order* composition and in various incantation series where he is invoked as a purifier. Fire rituals and metallurgical texts reference Gibil's role as the divine craftsman of the Anunnaki.
+- ![Cuneiform tablet](https://cdli.earth/dl/tn_photo/P346034.jpg)
+  *Sumerian literary tablet referencing Gibil among the divine craftsmen of the Anunnaki. (CDLI P346034)*
+
 ## See Also
 
 - [Enki](Enki.md) — Gibil's father and master

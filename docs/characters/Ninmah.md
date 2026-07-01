@@ -62,6 +62,15 @@ Ninmah's many names reflect her many functions:
 | Aruru | "She who creates" |
 | Belit-ili | "Lady of the Gods" |
 
+## Cuneiform Evidence
+
+The name **NIN.MAH** (𒊩𒌆𒈤, "Exalted Lady") is well attested in Sumerian literary tablets. Ninmah (also known as Ninhursag, Nintur, or Mami) appears in creation mythology as the goddess who assisted Enki in shaping humanity.
+
+- **[CDLI Corpus: NIN.MAH](https://cdli.earth/search?q=NIN.MAH)** — Browse tablets mentioning Ninmah
+- **Key tablet:** *Enki and Ninmah: The Creation of Man* (CDLI P345876) — A Sumerian literary composition in which Enki and Ninmah compete in creating imperfect humans. This tablet is a primary source for the Anunnaki creation narrative.
+- ![Enki and Ninmah](https://cdli.earth/dl/tn_photo/P345876.jpg)
+  *Sumerian tablet recording the myth of Enki and Ninmah, describing the creation of humans and the failed early experiments. (CDLI P345876)*
+
 ## See Also
 
 - [Enki](Enki.md) — Ninmah's collaborator in creation

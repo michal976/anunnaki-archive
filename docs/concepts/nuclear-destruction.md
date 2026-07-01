@@ -58,6 +58,15 @@ After the nuclear event:
 - [Marduk](../characters/Marduk.md) fled to exile, eventually to Egypt and the Americas
 - [Enlil](../characters/Enlil.md)'s authority was diminished
 
+## Cuneiform Evidence
+
+The destruction of Sumerian cities described in Sitchin's narrative as "nuclear" is documented in several Sumerian lamentations preserved on cuneiform tablets.
+
+- **[CDLI Corpus: Ur lamentation](https://cdli.earth/search?q=Ur%20lamentation)** — Browse tablets containing the Lamentation over Ur
+- **Key tablet:** The *Lamentation over the Destruction of Ur* (CDLI P348534) and the *Lamentation over Sumer and Ur* (CDLI P348535) describe an "evil wind" that devastated cities, which Sitchin interpreted as a nuclear event. These tablets date to the Old Babylonian period and document the historical destruction of Ur around 2004 BCE.
+- ![Lamentation over Ur](https://cdli.earth/dl/tn_photo/P348534.jpg)
+  *The Lamentation over the Destruction of Ur, describing the catastrophic destruction of the city. (CDLI P348534)*
+
 ## See Also
 
 - [Nuclear Weapons](../themes/nuclear-weapons.md) — Nuclear weapons (in Témata)

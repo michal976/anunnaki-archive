@@ -42,6 +42,15 @@ Despite his warlike nature, Ninurta was also the god of agriculture. He was cred
 
 Ninurta's primary cult centers were at Lagash (where he was known as Ningirsu) and at [Nippur](../places/Nippur.md).
 
+## Cuneiform Evidence
+
+The name **NIN.URTA** (𒀭𒎏𒄯𒋫, "Lord of the Plow") is attested in Sumerian literary texts from the third millennium BCE. Ninurta was the god of war, hunting, and agriculture.
+
+- **[CDLI Corpus: NIN.URTA](https://cdli.earth/search?q=NIN.URTA)** — Browse tablets mentioning Ninurta
+- **Key tablet:** The *Anzu Myth* (CDLI P345456) — A Sumerian-Akkadian bilingual text in which Ninurta defeats the Anzu bird that stole the Tablet of Destinies. Also, *Lugal-e* (Ninurta's exploits) is a major Sumerian composition describing his battles.
+- ![Anzu tablet](https://cdli.earth/dl/tn_photo/P345456.jpg)
+  *Tablet of the Anzu myth, in which Ninurta recovers the Tablet of Destinies from the monstrous Anzu bird. (CDLI P345456)*
+
 ## See Also
 
 - [Enlil](Enlil.md) — Ninurta's father

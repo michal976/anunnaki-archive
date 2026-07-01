@@ -53,6 +53,15 @@ Sitchin identified Enlil with the biblical **Yahweh** (the "Lord God") in many O
 - The Exodus from Egypt (deliverance of his chosen people)
 - The establishment of the covenant
 
+## Cuneiform Evidence
+
+The name **EN.LÍL** (𒂗𒇸, "Lord of the Wind") appears extensively in Sumerian literary, administrative, and lexical texts from the third millennium BCE onward. Enlil was the chief deity of the Sumerian pantheon before Marduk's rise.
+
+- **[CDLI Corpus: EN.LÍL](https://cdli.earth/search?q=EN.L%C3%8DL)** — Browse tablets mentioning Enlil
+- **Key tablet:** *The Song of the Hoe* (CDLI P345876) — A Sumerian creation myth in which Enlil is described as separating heaven from earth with the hoe. The tablet dates to the Old Babylonian period.
+- ![Song of the Hoe](https://cdli.earth/dl/tn_photo/P345876.jpg)
+  *The "Song of the Hoe" tablet, which describes Enlil's creative acts. (CDLI P345876)*
+
 ## See Also
 
 - [Enki](Enki.md) — Enlil's brother and rival

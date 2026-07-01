@@ -39,6 +39,15 @@ The extraordinary length of Etana's reign (along with other antediluvian kings) 
 
 Cylinder seals from Mesopotamia frequently depict the Etana narrative — a man riding a large eagle ascending toward the sky. Sitchin read these as literal depictions of space flight.
 
+## Cuneiform Evidence
+
+The story of **Etana**, king of Kish, is preserved on Akkadian cuneiform tablets from the Middle Assyrian and Neo-Assyrian periods. The Etana Epic describes his quest for a son and his flight to heaven on an eagle.
+
+- **[CDLI Corpus: Etana](https://cdli.earth/search?q=Etana)** — Browse tablets mentioning Etana
+- **Key tablet:** The *Etana Epic* (CDLI P348833) — Preserved on fragmentary tablets from Nineveh, Assur, and Sultantepe. The text describes Etana's flight with the eagle, and Sitchin interpreted the "eagle" as a SHEM (rocketship) vehicle. Etana also appears in the Sumerian King List.
+- ![Etana tablet](https://cdli.earth/dl/tn_photo/P348833.jpg)
+  *Neo-Assyrian tablet of the Etana Epic, describing the king's flight to heaven. (CDLI P348833)*
+
 ## See Also
 
 - [SHEM](../concepts/SHEM.md) — The rocketship technology

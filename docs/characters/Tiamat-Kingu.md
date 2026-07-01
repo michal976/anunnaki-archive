@@ -63,6 +63,15 @@ The creation of humans from Kingu's blood was, in Sitchin's reading, the use of 
 
 In modern planetary science, the "giant impact hypothesis" proposes that a Mars-sized body called **Theia** collided with the early Earth, and the debris formed the Moon. Sitchin and his followers have noted the parallels between Theia and Tiamat — both are planets destroyed in a collision that shaped the Earth-Moon system.
 
+## Cuneiform Evidence
+
+The name **TI.AMAT** (𒀭𒋾𒊩𒆳, "Sea / Salt Water") appears in the Babylonian creation epic Enuma Elish. Tiamat is the primordial saltwater ocean personified as a dragon-goddess.
+
+- **[CDLI Corpus: TI.AMAT](https://cdli.earth/search?q=TI.AMAT)** — Browse tablets mentioning Tiamat
+- **Key tablet:** The *Enuma Elish* (CDLI P450752) — The Babylonian creation epic in which Marduk defeats Tiamat and creates the world from her body. This is the primary textual source for Tiamat in Mesopotamian literature.
+- ![Enuma Elish](https://cdli.earth/dl/tn_photo/P450752.jpg)
+  *Tablet of the Enuma Elish, which describes Marduk's battle with Tiamat and the creation of the cosmos. (CDLI P450752)*
+
 ## See Also
 
 - [Enuma Elish](../sources/enuma-elish.md) — The epic describing the battle

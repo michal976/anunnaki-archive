@@ -26,12 +26,12 @@ This section collects the physical anomalies, archaeological puzzles, and ancien
 
 | Anomaly | Evidence | Hook |
 |---------|----------|------|
-|| [Baalbek Landing Place](baalbek-landing-place.md) | 1,200-ton stone blocks that no modern crane can lift | Three stones. Each weighing 1,200 tons. We can put a man on the Moon, but we can't lift these. |
-|| Great Pyramid | Empty, no mummy, no inscriptions, water-eroded Sphinx dating to 10,000+ B.C. | The most analyzed building on Earth — and we still don't know who built it or why |
-|| [Tiahuanaco — Baalbek of the New World](tiahuanaco-baalbek-of-the-new-world.md) | 400-ton precision-cut blocks at 12,500 feet, bronze clamps, no developmental phase | The people called themselves Urus — their language has Sumerian roots |
-| Landing Corridor | Ararat → Baalbek → Giza → Sinai aligned in a straight line | A highway for the gods — built across the Middle East |
-| Nazca Lines | Glyphs only visible from the air, a "heliport" landing pad in the desert | Who was flying 2,000 years ago? |
-| Paracas Candelabra | 600-foot trident carved into a hillside, visible from miles at sea | A landing marker for spacecraft |
+||| [Baalbek Landing Place](baalbek-landing-place.md) | 1,200-ton stone blocks that no modern crane can lift | Three stones. Each weighing 1,200 tons. We can put a man on the Moon, but we can't lift these. |
+||| [Sphinx Water Erosion](sphinx-water-erosion.md) | Water erosion proves Sphinx predates Egypt by 7,000+ years | A geologist proved the Sphinx is 9,000 years old — Egyptology ignored him |
+||| [Tiahuanaco — Baalbek of the New World](tiahuanaco-baalbek-of-the-new-world.md) | 400-ton precision-cut blocks at 12,500 feet, bronze clamps, no developmental phase | The people called themselves Urus — their language has Sumerian roots |
+||| [Nazca & Paracas Landing Facility](nazca-paracas-landing-facility.md) | Glyphs only visible from the air, a "heliport" landing pad in the desert | Who was flying 2,000 years ago? |
+||| Paracas Candelabra | 600-foot trident carved into a hillside, visible from miles at sea | A landing marker for spacecraft |
+||| Landing Corridor | Ararat → Baalbek → Giza → Sinai aligned in a straight line | A highway for the gods — built across the Middle East |
 
 ### 🧬 Biological
 
@@ -47,7 +47,7 @@ This section collects the physical anomalies, archaeological puzzles, and ancien
 |---------|----------|------|
 || [Nibiru — The 12th Planet](nibiru-twelfth-planet.md) | Sumerians knew all planets including Neptune and Pluto without telescopes | The Twelfth Planet orbits every 3,600 years — and it's still out there |
 | Enuma Elish | Babylonian creation epic that accurately describes solar system formation | A 3,000-year-old text that describes the asteroid belt, captured moons, and a planet in elliptical orbit |
-| Sumerian King List | 10 kings ruled for 432,000 years before the Flood — the cities are real | The numbers don't make sense for humans — they make perfect sense for beings who age one year per 3,600 Earth years |
+|| [Sumerian King List](sumerian-king-list.md) | 10 kings ruled for 432,000 years before the Flood — the cities are real | The numbers don't make sense for humans — they make perfect sense for beings who age one year per 3,600 Earth years |
 
 ### 🌎 Transcontinental
 

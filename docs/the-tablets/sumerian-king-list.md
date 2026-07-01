@@ -9,7 +9,8 @@ tags: [primary-source, cuneiform, sumerian, king-list, pre-flood, antediluvian]
 **Date:** c. 1820–1760 BCE (Old Babylonian period, reign of Rīm-Sîn of Larsa)
 **Location:** Larsa (modern Tell es-Senereh, Iraq)
 **Current location:** Ashmolean Museum, Oxford
-**CDLI Link:** https://cdli.earth/cdli-tablet/444 (WB 444)
+**CDLI Link:** https://cdli.earth/cdli-tablet/130758 (composite; multiple copies are catalogued separately)
+**CDLI Photo:** [![Sumerian King List CBS 14220 © Penn Museum](https://cdli.earth/dl/tn_photo/P269188.jpg)](https://cdli.earth/P269188)
 
 ## The Tablet
 

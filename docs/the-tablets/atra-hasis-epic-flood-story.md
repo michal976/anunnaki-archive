@@ -10,6 +10,7 @@ tags: [primary-source, cuneiform, akkadian, flood, atra-hasis, genesis-parallels
 **Location:** Sippar (modern Tell Abu Habbah, Iraq), found alongside other tablets in the library of the temple of Shamash
 **Current location:** British Museum, London
 **CDLI Link:** https://cdli.earth/cdli-tablet/130536 (composite; many fragments are catalogued separately)
+**CDLI Photo:** [![Atra-Hasis Fragment MM 818 © Montserrat Museum](https://cdli.earth/dl/tn_photo/P432850.jpg)](https://cdli.earth/P432850)
 
 ## The Tablet
 

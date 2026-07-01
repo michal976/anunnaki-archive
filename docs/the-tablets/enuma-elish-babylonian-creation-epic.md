@@ -10,6 +10,7 @@ tags: [primary-source, cuneiform, akkadian, creation-myth, babylonian]
 **Location:** Library of Ashurbanipal, Nineveh (modern-day Mosul, Iraq)
 **Current location:** British Museum, London
 **CDLI Link:** https://cdli.earth/cdli-tablet/130
+**CDLI Photo:** [![Enuma Elish Tablet I © Ashmolean Museum](https://cdli.earth/dl/tn_photo/P450752.jpg)](https://cdli.earth/cdli-tablet/130)
 
 ## The Tablet
 

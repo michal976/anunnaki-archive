@@ -10,6 +10,7 @@ tags: [primary-source, cuneiform, akkadian, gilgamesh, flood, utnapishtim, genes
 **Location:** Nineveh, Library of Ashurbanipal, Kouyunjik mound (modern Mosul, Iraq)
 **Current location:** British Museum, London
 **CDLI Link:** https://cdli.earth/cdli-tablet/3374 (Tablet XI)
+**CDLI Photo:** [![The Flood Tablet K.3375 © British Museum](https://cdli.earth/dl/photo/P273210.jpg)](https://cdli.earth/postings/187)
 
 ## The Tablet
 

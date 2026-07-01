@@ -1,4 +1,5 @@
 {
-  "buildCommand": "uv pip install mkdocs-material --system && mkdocs build --clean",
+  "installCommand": "uv pip install mkdocs-material --system 2>/dev/null || pip install mkdocs-material --break-system-packages",
+  "buildCommand": "mkdocs build --clean",
   "outputDirectory": "site"
 }

@@ -12,6 +12,7 @@ tags: [primary-source, cuneiform, sumerian, creation, enki, ninmah, lullu, genet
 **Location:** Nippur (modern Nuffar, Iraq) — most copies excavated from the temple library of Enlil at Nippur
 **Current location:** University of Pennsylvania Museum of Archaeology and Anthropology, Philadelphia; and the Louvre, Paris (various fragments)
 **CDLI Link:** https://cdli.earth/cdli-tablet/130092 (composite; multiple fragments are catalogued separately)
+**CDLI Photo:** [![Enki and Ninmah Fragment CBS 02168+ © Penn Museum](https://cdli.earth/dl/tn_photo/P259234.jpg)](https://cdli.earth/artifacts/259234)
 **ETCSL Translation:** https://etcsl.orinst.ox.ac.uk/section1/tr112.htm
 
 ## The Tablet

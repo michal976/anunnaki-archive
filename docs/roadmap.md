@@ -16,6 +16,8 @@ Begin with the primary sources that form the basis of Sitchin's thesis:
 3. [Atra Hasis](sources/Atra-Hasis.md) — The Mesopotamian flood and creation account
 4. [Twelfth Planet](sources/twelfth-planet.md) — Sitchin's foundational work introducing Nibiru
 
+> ✅ Domain DNS verified — anunnakiarchive.com resolves to 216.150.16.129 / 216.150.1.129 (⚠️ **NOT Vercel** — expected 76.76.21.21)
+
 ## Phase 2: Key Characters
 
 Meet the principal actors in the cosmic drama:

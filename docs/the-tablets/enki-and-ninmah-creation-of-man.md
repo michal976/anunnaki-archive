@@ -55,6 +55,10 @@ Sitchin further connected this myth to the Akkadian Atra-Hasis creation scene, w
 
 Mainstream scholars read Enki and Ninmah as a Sumerian aetiological myth — a story explaining (a) why humans exist (to serve the gods), (b) why society has different roles and social hierarchies, and (c) why some people are born with disabilities. The "failed" humans are not failed experiments; they are the myth's way of naturalizing social differentiation — assigning meaning to disability by giving each condition a divinely sanctioned role. Sitchin and scholars agree that the myth centers on the deliberate creation of humans by divine beings. But Sitchin's genetic-engineering reading introduces elements — DNA, hybridization, laboratory protocols — that are entirely absent from the Sumerian text, which knows nothing of genetics in a modern scientific sense. The text uses the language of pottery (clay, shaping, forming) and childbirth (the birth goddess, the womb), not biology. Nonetheless, the myth is genuinely striking in its systematic depiction of a planned, iterative creation process — and it is easy to see why Sitchin, reading through the lens of modern biotechnology, found in it a template for ancient astroengineering.
 
+## See Also
+
+- [Genetic Creation of Homo Sapiens](../evidence/genetic-creation-of-humans.md) — Evidence analysis of the creation of humans
+
 ## Sources
 
 - CDLI composite entry: https://cdli.earth/cdli-tablet/130092

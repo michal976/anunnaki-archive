@@ -19,7 +19,7 @@ async function submitEmail(email) {
     return await res.json();
   } catch (err) {
     // Fallback to mailto if API is not available
-    window.location.href = `mailto:a32675117@gmail.com?subject=Waitlist%20Signup&body=Email:%20${encodeURIComponent(email)}%0A%0APlease%20add%20me%20to%20the%20Anunnaki%20Archive%20waitlist.`;
+    window.location.href = `mailto:michal@placek.one?subject=Waitlist%20Signup&body=Email:%20${encodeURIComponent(email)}%0A%0APlease%20add%20me%20to%20the%20Anunnaki%20Archive%20waitlist.`;
     return { success: true, fallback: true };
   }
 }

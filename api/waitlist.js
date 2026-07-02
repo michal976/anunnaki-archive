@@ -5,7 +5,7 @@
  * For production: connect to Mailchimp, ConvertKit, or SendGrid.
  */
 
-const NOTIFICATION_EMAIL = 'a32675117@gmail.com';
+const NOTIFICATION_EMAIL = 'michal@placek.one';
 const LIST_FILE = '/tmp/waitlist.json';
 
 module.exports = async (req, res) => {

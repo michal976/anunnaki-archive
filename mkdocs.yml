@@ -41,12 +41,12 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/michalplacek/anunnaki-archive
     - icon: fontawesome/solid/envelope
-      link: mailto:a32675117@gmail.com
+      link: mailto:michal@placek.one
   analytics:
     provider: google
     property: G-XXXXXXXXXX
 
-copyright: "Copyright &copy; 2026 The Anunnaki Archive | Contact: a32675117@gmail.com"
+copyright: "Copyright &copy; 2026 The Anunnaki Archive | Contact: michal@placek.one"
 
 plugins:
   - search

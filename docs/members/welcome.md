@@ -35,6 +35,6 @@ Thank you for subscribing. You now have full access to the entire archive — in
 
 ## Need Help?
 
-Contact [a32675117@gmail.com](mailto:a32675117@gmail.com) with any questions.
+Contact [michal@placek.one](mailto:michal@placek.one) with any questions.
 
 *Your subscription supports the ongoing expansion of this archive.*
